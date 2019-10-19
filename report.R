@@ -69,7 +69,7 @@ effort <-
         )
 
 plot_effort_map(effort, ecoregion) + 
-  ggplot2::ggtitle("Average MW Fishing hours 2015-2018")
+  ggplot2::ggtitle("Average MW Fishing hours 2014-2017")
 
 ggplot2::ggsave("2019_NwS_FO_Figure9.png", path = "report", width = 170, height = 200, units = "mm", dpi = 300)
 
@@ -78,11 +78,11 @@ ggplot2::ggsave("2019_NwS_FO_Figure9.png", path = "report", width = 170, height 
 #~~~~~~~~~~~~~~~#
 
 plot_sar_map(sar, ecoregion, what = "surface") + 
-  ggtitle("Average surface swept area ratio 2015-2018")
+  ggtitle("Average surface swept area ratio 2014-2017")
 
 ggplot2::ggsave("2019_NwS_FO_Figure17a.png", path = "report", width = 170, height = 200, units = "mm", dpi = 300)
 
 plot_sar_map(sar, ecoregion, what = "subsurface")+ 
-  ggtitle("Average subsurface swept area ratio 2015-2018")
+  ggtitle("Average subsurface swept area ratio 2014-2017")
 
 ggplot2::ggsave("2019_NwS_FO_Figure17b.png", path = "report", width = 170, height = 200, units = "mm", dpi = 300)
