@@ -2,7 +2,7 @@
 
 taf.library("icesVMS")
 
-vms_effort <- icesVMS::get_effort_map("Norwegian Sea")
+vms_effort <- icesVMS::get_effort_map("Norwegian Sea", year = 2017)
 
 # convert to sf
 vms_effort$wkt <- sf::st_as_sfc(vms_effort$wkt)

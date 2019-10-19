@@ -1,7 +1,7 @@
 
 taf.library("icesVMS")
 
-vms_sar <- icesVMS::get_sar_map("Norwegian Sea")
+vms_sar <- icesVMS::get_sar_map("Norwegian Sea", year = 2017)
 
 # convert to sf
 vms_sar$wkt <- sf::st_as_sfc(vms_sar$wkt)
