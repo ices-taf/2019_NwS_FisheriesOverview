@@ -11,6 +11,17 @@ mkdir("report")
 ##########
 #Load data
 ##########
+catch_dat <- read.taf("data/catch_dat.csv")
+
+trends <- read.taf("model/trends.csv")
+catch_current <- read.taf("model/catch_current.csv")
+catch_trends <- read.taf("model/catch_trends.csv")
+
+#error with number of columns, to check
+clean_status <- read.taf("data/clean_status.csv")
+
+effort_dat <- read.taf("bootstrap/data/ICES_vms_effort_data/vms_effort_data.csv")
+landings_dat <- read.taf("bootstrap/data/ICES_vms_landings_data/vms_landings_data.csv")
 
 
 ices_areas <- 
@@ -42,7 +53,210 @@ sar <- dplyr::select(sar, -WKT)
 plot_ecoregion_map(ecoregion, ices_areas)
 ggplot2::ggsave("2019_NwS_FO_Figure1.png", path = "report", width = 170, height = 200, units = "mm", dpi = 300)
 
+#################################################
+##1: ICES nominal catches and historical catches#
+#################################################
 
+#~~~~~~~~~~~~~~~#
+# By common name
+#~~~~~~~~~~~~~~~#
+#Plot
+plot_catch_trends(catch_dat, type = "COMMON_NAME", line_count = 6, plot_type = "line")
+ggplot2::ggsave("2019_NwS_FO_Figure5.png", path = "report/", width = 170, height = 100.5, units = "mm", dpi = 300)
+
+#data
+dat <- plot_catch_trends(catch_dat, type = "COMMON_NAME", line_count = 7, plot_type = "line", return_data = TRUE)
+write.taf(dat, "2019_NwS_FO_Figure5.csv", dir = "report")
+
+
+#~~~~~~~~~~~~~~~#
+# By country
+#~~~~~~~~~~~~~~~#
+#Plot
+plot_catch_trends(catch_dat, type = "COUNTRY", line_count = 5, plot_type = "area")
+ggplot2::ggsave("2019_NwS_FO_Figure2.png", path = "report/", width = 178, height = 130, units = "mm", dpi = 300)
+
+#data
+dat <- plot_catch_trends(catch_dat, type = "COUNTRY", line_count = 9, plot_type = "area", return_data = TRUE)
+write.taf(dat, file= "2019_NwS_FO_Figure2.csv", dir = "report")
+
+#~~~~~~~~~~~~~~~#
+# By guild
+#~~~~~~~~~~~~~~~#
+
+#Plot
+plot_catch_trends(catch_dat, type = "GUILD", line_count = 5, plot_type = "line")
+# Undefined is too big, will try to assign guild to the biggest ones
+
+check <- catch_dat %>% filter (GUILD == "undefined")
+unique(check$COMMON_NAME)
+# catch_dat$GUILD[which(catch_dat$COMMON_NAME == "Polar cod")] <- "Demersal"
+# Redfishes of Sebastes spp attributed to pelagic
+catch_dat$GUILD[which(catch_dat$COMMON_NAME == "Atlantic redfishes nei")] <- "Pelagic"
+
+plot_catch_trends(catch_dat, type = "GUILD", line_count = 3, plot_type = "line")
+ggplot2::ggsave("2019_NwS_FO_Figure4.png", path = "report/", width = 178, height = 130, units = "mm", dpi = 300)
+
+#data
+dat <- plot_catch_trends(catch_dat, type = "GUILD", line_count = 3, plot_type = "line", return_data = TRUE)
+write.taf(dat, file= "2019_NwS_FO_Figure4.csv", dir = "report")
+
+###########
+## 2: SAG #
+###########
+
+#~~~~~~~~~~~~~~~#
+# A. Trends by guild
+#~~~~~~~~~~~~~~~#
+unique(trends$FisheriesGuild)
+
+# 1. Demersal
+#~~~~~~~~~~~
+plot_stock_trends(trends, guild="demersal", cap_year = 2019, cap_month = "October", return_data = FALSE)
+ggplot2::ggsave("2019_NwS_FO_Figure12b.png", path = "report/", width = 178, height = 130, units = "mm", dpi = 300)
+
+dat <- plot_stock_trends(trends, guild="demersal", cap_year = 2019, cap_month = "October", return_data = TRUE)
+write.taf(dat, file ="2019_NwS_FO_Figure12b.csv", dir = "report")
+
+# 2. Pelagic
+#~~~~~~~~~~~
+plot_stock_trends(trends, guild="pelagic", cap_year = 2019, cap_month = "October", return_data = FALSE)
+ggplot2::ggsave("2019_NwS_FO_Figure12c.png", path = "report/", width = 178, height = 130, units = "mm", dpi = 300)
+
+dat <- plot_stock_trends(trends, guild="pelagic", cap_year = 2019, cap_month = "October", return_data = TRUE)
+write.taf(dat,file ="2019_NwS_FO_Figure12c.csv", dir = "report")
+
+
+#~~~~~~~~~~~~~~~#
+# B.Current catches
+#~~~~~~~~~~~~~~~#
+## Bar plots are not in order, check!!
+
+
+# 1. Demersal
+#~~~~~~~~~~~
+bar <- plot_CLD_bar(catch_current, guild = "demersal", caption = T, cap_year = 2019, cap_month = "October", return_data = FALSE)
+
+bar_dat <- plot_CLD_bar(catch_current, guild = "demersal", caption = T, cap_year = 2019, cap_month = "October", return_data = TRUE)
+write.taf(bar_dat, file ="2019_NwS_FO_Figure13_demersal.csv", dir = "report" )
+
+kobe <- plot_kobe(catch_current, guild = "demersal", caption = T, cap_year = 2019, cap_month = "October", return_data = FALSE)
+#kobe_dat is just like bar_dat with one less variable
+#kobe_dat <- plot_kobe(catch_current, guild = "Demersal", caption = T, cap_year = 2019, cap_month = "October", return_data = TRUE)
+
+png("report/2019_NwS_FO_Figure13_demersal.png",
+    width = 131.32,
+    height = 88.9,
+    units = "mm",
+    res = 300)
+p1_plot<-gridExtra::grid.arrange(kobe,
+                                 bar, ncol = 2,
+                                 respect = TRUE, top = "demersal")
+dev.off()
+
+# 2. Pelagic
+#~~~~~~~~~~~
+bar <- plot_CLD_bar(catch_current, guild = "pelagic", caption = T, cap_year = 2019, cap_month = "October", return_data = FALSE)
+
+bar_dat <- plot_CLD_bar(catch_current, guild = "pelagic", caption = T, cap_year = 2019, cap_month = "October", return_data = TRUE)
+write.taf(bar_dat, file ="2019_NwS_FO_Figure13_pelagic.csv", dir = "report")
+
+kobe <- plot_kobe(catch_current, guild = "pelagic", caption = T, cap_year = 2019, cap_month = "October", return_data = FALSE)
+png("report/2019_NwS_FO_Figure13_pelagic.png",
+    width = 131.32,
+    height = 88.9,
+    units = "mm",
+    res = 300)
+p1_plot<-gridExtra::grid.arrange(kobe,
+                                 bar, ncol = 2,
+                                 respect = TRUE, top = "pelagic")
+dev.off()
+
+
+# 3. All
+#~~~~~~~~~~~
+bar <- plot_CLD_bar(catch_current, guild = "All", caption = T, cap_year = 2019, cap_month = "October", return_data = FALSE)
+
+bar_dat <- plot_CLD_bar(catch_current, guild = "All", caption = T, cap_year = 2019, cap_month = "October", return_data = TRUE)
+write.taf(bar_dat, file ="2019_NwS_FO_Figure13_All.csv", dir = "report" )
+
+kobe <- plot_kobe(catch_current, guild = "All", caption = T, cap_year = 2019, cap_month = "October", return_data = FALSE)
+png("report/019_NwS_FO_Figure13_All.png",
+    width = 137.32,
+    height = 88.9,
+    units = "mm",
+    res = 300)
+p1_plot<-gridExtra::grid.arrange(kobe,
+                                 bar, ncol = 2,
+                                 respect = TRUE, top = "All stocks")
+dev.off()
+
+
+#~~~~~~~~~~~~~~~#
+# C. Discards
+#~~~~~~~~~~~~~~~#
+discardsA <- plot_discard_trends(catch_trends, 2019, cap_year = 2019, cap_month = "October")
+
+# Most discards are of spurdog, which was not assessed in 2019,
+# will plot only elasmobranchs up to 2018
+
+catch_trends2 <- catch_trends %>% filter(FisheriesGuild == "elasmobranch")
+discardsA <- plot_discard_trends(catch_trends2, 2019, cap_year = 2019, cap_month = "October")
+
+dat <- plot_discard_trends(catch_trends2, 2019, cap_year = 2019, cap_month = "October", return_data = TRUE)
+write.taf(dat, file ="2019_NwS_FO_Figure7_trends.csv", dir = "report" )
+
+discardsB <- plot_discard_current(catch_trends, 2019, cap_year = 2019, cap_month = "October")
+# nothing comes out here, because no spurdog assessment
+
+dat <- discardsB <- plot_discard_current(catch_trends, 2019, cap_year = 2019, cap_month = "October", return_data = TRUE)
+write.taf(dat, file ="2019_NwS_FO_Figure7_current.csv", dir = "report" )
+
+png("report/019_NwS_FO_Figure7.png",
+    width = 137.32,
+    height = 88.9,
+    units = "mm",
+    res = 300)
+p1_plot<-gridExtra::grid.arrange(discardsA,
+                                 discardsB, ncol = 2,
+                                 respect = TRUE)
+dev.off()
+
+#~~~~~~~~~~~~~~~#
+#D. ICES pies
+#~~~~~~~~~~~~~~~#
+
+plot_status_prop_pies(clean_status, "October", "2019")
+ggplot2::ggsave("2019_NwS_FO_Figure10.png", path = "report/", width = 178, height = 178, units = "mm", dpi = 300)
+
+dat <- plot_status_prop_pies(clean_status, "October", "2019", return_data = TRUE)
+write.taf(dat, file= "2019_NwS_FO_Figure10.csv", dir = "report")
+
+#~~~~~~~~~~~~~~~#
+#E. GES pies
+#~~~~~~~~~~~~~~~#
+
+        
+        #Need to change order and fix numbers
+        plot_GES_pies(clean_status, catch_current, "October", "2019")
+        ggplot2::ggsave("2019_NwS_FO_Figure11.png", path = "report/", width = 178, height = 178, units = "mm", dpi = 300)
+        
+        dat <- plot_GES_pies(clean_status, catch_current, "October", "2019", return_data = TRUE)
+        write.taf(dat, file= "2019_NwS_FO_Figure11.csv", dir = "report")
+        
+        #~~~~~~~~~~~~~~~#
+        #F. ANNEX TABLE 
+        #~~~~~~~~~~~~~~~#
+        doc <- format_annex_table(clean_status, 2019, return_data = FALSE)
+        #can´t find the path
+        grey.path <- system.file("symbols", "grey_q.png", package = "icesFO")
+        red.path <- system.file("symbols", "red_cross.png", package = "icesFO")
+        green.path <- system.file("symbols", "green_check.png", package = "icesFO")
+        doc <- format_annex_table(clean_status, 2019, return_data = FALSE)
+        print(doc, target = "report/2019_NwS_FO_annex_table.docx")
+        
+        # dat <- format_annex_table(clean_status, 2019, return_data = TRUE)
+        
 
 
 
@@ -74,7 +288,7 @@ plot_effort_map(effort, ecoregion) +
 ggplot2::ggsave("2019_NwS_FO_Figure9.png", path = "report", width = 170, height = 200, units = "mm", dpi = 300)
 
 #~~~~~~~~~~~~~~~#
-# A. Swept area map
+# B. Swept area map
 #~~~~~~~~~~~~~~~#
 
 plot_sar_map(sar, ecoregion, what = "surface") + 
@@ -86,3 +300,13 @@ plot_sar_map(sar, ecoregion, what = "subsurface")+
   ggtitle("Average subsurface swept area ratio 2014-2017")
 
 ggplot2::ggsave("2019_NwS_FO_Figure17b.png", path = "report", width = 170, height = 200, units = "mm", dpi = 300)
+
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+# C. Effort and landings plots
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+
+plot_vms(effort_dat, metric = "country", type = "effort", cap_year= 2019, cap_month= "October", line_count= 6)
+ggplot2::ggsave("2019_NwS_FO_Figure3.png", path = "report/", width = 178, height = 130, units = "mm", dpi = 300)
+
+plot_vms(landings_dat, metric = "gear_category", type = "landings", cap_year= 2019, cap_month= "October", line_count= 5)
+ggplot2::ggsave("2019_NwS_FO_Figure6.png", path = "report/", width = 178, height = 130, units = "mm", dpi = 300)
