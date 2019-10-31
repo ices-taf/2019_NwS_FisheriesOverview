@@ -16,8 +16,10 @@ clean_sag$MSYBtrigger[which(clean_sag$StockKeyLabel == "cap.27.1-2")] <- "2e+05"
 
 clean_sag <- read.taf("data/clean_sag.csv")
 trends <- stock_trends(clean_sag)
+guild <- guild_trends(clean_sag)
 
 write.taf(trends, dir = "model")
+write.taf(guild, dir = "model")
 
 #B.Trends and current catches, landings and discards
 

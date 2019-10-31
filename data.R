@@ -21,16 +21,16 @@ catch_dat <-
     hist, official, prelim, species_list, sid)
 
 
-out <-unique(grep("erring", catch_dat$COMMON_NAME, value = TRUE))
-#[1] "Pacific herring"  "Atlantic herring"
-out2<-unique(grep("ackerel", catch_dat$COMMON_NAME, value = TRUE))
-out3<-unique(grep("lue whiting", catch_dat$COMMON_NAME, value = TRUE))
-out <- append(out, out2)
-out <- append(out, out3)
+# out <-unique(grep("erring", catch_dat$COMMON_NAME, value = TRUE))
+# #[1] "Pacific herring"  "Atlantic herring"
+# out2<-unique(grep("ackerel", catch_dat$COMMON_NAME, value = TRUE))
+# out3<-unique(grep("lue whiting", catch_dat$COMMON_NAME, value = TRUE))
+# out <- append(out, out2)
+# out <- append(out, out3)
 
-library(operators)
-catch_dat <- dplyr::filter(catch_dat, COMMON_NAME %!in% out)
-detach("package:operators", unload=TRUE)
+# library(operators)
+# catch_dat <- dplyr::filter(catch_dat, COMMON_NAME %!in% out)
+# detach("package:operators", unload=TRUE)
 
 
 write.taf(catch_dat, dir = "data", quote = TRUE)
@@ -50,7 +50,7 @@ Norwegian_stockList <- c("aru.27.123a4",
                          "cap.27.2a514",
                          "cod.27.1-2",
                          "cod.27.1-2coast",
-                         "dgs-nea",
+                         "dgs.27.nea",
                          "gfb.27.nea",
                          "ghl.27.1-2",
                          "had.27.1-2",

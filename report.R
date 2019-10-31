@@ -61,7 +61,7 @@ ggplot2::ggsave("2019_NwS_FO_Figure1.png", path = "report", width = 170, height 
 # By common name
 #~~~~~~~~~~~~~~~#
 #Plot
-plot_catch_trends(catch_dat, type = "COMMON_NAME", line_count = 6, plot_type = "line")
+plot_catch_trends(catch_dat, type = "COMMON_NAME", line_count = 7, plot_type = "line")
 ggplot2::ggsave("2019_NwS_FO_Figure5.png", path = "report/", width = 170, height = 100.5, units = "mm", dpi = 300)
 
 #data
@@ -85,17 +85,17 @@ write.taf(dat, file= "2019_NwS_FO_Figure2.csv", dir = "report")
 #~~~~~~~~~~~~~~~#
 
 #Plot
-plot_catch_trends(catch_dat, type = "GUILD", line_count = 5, plot_type = "line")
+plot_catch_trends(catch_dat, type = "GUILD", line_count = 6, plot_type = "line")
 # Undefined is too big, will try to assign guild to the biggest ones
 
-check <- catch_dat %>% filter (GUILD == "undefined")
-unique(check$COMMON_NAME)
+# check <- catch_dat %>% filter (GUILD == "undefined")
+# unique(check$COMMON_NAME)
 # catch_dat$GUILD[which(catch_dat$COMMON_NAME == "Polar cod")] <- "Demersal"
 # Redfishes of Sebastes spp attributed to pelagic
 catch_dat$GUILD[which(catch_dat$COMMON_NAME == "Atlantic redfishes nei")] <- "Pelagic"
 
-plot_catch_trends(catch_dat, type = "GUILD", line_count = 3, plot_type = "line")
-ggplot2::ggsave("2019_NwS_FO_Figure4.png", path = "report/", width = 178, height = 130, units = "mm", dpi = 300)
+plot_catch_trends(catch_dat, type = "GUILD", line_count = 6, plot_type = "line")
+ggplot2::ggsave("2019_NwS_FO_Figure4bis.png", path = "report/", width = 178, height = 130, units = "mm", dpi = 300)
 
 #data
 dat <- plot_catch_trends(catch_dat, type = "GUILD", line_count = 3, plot_type = "line", return_data = TRUE)
@@ -125,6 +125,18 @@ ggplot2::ggsave("2019_NwS_FO_Figure12c.png", path = "report/", width = 178, heig
 
 dat <- plot_stock_trends(trends, guild="pelagic", cap_year = 2019, cap_month = "October", return_data = TRUE)
 write.taf(dat,file ="2019_NwS_FO_Figure12c.csv", dir = "report")
+
+
+#~~~~~~~~~~~~~~~~~~~~~~~~~#
+# Ecosystem Overviews plot
+#~~~~~~~~~~~~~~~~~~~~~~~~~#
+guild <- read.taf("model/guild.csv")
+
+plot_guild_trends(guild, cap_year = 2019, cap_month = "October",return_data = FALSE )
+ggplot2::ggsave("2019_NwS_EO_GuildTrends.png", path = "report/", width = 178, height = 130, units = "mm", dpi = 300)
+
+dat <- plot_guild_trends(guild, cap_year = 2019, cap_month = "October",return_data = TRUE)
+write.taf(dat, file ="2019_NwS_EO_GuildTrends.csv", dir = "report" )
 
 
 #~~~~~~~~~~~~~~~#
@@ -227,6 +239,15 @@ dev.off()
 #~~~~~~~~~~~~~~~#
 
 plot_status_prop_pies(clean_status, "October", "2019")
+
+unique(clean_status$StockSize)
+clean_status$StockSize <- gsub("qual_RED", "RED", clean_status$StockSize)
+
+unique(clean_status$FishingPressure)
+clean_status$FishingPressure <- gsub("qual_GREEN", "GREEN", clean_status$FishingPressure)
+
+plot_status_prop_pies(clean_status, "October", "2019")
+
 ggplot2::ggsave("2019_NwS_FO_Figure10.png", path = "report/", width = 178, height = 178, units = "mm", dpi = 300)
 
 dat <- plot_status_prop_pies(clean_status, "October", "2019", return_data = TRUE)
@@ -252,8 +273,9 @@ write.taf(dat, file= "2019_NwS_FO_Figure10.csv", dir = "report")
         grey.path <- system.file("symbols", "grey_q.png", package = "icesFO")
         red.path <- system.file("symbols", "red_cross.png", package = "icesFO")
         green.path <- system.file("symbols", "green_check.png", package = "icesFO")
-        doc <- format_annex_table(clean_status, 2019, return_data = FALSE)
-        print(doc, target = "report/2019_NwS_FO_annex_table.docx")
+        doc <- format_annex_table(clean_status, 2019, return_data = TRUE)
+        write.csv(doc, file = "report/2019_NwS_FO_annex_table.csv")
+        # print(doc, target = "report/2019_NwS_FO_annex_table.docx")
         
         # dat <- format_annex_table(clean_status, 2019, return_data = TRUE)
         
@@ -305,8 +327,56 @@ ggplot2::ggsave("2019_NwS_FO_Figure17b.png", path = "report", width = 170, heigh
 # C. Effort and landings plots
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 
+## Effort by country
+plot_vms(effort_dat, metric = "country", type = "effort", cap_year= 2019, cap_month= "October", line_count= 6)
+effort_dat$kw_fishing_hours <- effort_dat$kw_fishing_hours/1000
+effort_dat <- effort_dat %>% dplyr::mutate(country = dplyr::recode(country,
+                                                                   NO = "Norway",
+                                                                   EST = "Estonia",
+                                                                   GBR = "United Kingdom",
+                                                                   DEU = "Germany",
+                                                                   FRA = "France",
+                                                                   ICE = "Iceland"))
 plot_vms(effort_dat, metric = "country", type = "effort", cap_year= 2019, cap_month= "October", line_count= 6)
 ggplot2::ggsave("2019_NwS_FO_Figure3.png", path = "report/", width = 178, height = 130, units = "mm", dpi = 300)
 
-plot_vms(landings_dat, metric = "gear_category", type = "landings", cap_year= 2019, cap_month= "October", line_count= 5)
+dat <- plot_vms(effort_dat, metric = "country", type = "effort", cap_year= 2019, cap_month= "October", line_count= 6, return_data = TRUE)
+write.taf(dat, file= "2019_NwS_FO_Figure3.csv", dir = "report")
+
+## Landings by gear
+plot_vms(landings_dat, metric = "gear_category", type = "landings", cap_year= 2019, cap_month= "October", line_count= 4)
+landings_dat$totweight <- landings_dat$totweight/1000000
+landings_dat <- landings_dat %>% dplyr::mutate(gear_category = 
+                                                       dplyr::recode(gear_category,
+                                                                     Static = "Static gears",
+                                                                     Midwater = "Pelagic trawls and seines",
+                                                                     Otter = "Bottom otter trawls",
+                                                                     `Demersal seine` = "Bottom seines",
+                                                                     Dredge = "Dredges",
+                                                                     Beam = "Beam trawls",
+                                                                     'NA' = "Undefined"))
+
+plot_vms(landings_dat, metric = "gear_category", type = "landings", cap_year= 2019, cap_month= "October", line_count= 4)
+# some crazy error in the database with a NA country with lost of landings in 2018:
 ggplot2::ggsave("2019_NwS_FO_Figure6.png", path = "report/", width = 178, height = 130, units = "mm", dpi = 300)
+
+dat <- plot_vms(landings_dat, metric = "gear_category", type = "landings", cap_year= 2019, cap_month= "October", line_count= 4, return_data = TRUE)
+write.taf(dat, file= "2019_NwS_FO_Figure6.csv", dir = "report")
+
+## Effort by gear
+plot_vms(effort_dat, metric = "gear_category", type = "effort", cap_year= 2019, cap_month= "October", line_count= 6)
+effort_dat <- effort_dat %>% dplyr::mutate(gear_category = 
+                                                   dplyr::recode(gear_category,
+                                                                 Static = "Static gears",
+                                                                 Midwater = "Pelagic trawls and seines",
+                                                                 Otter = "Bottom otter trawls",
+                                                                 `Demersal seine` = "Bottom seines",
+                                                                 Dredge = "Dredges",
+                                                                 Beam = "Beam trawls",
+                                                                 'NA' = "Undefined"))
+
+plot_vms(effort_dat, metric = "gear_category", type = "effort", cap_year= 2019, cap_month= "October", line_count= 6)
+ggplot2::ggsave("2019_NwS_FO_Figure8.png", path = "report/", width = 178, height = 130, units = "mm", dpi = 300)
+
+dat <-plot_vms(effort_dat, metric = "gear_category", type = "effort", cap_year= 2019, cap_month= "October", line_count= 6, return_data = TRUE)
+write.taf(dat, file= "2019_NwS_FO_Figure8.csv", dir = "report")
