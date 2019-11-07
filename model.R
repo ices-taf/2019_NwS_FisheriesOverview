@@ -26,6 +26,8 @@ write.taf(guild, dir = "model")
 
 catch_trends <- CLD_trends(clean_sag)
 catch_current <- stockstatus_CLD_current(clean_sag)
+catch_current$Status[which(catch_current$StockKeyLabel == "usk.27.1-2")] <- "GREEN"
+
 
 write.taf(catch_trends, dir = "model")
 write.taf(catch_current, dir = "model")

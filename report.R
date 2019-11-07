@@ -126,6 +126,17 @@ ggplot2::ggsave("2019_NwS_FO_Figure12c.png", path = "report/", width = 178, heig
 dat <- plot_stock_trends(trends, guild="pelagic", cap_year = 2019, cap_month = "October", return_data = TRUE)
 write.taf(dat,file ="2019_NwS_FO_Figure12c.csv", dir = "report")
 
+# 3. Elasmobranchs
+#~~~~~~~~~~~
+plot_stock_trends(trends, guild="elasmobranch", cap_year = 2019, cap_month = "October", return_data = FALSE)
+ggplot2::ggsave("2019_NwS_FO_Figure12d.png", path = "report/", width = 178, height = 130, units = "mm", dpi = 300)
+trends2 <- trends %>% filter(Year > 1980)
+plot_stock_trends(trends2, guild="elasmobranch", cap_year = 2019, cap_month = "October", return_data = FALSE)
+ggplot2::ggsave("2019_NwS_FO_Figure12d_from1980.png", path = "report/", width = 178, height = 130, units = "mm", dpi = 300)
+
+dat <- plot_stock_trends(trends, guild="elasmobranch", cap_year = 2019, cap_month = "October", return_data = TRUE)
+write.taf(dat,file ="2019_NwS_FO_Figure12d.csv", dir = "report")
+
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~#
 # Ecosystem Overviews plot
@@ -174,6 +185,8 @@ bar_dat <- plot_CLD_bar(catch_current, guild = "pelagic", caption = T, cap_year 
 write.taf(bar_dat, file ="2019_NwS_FO_Figure13_pelagic.csv", dir = "report")
 
 kobe <- plot_kobe(catch_current, guild = "pelagic", caption = T, cap_year = 2019, cap_month = "October", return_data = FALSE)
+catch_current <- unique(catch_current)
+kobe <- plot_kobe(catch_current, guild = "pelagic", caption = T, cap_year = 2019, cap_month = "October", return_data = FALSE)
 png("report/2019_NwS_FO_Figure13_pelagic.png",
     width = 131.32,
     height = 88.9,
@@ -219,12 +232,13 @@ dat <- plot_discard_trends(catch_trends2, 2019, cap_year = 2019, cap_month = "Oc
 write.taf(dat, file ="2019_NwS_FO_Figure7_trends.csv", dir = "report" )
 
 discardsB <- plot_discard_current(catch_trends, 2019, cap_year = 2019, cap_month = "October")
-# nothing comes out here, because no spurdog assessment
+catch_trends2 <- catch_trends %>% filter(FisheriesGuild != "elasmobranch")
+discardsB <- plot_discard_current(catch_trends2, 2019, cap_year = 2019, cap_month = "October")
 
-dat <- discardsB <- plot_discard_current(catch_trends, 2019, cap_year = 2019, cap_month = "October", return_data = TRUE)
+dat <- plot_discard_current(catch_trends, 2019, cap_year = 2019, cap_month = "October", return_data = TRUE)
 write.taf(dat, file ="2019_NwS_FO_Figure7_current.csv", dir = "report" )
 
-png("report/019_NwS_FO_Figure7.png",
+png("report/2019_NwS_FO_Figure7.png",
     width = 137.32,
     height = 88.9,
     units = "mm",
@@ -241,12 +255,12 @@ dev.off()
 plot_status_prop_pies(clean_status, "October", "2019")
 
 unique(clean_status$StockSize)
-clean_status$StockSize <- gsub("qual_RED", "RED", clean_status$StockSize)
+# clean_status$StockSize <- gsub("qual_RED", "RED", clean_status$StockSize)
 
 unique(clean_status$FishingPressure)
-clean_status$FishingPressure <- gsub("qual_GREEN", "GREEN", clean_status$FishingPressure)
+# clean_status$FishingPressure <- gsub("qual_GREEN", "GREEN", clean_status$FishingPressure)
 
-plot_status_prop_pies(clean_status, "October", "2019")
+# plot_status_prop_pies(clean_status, "October", "2019")
 
 ggplot2::ggsave("2019_NwS_FO_Figure10.png", path = "report/", width = 178, height = 178, units = "mm", dpi = 300)
 
@@ -274,7 +288,7 @@ write.taf(dat, file= "2019_NwS_FO_Figure10.csv", dir = "report")
         red.path <- system.file("symbols", "red_cross.png", package = "icesFO")
         green.path <- system.file("symbols", "green_check.png", package = "icesFO")
         doc <- format_annex_table(clean_status, 2019, return_data = TRUE)
-        write.csv(doc, file = "report/2019_NwS_FO_annex_table.csv")
+        write.taf(doc, file = "report/2019_NwS_FO_annex_table.csv", dir = "report")
         # print(doc, target = "report/2019_NwS_FO_annex_table.docx")
         
         # dat <- format_annex_table(clean_status, 2019, return_data = TRUE)
@@ -332,11 +346,13 @@ plot_vms(effort_dat, metric = "country", type = "effort", cap_year= 2019, cap_mo
 effort_dat$kw_fishing_hours <- effort_dat$kw_fishing_hours/1000
 effort_dat <- effort_dat %>% dplyr::mutate(country = dplyr::recode(country,
                                                                    NO = "Norway",
-                                                                   EST = "Estonia",
+                                                                   ESP = "Spain",
                                                                    GBR = "United Kingdom",
                                                                    DEU = "Germany",
                                                                    FRA = "France",
-                                                                   ICE = "Iceland"))
+                                                                   LTU = "Lithuania",
+                                                                   NLD= "Netherlands",
+                                                                   DNK = "Denmark"))
 plot_vms(effort_dat, metric = "country", type = "effort", cap_year= 2019, cap_month= "October", line_count= 6)
 ggplot2::ggsave("2019_NwS_FO_Figure3.png", path = "report/", width = 178, height = 130, units = "mm", dpi = 300)
 
@@ -357,7 +373,8 @@ landings_dat <- landings_dat %>% dplyr::mutate(gear_category =
                                                                      'NA' = "Undefined"))
 
 plot_vms(landings_dat, metric = "gear_category", type = "landings", cap_year= 2019, cap_month= "October", line_count= 4)
-# some crazy error in the database with a NA country with lost of landings in 2018:
+landings_dat2 <- landings_dat %>% filter(year < 2018)
+plot_vms(landings_dat2, metric = "gear_category", type = "landings", cap_year= 2019, cap_month= "October", line_count= 4)
 ggplot2::ggsave("2019_NwS_FO_Figure6.png", path = "report/", width = 178, height = 130, units = "mm", dpi = 300)
 
 dat <- plot_vms(landings_dat, metric = "gear_category", type = "landings", cap_year= 2019, cap_month= "October", line_count= 4, return_data = TRUE)
@@ -375,7 +392,9 @@ effort_dat <- effort_dat %>% dplyr::mutate(gear_category =
                                                                  Beam = "Beam trawls",
                                                                  'NA' = "Undefined"))
 
-plot_vms(effort_dat, metric = "gear_category", type = "effort", cap_year= 2019, cap_month= "October", line_count= 6)
+effort_dat2 <- effort_dat %>% filter(year < 2018)
+plot_vms(effort_dat2, metric = "gear_category", type = "effort", cap_year= 2019, cap_month= "October", line_count= 6)
+
 ggplot2::ggsave("2019_NwS_FO_Figure8.png", path = "report/", width = 178, height = 130, units = "mm", dpi = 300)
 
 dat <-plot_vms(effort_dat, metric = "gear_category", type = "effort", cap_year= 2019, cap_month= "October", line_count= 6, return_data = TRUE)

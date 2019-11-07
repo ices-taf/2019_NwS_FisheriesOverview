@@ -40,8 +40,8 @@ sag_sum <- read.taf("bootstrap/data/SAG_data/SAG_summary.csv")
 sag_refpts <- read.taf("bootstrap/data/SAG_data/SAG_refpts.csv")
 sag_status <- read.taf("bootstrap/data/SAG_data/SAG_status.csv")
 
-clean_sag <- format_sag(sag_sum, sag_refpts, 2019, "Barents")
-clean_status <- format_sag_status(sag_status, 2019, "Barents Sea")
+clean_sag <- format_sag(sag_sum, sag_refpts, 2019, "Norwegian")
+clean_status <- format_sag_status(sag_status, 2019, "Norwegian Sea")
 
 Norwegian_stockList <- c("aru.27.123a4",
                          "bli.27.nea",
