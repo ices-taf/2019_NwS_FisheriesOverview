@@ -145,10 +145,17 @@ guild <- read.taf("model/guild.csv")
 
 plot_guild_trends(guild, cap_year = 2019, cap_month = "October",return_data = FALSE )
 ggplot2::ggsave("2019_NwS_EO_GuildTrends.png", path = "report/", width = 178, height = 130, units = "mm", dpi = 300)
+guild2 <- guild %>% filter(Year > 1943)
+plot_guild_trends(guild2, cap_year = 2019, cap_month = "October",return_data = FALSE )
+ggplot2::ggsave("2019_NwS_EO_GuildTrends_short.png", path = "report/", width = 178, height = 130, units = "mm", dpi = 300)
 
 dat <- plot_guild_trends(guild, cap_year = 2019, cap_month = "October",return_data = TRUE)
 write.taf(dat, file ="2019_NwS_EO_GuildTrends.csv", dir = "report" )
 
+dat <- trends[,1:2]
+dat <- unique(dat)
+dat <- dat %>% filter(StockKeyLabel != "MEAN")
+write.taf(dat, file ="2019_NwS_EO_SpeciesGuild_list.csv", dir = "report" )
 
 #~~~~~~~~~~~~~~~#
 # B.Current catches
