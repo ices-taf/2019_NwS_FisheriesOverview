@@ -149,12 +149,22 @@ guild2 <- guild %>% filter(Year > 1943)
 plot_guild_trends(guild2, cap_year = 2019, cap_month = "October",return_data = FALSE )
 ggplot2::ggsave("2019_NwS_EO_GuildTrends_short.png", path = "report/", width = 178, height = 130, units = "mm", dpi = 300)
 
+guild3 <- guild %>% filter(FisheriesGuild != "MEAN")
+plot_guild_trends(guild3, cap_year = 2019, cap_month = "November",return_data = FALSE )
+ggplot2::ggsave("2019_NwS_EO_GuildTrends_noMEAN.png", path = "report/", width = 178, height = 130, units = "mm", dpi = 300)
+guild4 <- guild3 %>%filter(Year > 1943)
+plot_guild_trends(guild4, cap_year = 2019, cap_month = "November",return_data = FALSE )
+ggplot2::ggsave("2019_NwS_EO_GuildTrends_short_noMEAN.png", path = "report/", width = 178, height = 130, units = "mm", dpi = 300)
+
+
 dat <- plot_guild_trends(guild, cap_year = 2019, cap_month = "October",return_data = TRUE)
 write.taf(dat, file ="2019_NwS_EO_GuildTrends.csv", dir = "report" )
 
 dat <- trends[,1:2]
 dat <- unique(dat)
 dat <- dat %>% filter(StockKeyLabel != "MEAN")
+dat2 <- sid %>% select(c(StockKeyLabel, StockKeyDescription))
+dat <- left_join(dat,dat2)
 write.taf(dat, file ="2019_NwS_EO_SpeciesGuild_list.csv", dir = "report" )
 
 #~~~~~~~~~~~~~~~#
