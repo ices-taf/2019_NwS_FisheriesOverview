@@ -1,4 +1,4 @@
-2019 Norwegian Sea Fisheries Overview
+2019\_NwS\_FisheriesOverview
 ================
 
 ## List of plots in report folder:

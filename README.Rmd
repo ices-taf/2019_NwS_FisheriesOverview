@@ -1,11 +1,15 @@
 ---
-title: 2019 Norwegian Sea Fisheries Overview
+title: "`r basename(getwd())`"
 output: github_document
 ---
 
 ## List of plots in report folder:
 
 ```{r getPlots, results = "asis", format = "markdown", echo = FALSE}
+# which overview is this
+
+FO <- gsub("FisheriesOverview", "", basename(getwd()))
+
 # get list of plots
 plots <- dir(path = "report", pattern = "*.png")
 
@@ -13,9 +17,9 @@ plots <- dir(path = "report", pattern = "*.png")
 id <- gsub(".*?Figure([0-9]+).*", "\\1", plots)
 plots <- plots[order(as.numeric(id))]
 
-plot_names <- gsub("(2019_NwS_)|(.png)", "", plots)
+plot_names <- gsub(paste0("(", FO, ")|(.png)"), "", plots)
 
-raw_url <- "https://raw.githubusercontent.com/ices-taf/2019_NwS_FisheriesOverview/taf/"
+raw_url <- paste0("https://raw.githubusercontent.com/ices-taf/", FO, "FisheriesOverview/taf/")
 
 string <- "### %3$s\n![%1$sreport/%2$s](report/%2$s)\n\n"
 
