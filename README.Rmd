@@ -3,13 +3,23 @@ title: 2019 Norwegian Sea Fisheries Overview
 output: github_document
 ---
 
-```{r getPlots, results = "asis"}
+## List of plots in report folder:
+
+```{r getPlots, results = "asis", echo = FALSE}
+# get list of plots
 plots <- dir(path = "report", pattern = "*.png")
 
-string <- "![report/%s](report/%s)"
+# order them:
+id <- gsub(".*?Figure([0-9]+).*", "\\1", plots)
+plots <- plots[order(as.numeric(id))]
 
+raw_url <- "https://raw.githubusercontent.com/ices-taf/2019_NwS_FisheriesOverview/taf/"
 
-cat(sprintf(string, plots[1], plots[1]))
+string <- "* Figure: %2$s\n![%1$sreport/%2$s](report/%2$s)\n\n"
+
+for (i in seq_along(plots)) {
+  cat(sprintf(string, raw_url, plots[1]))
+}
 ```
 
 

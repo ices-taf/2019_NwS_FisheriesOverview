@@ -1,13 +1,78 @@
 2019 Norwegian Sea Fisheries Overview
 ================
 
-``` r
-plots <- dir(path = "report", pattern = "*.png")
+## List of plots in report folder:
 
-string <- "![report/%s](report/%s)"
+    ## Warning in order(as.numeric(id)): NAs introduced by coercion
 
+  - Figure: 2019\_NwS\_FO\_Figure1.png
+    ![<https://raw.githubusercontent.com/ices-taf/2019_NwS_FisheriesOverview/taf/report/2019_NwS_FO_Figure1.png>](report/2019_NwS_FO_Figure1.png)
 
-cat(sprintf(string, plots[1], plots[1]))
-```
+  - Figure: 2019\_NwS\_FO\_Figure1.png
+    ![<https://raw.githubusercontent.com/ices-taf/2019_NwS_FisheriesOverview/taf/report/2019_NwS_FO_Figure1.png>](report/2019_NwS_FO_Figure1.png)
 
-![report/019\_NwS\_FO\_Figure13\_All.png](report/019_NwS_FO_Figure13_All.png)
+  - Figure: 2019\_NwS\_FO\_Figure1.png
+    ![<https://raw.githubusercontent.com/ices-taf/2019_NwS_FisheriesOverview/taf/report/2019_NwS_FO_Figure1.png>](report/2019_NwS_FO_Figure1.png)
+
+  - Figure: 2019\_NwS\_FO\_Figure1.png
+    ![<https://raw.githubusercontent.com/ices-taf/2019_NwS_FisheriesOverview/taf/report/2019_NwS_FO_Figure1.png>](report/2019_NwS_FO_Figure1.png)
+
+  - Figure: 2019\_NwS\_FO\_Figure1.png
+    ![<https://raw.githubusercontent.com/ices-taf/2019_NwS_FisheriesOverview/taf/report/2019_NwS_FO_Figure1.png>](report/2019_NwS_FO_Figure1.png)
+
+  - Figure: 2019\_NwS\_FO\_Figure1.png
+    ![<https://raw.githubusercontent.com/ices-taf/2019_NwS_FisheriesOverview/taf/report/2019_NwS_FO_Figure1.png>](report/2019_NwS_FO_Figure1.png)
+
+  - Figure: 2019\_NwS\_FO\_Figure1.png
+    ![<https://raw.githubusercontent.com/ices-taf/2019_NwS_FisheriesOverview/taf/report/2019_NwS_FO_Figure1.png>](report/2019_NwS_FO_Figure1.png)
+
+  - Figure: 2019\_NwS\_FO\_Figure1.png
+    ![<https://raw.githubusercontent.com/ices-taf/2019_NwS_FisheriesOverview/taf/report/2019_NwS_FO_Figure1.png>](report/2019_NwS_FO_Figure1.png)
+
+  - Figure: 2019\_NwS\_FO\_Figure1.png
+    ![<https://raw.githubusercontent.com/ices-taf/2019_NwS_FisheriesOverview/taf/report/2019_NwS_FO_Figure1.png>](report/2019_NwS_FO_Figure1.png)
+
+  - Figure: 2019\_NwS\_FO\_Figure1.png
+    ![<https://raw.githubusercontent.com/ices-taf/2019_NwS_FisheriesOverview/taf/report/2019_NwS_FO_Figure1.png>](report/2019_NwS_FO_Figure1.png)
+
+  - Figure: 2019\_NwS\_FO\_Figure1.png
+    ![<https://raw.githubusercontent.com/ices-taf/2019_NwS_FisheriesOverview/taf/report/2019_NwS_FO_Figure1.png>](report/2019_NwS_FO_Figure1.png)
+
+  - Figure: 2019\_NwS\_FO\_Figure1.png
+    ![<https://raw.githubusercontent.com/ices-taf/2019_NwS_FisheriesOverview/taf/report/2019_NwS_FO_Figure1.png>](report/2019_NwS_FO_Figure1.png)
+
+  - Figure: 2019\_NwS\_FO\_Figure1.png
+    ![<https://raw.githubusercontent.com/ices-taf/2019_NwS_FisheriesOverview/taf/report/2019_NwS_FO_Figure1.png>](report/2019_NwS_FO_Figure1.png)
+
+  - Figure: 2019\_NwS\_FO\_Figure1.png
+    ![<https://raw.githubusercontent.com/ices-taf/2019_NwS_FisheriesOverview/taf/report/2019_NwS_FO_Figure1.png>](report/2019_NwS_FO_Figure1.png)
+
+  - Figure: 2019\_NwS\_FO\_Figure1.png
+    ![<https://raw.githubusercontent.com/ices-taf/2019_NwS_FisheriesOverview/taf/report/2019_NwS_FO_Figure1.png>](report/2019_NwS_FO_Figure1.png)
+
+  - Figure: 2019\_NwS\_FO\_Figure1.png
+    ![<https://raw.githubusercontent.com/ices-taf/2019_NwS_FisheriesOverview/taf/report/2019_NwS_FO_Figure1.png>](report/2019_NwS_FO_Figure1.png)
+
+  - Figure: 2019\_NwS\_FO\_Figure1.png
+    ![<https://raw.githubusercontent.com/ices-taf/2019_NwS_FisheriesOverview/taf/report/2019_NwS_FO_Figure1.png>](report/2019_NwS_FO_Figure1.png)
+
+  - Figure: 2019\_NwS\_FO\_Figure1.png
+    ![<https://raw.githubusercontent.com/ices-taf/2019_NwS_FisheriesOverview/taf/report/2019_NwS_FO_Figure1.png>](report/2019_NwS_FO_Figure1.png)
+
+  - Figure: 2019\_NwS\_FO\_Figure1.png
+    ![<https://raw.githubusercontent.com/ices-taf/2019_NwS_FisheriesOverview/taf/report/2019_NwS_FO_Figure1.png>](report/2019_NwS_FO_Figure1.png)
+
+  - Figure: 2019\_NwS\_FO\_Figure1.png
+    ![<https://raw.githubusercontent.com/ices-taf/2019_NwS_FisheriesOverview/taf/report/2019_NwS_FO_Figure1.png>](report/2019_NwS_FO_Figure1.png)
+
+  - Figure: 2019\_NwS\_FO\_Figure1.png
+    ![<https://raw.githubusercontent.com/ices-taf/2019_NwS_FisheriesOverview/taf/report/2019_NwS_FO_Figure1.png>](report/2019_NwS_FO_Figure1.png)
+
+  - Figure: 2019\_NwS\_FO\_Figure1.png
+    ![<https://raw.githubusercontent.com/ices-taf/2019_NwS_FisheriesOverview/taf/report/2019_NwS_FO_Figure1.png>](report/2019_NwS_FO_Figure1.png)
+
+  - Figure: 2019\_NwS\_FO\_Figure1.png
+    ![<https://raw.githubusercontent.com/ices-taf/2019_NwS_FisheriesOverview/taf/report/2019_NwS_FO_Figure1.png>](report/2019_NwS_FO_Figure1.png)
+
+  - Figure: 2019\_NwS\_FO\_Figure1.png
+    ![<https://raw.githubusercontent.com/ices-taf/2019_NwS_FisheriesOverview/taf/report/2019_NwS_FO_Figure1.png>](report/2019_NwS_FO_Figure1.png)
