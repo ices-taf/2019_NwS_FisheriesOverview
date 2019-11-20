@@ -5,7 +5,7 @@ output: github_document
 
 ## List of plots in report folder:
 
-```{r getPlots, results = "asis", echo = FALSE}
+```{r getPlots, results = "asis", format = "markdown", echo = FALSE}
 # get list of plots
 plots <- dir(path = "report", pattern = "*.png")
 
@@ -15,7 +15,7 @@ plots <- plots[order(as.numeric(id))]
 
 raw_url <- "https://raw.githubusercontent.com/ices-taf/2019_NwS_FisheriesOverview/taf/"
 
-string <- "* Figure: %2$s\n![%1$sreport/%2$s](report/%2$s)\n\n"
+string <- "### %2$s\n![%1$sreport/%2$s](report/%2$s)\n\n"
 
 for (i in seq_along(plots)) {
   cat(sprintf(string, raw_url, plots[1]))
