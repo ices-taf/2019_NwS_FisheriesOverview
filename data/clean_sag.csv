@@ -1,0 +1,1127 @@
+Year,StockKeyLabel,FisheriesGuild,Purpose,F,SSB,fishingPressureDescription,stockSizeDescription,landings,catches,discards,AssessmentYear,Flim,Fpa,Bpa,Blim,FMSY,MSYBtrigger
+1988,aru.27.123a4,pelagic,Advice,NA,NA,F,B_index,14096,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1989,aru.27.123a4,pelagic,Advice,NA,NA,F,B_index,12176,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1990,aru.27.123a4,pelagic,Advice,NA,NA,F,B_index,11441,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1991,aru.27.123a4,pelagic,Advice,NA,NA,F,B_index,10295,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1992,aru.27.123a4,pelagic,Advice,NA,NA,F,B_index,12668,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1993,aru.27.123a4,pelagic,Advice,NA,NA,F,B_index,11188,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1994,aru.27.123a4,pelagic,Advice,NA,NA,F,B_index,7953,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1995,aru.27.123a4,pelagic,Advice,NA,NA,F,B_index,7857,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1996,aru.27.123a4,pelagic,Advice,NA,NA,F,B_index,8263,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1997,aru.27.123a4,pelagic,Advice,NA,NA,F,B_index,7165,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1998,aru.27.123a4,pelagic,Advice,NA,NA,F,B_index,10277,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1999,aru.27.123a4,pelagic,Advice,NA,NA,F,B_index,8596,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2000,aru.27.123a4,pelagic,Advice,NA,NA,F,B_index,7654,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2001,aru.27.123a4,pelagic,Advice,NA,NA,F,B_index,16549,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2002,aru.27.123a4,pelagic,Advice,NA,NA,F,B_index,8672,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2003,aru.27.123a4,pelagic,Advice,NA,NA,F,B_index,9969,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2004,aru.27.123a4,pelagic,Advice,NA,NA,F,B_index,16817,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2005,aru.27.123a4,pelagic,Advice,NA,NA,F,B_index,17595,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2006,aru.27.123a4,pelagic,Advice,NA,NA,F,B_index,25496,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2007,aru.27.123a4,pelagic,Advice,NA,NA,F,B_index,16374,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2008,aru.27.123a4,pelagic,Advice,NA,NA,F,B_index,13424,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2009,aru.27.123a4,pelagic,Advice,NA,216783,F,B_index,13495,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2010,aru.27.123a4,pelagic,Advice,NA,NA,F,B_index,12898,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2011,aru.27.123a4,pelagic,Advice,NA,NA,F,B_index,12064,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2012,aru.27.123a4,pelagic,Advice,NA,177897,F,B_index,12485,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2013,aru.27.123a4,pelagic,Advice,NA,NA,F,B_index,13229,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2014,aru.27.123a4,pelagic,Advice,NA,328143,F,B_index,15062,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2015,aru.27.123a4,pelagic,Advice,NA,NA,F,B_index,15236,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2016,aru.27.123a4,pelagic,Advice,NA,571561,F,B_index,18893,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2017,aru.27.123a4,pelagic,Advice,NA,NA,F,B_index,17835,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2018,aru.27.123a4,pelagic,Advice,NA,301611,F,B_index,23859,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1988,bli.27.nea,demersal,Advice,NA,NA,F,SSB,4195,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1989,bli.27.nea,demersal,Advice,NA,NA,F,SSB,2616,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1990,bli.27.nea,demersal,Advice,NA,NA,F,SSB,2484,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1991,bli.27.nea,demersal,Advice,NA,NA,F,SSB,3270,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1992,bli.27.nea,demersal,Advice,NA,NA,F,SSB,2606,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1993,bli.27.nea,demersal,Advice,NA,NA,F,SSB,4792,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1994,bli.27.nea,demersal,Advice,NA,NA,F,SSB,1613,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1995,bli.27.nea,demersal,Advice,NA,NA,F,SSB,1434,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1996,bli.27.nea,demersal,Advice,NA,NA,F,SSB,1248,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1997,bli.27.nea,demersal,Advice,NA,NA,F,SSB,999,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1998,bli.27.nea,demersal,Advice,NA,NA,F,SSB,1003,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1999,bli.27.nea,demersal,Advice,NA,NA,F,SSB,1915,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2000,bli.27.nea,demersal,Advice,NA,NA,F,SSB,989,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2001,bli.27.nea,demersal,Advice,NA,NA,F,SSB,1160,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2002,bli.27.nea,demersal,Advice,NA,NA,F,SSB,1853,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2003,bli.27.nea,demersal,Advice,NA,NA,F,SSB,1450,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2004,bli.27.nea,demersal,Advice,NA,NA,F,SSB,1182,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2005,bli.27.nea,demersal,Advice,NA,NA,F,SSB,1023,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2006,bli.27.nea,demersal,Advice,NA,NA,F,SSB,839,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2007,bli.27.nea,demersal,Advice,NA,NA,F,SSB,678,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2008,bli.27.nea,demersal,Advice,NA,NA,F,SSB,973,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2009,bli.27.nea,demersal,Advice,NA,NA,F,SSB,687,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2010,bli.27.nea,demersal,Advice,NA,NA,F,SSB,628,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2011,bli.27.nea,demersal,Advice,NA,NA,F,SSB,720,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2012,bli.27.nea,demersal,Advice,NA,NA,F,SSB,1137,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2013,bli.27.nea,demersal,Advice,NA,NA,F,SSB,500,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2014,bli.27.nea,demersal,Advice,NA,NA,F,SSB,261,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2015,bli.27.nea,demersal,Advice,NA,NA,F,SSB,208,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2016,bli.27.nea,demersal,Advice,NA,NA,F,SSB,205,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2017,bli.27.nea,demersal,Advice,NA,NA,F,SSB,279,NA,1,2019,NA,NA,NA,NA,NA,NA
+2018,bli.27.nea,demersal,Advice,NA,NA,F,SSB,348,NA,0,2019,NA,NA,NA,NA,NA,NA
+1988,bsf.27.nea,pelagic,Advice,NA,NA,Harvest rate,Other Stock Size,NA,3,NA,2018,NA,NA,NA,NA,NA,NA
+1989,bsf.27.nea,pelagic,Advice,NA,NA,Harvest rate,Other Stock Size,NA,4,NA,2018,NA,NA,NA,NA,NA,NA
+1990,bsf.27.nea,pelagic,Advice,NA,NA,Harvest rate,Other Stock Size,NA,5,NA,2018,NA,NA,NA,NA,NA,NA
+1991,bsf.27.nea,pelagic,Advice,NA,NA,Harvest rate,Other Stock Size,NA,7,NA,2018,NA,NA,NA,NA,NA,NA
+1992,bsf.27.nea,pelagic,Advice,NA,NA,Harvest rate,Other Stock Size,NA,9,NA,2018,NA,NA,NA,NA,NA,NA
+1993,bsf.27.nea,pelagic,Advice,NA,NA,Harvest rate,Other Stock Size,NA,10,NA,2018,NA,NA,NA,NA,NA,NA
+1994,bsf.27.nea,pelagic,Advice,NA,NA,Harvest rate,Other Stock Size,NA,8,NA,2018,NA,NA,NA,NA,NA,NA
+1995,bsf.27.nea,pelagic,Advice,NA,NA,Harvest rate,Other Stock Size,NA,8,NA,2018,NA,NA,NA,NA,NA,NA
+1996,bsf.27.nea,pelagic,Advice,NA,NA,Harvest rate,Other Stock Size,NA,8,NA,2018,NA,NA,NA,NA,NA,NA
+1997,bsf.27.nea,pelagic,Advice,NA,NA,Harvest rate,Other Stock Size,NA,7,NA,2018,NA,NA,NA,NA,NA,NA
+1998,bsf.27.nea,pelagic,Advice,NA,NA,Harvest rate,Other Stock Size,NA,6,NA,2018,NA,NA,NA,NA,NA,NA
+1999,bsf.27.nea,pelagic,Advice,NA,NA,Harvest rate,Other Stock Size,NA,5,NA,2018,NA,NA,NA,NA,NA,NA
+2000,bsf.27.nea,pelagic,Advice,NA,NA,Harvest rate,Other Stock Size,NA,7,NA,2018,NA,NA,NA,NA,NA,NA
+2001,bsf.27.nea,pelagic,Advice,0.094,44.983,Harvest rate,Other Stock Size,NA,10,NA,2018,NA,NA,NA,NA,NA,NA
+2002,bsf.27.nea,pelagic,Advice,0.078,61.364,Harvest rate,Other Stock Size,NA,12,NA,2018,NA,NA,NA,NA,NA,NA
+2003,bsf.27.nea,pelagic,Advice,0.092,66.101,Harvest rate,Other Stock Size,NA,8,NA,2018,NA,NA,NA,NA,NA,NA
+2004,bsf.27.nea,pelagic,Advice,0.059,72.54,Harvest rate,Other Stock Size,NA,7,NA,2018,NA,NA,NA,NA,NA,NA
+2005,bsf.27.nea,pelagic,Advice,0.05,74.77,Harvest rate,Other Stock Size,NA,7,NA,2018,NA,NA,NA,NA,NA,NA
+2006,bsf.27.nea,pelagic,Advice,0.086,52.494,Harvest rate,Other Stock Size,NA,7,NA,2018,NA,NA,NA,NA,NA,NA
+2007,bsf.27.nea,pelagic,Advice,0.076,52.889,Harvest rate,Other Stock Size,NA,7,NA,2018,NA,NA,NA,NA,NA,NA
+2008,bsf.27.nea,pelagic,Advice,0.08,57.855,Harvest rate,Other Stock Size,NA,8,NA,2018,NA,NA,NA,NA,NA,NA
+2009,bsf.27.nea,pelagic,Advice,0.083,53.832,Harvest rate,Other Stock Size,NA,7,NA,2018,NA,NA,NA,NA,NA,NA
+2010,bsf.27.nea,pelagic,Advice,0.083,48.026,Harvest rate,Other Stock Size,NA,7,NA,2018,NA,NA,NA,NA,NA,NA
+2011,bsf.27.nea,pelagic,Advice,0.075,54.665,Harvest rate,Other Stock Size,NA,7,NA,2018,NA,NA,NA,NA,NA,NA
+2012,bsf.27.nea,pelagic,Advice,0.065,53.275,Harvest rate,Other Stock Size,NA,7,NA,2018,NA,NA,NA,NA,NA,NA
+2013,bsf.27.nea,pelagic,Advice,0.068,56.412,Harvest rate,Other Stock Size,NA,6,NA,2018,NA,NA,NA,NA,NA,NA
+2014,bsf.27.nea,pelagic,Advice,0.057,70.142,Harvest rate,Other Stock Size,NA,6,NA,2018,NA,NA,NA,NA,NA,NA
+2015,bsf.27.nea,pelagic,Advice,0.054,74.081,Harvest rate,Other Stock Size,NA,6,NA,2018,NA,NA,NA,NA,NA,NA
+2016,bsf.27.nea,pelagic,Advice,0.056,73.647,Harvest rate,Other Stock Size,NA,6,NA,2018,NA,NA,NA,NA,NA,NA
+2017,bsf.27.nea,pelagic,Advice,NA,NA,Harvest rate,Other Stock Size,NA,5,NA,2018,NA,NA,NA,NA,NA,NA
+1977,bsk.27.nea,elasmobranch,Advice,NA,NA,F,SSB,3680,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1978,bsk.27.nea,elasmobranch,Advice,NA,NA,F,SSB,3641,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1979,bsk.27.nea,elasmobranch,Advice,NA,NA,F,SSB,5266,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1980,bsk.27.nea,elasmobranch,Advice,NA,NA,F,SSB,3725,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1981,bsk.27.nea,elasmobranch,Advice,NA,NA,F,SSB,1800,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1982,bsk.27.nea,elasmobranch,Advice,NA,NA,F,SSB,2156,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1983,bsk.27.nea,elasmobranch,Advice,NA,NA,F,SSB,1761,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1984,bsk.27.nea,elasmobranch,Advice,NA,NA,F,SSB,2062,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1985,bsk.27.nea,elasmobranch,Advice,NA,NA,F,SSB,1465,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1986,bsk.27.nea,elasmobranch,Advice,NA,NA,F,SSB,1144,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1987,bsk.27.nea,elasmobranch,Advice,NA,NA,F,SSB,165,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1988,bsk.27.nea,elasmobranch,Advice,NA,NA,F,SSB,106,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1989,bsk.27.nea,elasmobranch,Advice,NA,NA,F,SSB,593,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1990,bsk.27.nea,elasmobranch,Advice,NA,NA,F,SSB,897,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1991,bsk.27.nea,elasmobranch,Advice,NA,NA,F,SSB,753,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1992,bsk.27.nea,elasmobranch,Advice,NA,NA,F,SSB,1697,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1993,bsk.27.nea,elasmobranch,Advice,NA,NA,F,SSB,1374,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1994,bsk.27.nea,elasmobranch,Advice,NA,NA,F,SSB,1078,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1995,bsk.27.nea,elasmobranch,Advice,NA,NA,F,SSB,629,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1996,bsk.27.nea,elasmobranch,Advice,NA,NA,F,SSB,793,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1997,bsk.27.nea,elasmobranch,Advice,NA,NA,F,SSB,471,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1998,bsk.27.nea,elasmobranch,Advice,NA,NA,F,SSB,56,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1999,bsk.27.nea,elasmobranch,Advice,NA,NA,F,SSB,33,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2000,bsk.27.nea,elasmobranch,Advice,NA,NA,F,SSB,119,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2001,bsk.27.nea,elasmobranch,Advice,NA,NA,F,SSB,83,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2002,bsk.27.nea,elasmobranch,Advice,NA,NA,F,SSB,55,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2003,bsk.27.nea,elasmobranch,Advice,NA,NA,F,SSB,129,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2004,bsk.27.nea,elasmobranch,Advice,NA,NA,F,SSB,99,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2005,bsk.27.nea,elasmobranch,Advice,NA,NA,F,SSB,223,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2006,bsk.27.nea,elasmobranch,Advice,NA,NA,F,SSB,17,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2007,bsk.27.nea,elasmobranch,Advice,NA,NA,F,SSB,26,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2008,bsk.27.nea,elasmobranch,Advice,NA,NA,F,SSB,5,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2009,bsk.27.nea,elasmobranch,Advice,NA,NA,F,SSB,1,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2010,bsk.27.nea,elasmobranch,Advice,NA,NA,F,SSB,1,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2011,bsk.27.nea,elasmobranch,Advice,NA,NA,F,SSB,2,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2012,bsk.27.nea,elasmobranch,Advice,NA,NA,F,SSB,24,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2013,bsk.27.nea,elasmobranch,Advice,NA,NA,F,SSB,0,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2014,bsk.27.nea,elasmobranch,Advice,NA,NA,F,SSB,0,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2015,bsk.27.nea,elasmobranch,Advice,NA,NA,F,SSB,0,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2016,bsk.27.nea,elasmobranch,Advice,NA,NA,F,SSB,0,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2017,bsk.27.nea,elasmobranch,Advice,NA,NA,F,SSB,1,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2018,bsk.27.nea,elasmobranch,Advice,NA,NA,F,SSB,0,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1979,cap.27.2a514,pelagic,Advice,NA,NA,F,SSB,980100,980100,NA,2018,NA,NA,NA,150000,NA,NA
+1980,cap.27.2a514,pelagic,Advice,NA,NA,F,SSB,683600,683600,NA,2018,NA,NA,NA,150000,NA,NA
+1981,cap.27.2a514,pelagic,Advice,NA,NA,F,SSB,626200,626200,NA,2018,NA,NA,NA,150000,NA,NA
+1982,cap.27.2a514,pelagic,Advice,NA,NA,F,SSB,0,0,NA,2018,NA,NA,NA,150000,NA,NA
+1983,cap.27.2a514,pelagic,Advice,NA,NA,F,SSB,573000,573000,NA,2018,NA,NA,NA,150000,NA,NA
+1984,cap.27.2a514,pelagic,Advice,NA,NA,F,SSB,897000,897000,NA,2018,NA,NA,NA,150000,NA,NA
+1985,cap.27.2a514,pelagic,Advice,NA,NA,F,SSB,1311500,1311500,NA,2018,NA,NA,NA,150000,NA,NA
+1986,cap.27.2a514,pelagic,Advice,NA,NA,F,SSB,1333400,1333400,NA,2018,NA,NA,NA,150000,NA,NA
+1987,cap.27.2a514,pelagic,Advice,NA,NA,F,SSB,1115800,1115800,NA,2018,NA,NA,NA,150000,NA,NA
+1988,cap.27.2a514,pelagic,Advice,NA,NA,F,SSB,1036500,1036500,NA,2018,NA,NA,NA,150000,NA,NA
+1989,cap.27.2a514,pelagic,Advice,NA,NA,F,SSB,807800,807800,NA,2018,NA,NA,NA,150000,NA,NA
+1990,cap.27.2a514,pelagic,Advice,NA,NA,F,SSB,313600,313600,NA,2018,NA,NA,NA,150000,NA,NA
+1991,cap.27.2a514,pelagic,Advice,NA,NA,F,SSB,677100,677100,NA,2018,NA,NA,NA,150000,NA,NA
+1992,cap.27.2a514,pelagic,Advice,NA,NA,F,SSB,787700,787700,NA,2018,NA,NA,NA,150000,NA,NA
+1993,cap.27.2a514,pelagic,Advice,NA,NA,F,SSB,1178700,1178700,NA,2018,NA,NA,NA,150000,NA,NA
+1994,cap.27.2a514,pelagic,Advice,NA,NA,F,SSB,863900,863900,NA,2018,NA,NA,NA,150000,NA,NA
+1995,cap.27.2a514,pelagic,Advice,NA,NA,F,SSB,929300,929300,NA,2018,NA,NA,NA,150000,NA,NA
+1996,cap.27.2a514,pelagic,Advice,NA,NA,F,SSB,1570900,1570900,NA,2018,NA,NA,NA,150000,NA,NA
+1997,cap.27.2a514,pelagic,Advice,NA,NA,F,SSB,1244900,1244900,NA,2018,NA,NA,NA,150000,NA,NA
+1998,cap.27.2a514,pelagic,Advice,NA,NA,F,SSB,1099400,1099400,NA,2018,NA,NA,NA,150000,NA,NA
+1999,cap.27.2a514,pelagic,Advice,NA,NA,F,SSB,932700,932700,NA,2018,NA,NA,NA,150000,NA,NA
+2000,cap.27.2a514,pelagic,Advice,NA,NA,F,SSB,1071300,1071300,NA,2018,NA,NA,NA,150000,NA,NA
+2001,cap.27.2a514,pelagic,Advice,NA,NA,F,SSB,1249000,1249000,NA,2018,NA,NA,NA,150000,NA,NA
+2002,cap.27.2a514,pelagic,Advice,NA,NA,F,SSB,987700,987700,NA,2018,NA,NA,NA,150000,NA,NA
+2003,cap.27.2a514,pelagic,Advice,NA,NA,F,SSB,741400,741400,NA,2018,NA,NA,NA,150000,NA,NA
+2004,cap.27.2a514,pelagic,Advice,NA,NA,F,SSB,784000,784000,NA,2018,NA,NA,NA,150000,NA,NA
+2005,cap.27.2a514,pelagic,Advice,NA,NA,F,SSB,247000,247000,NA,2018,NA,NA,NA,150000,NA,NA
+2006,cap.27.2a514,pelagic,Advice,NA,NA,F,SSB,376800,376800,NA,2018,NA,NA,NA,150000,NA,NA
+2007,cap.27.2a514,pelagic,Advice,NA,NA,F,SSB,203400,203400,NA,2018,NA,NA,NA,150000,NA,NA
+2008,cap.27.2a514,pelagic,Advice,NA,NA,F,SSB,15100,15100,NA,2018,NA,NA,NA,150000,NA,NA
+2009,cap.27.2a514,pelagic,Advice,NA,NA,F,SSB,150700,150700,NA,2018,NA,NA,NA,150000,NA,NA
+2010,cap.27.2a514,pelagic,Advice,NA,NA,F,SSB,390600,390600,NA,2018,NA,NA,NA,150000,NA,NA
+2011,cap.27.2a514,pelagic,Advice,NA,NA,F,SSB,746500,746500,NA,2018,NA,NA,NA,150000,NA,NA
+2012,cap.27.2a514,pelagic,Advice,NA,NA,F,SSB,551000,551000,NA,2018,NA,NA,NA,150000,NA,NA
+2013,cap.27.2a514,pelagic,Advice,NA,NA,F,SSB,141700,141700,NA,2018,NA,NA,NA,150000,NA,NA
+2014,cap.27.2a514,pelagic,Advice,NA,NA,F,SSB,517400,517400,NA,2018,NA,NA,NA,150000,NA,NA
+2015,cap.27.2a514,pelagic,Advice,NA,NA,F,SSB,173600,173600,NA,2018,NA,NA,NA,150000,NA,NA
+2016,cap.27.2a514,pelagic,Advice,NA,298000,F,SSB,299800,299800,NA,2018,NA,NA,NA,150000,NA,NA
+2017,cap.27.2a514,pelagic,Advice,NA,355000,F,SSB,286500,286500,NA,2018,NA,NA,NA,150000,NA,NA
+2018,cap.27.2a514,pelagic,Advice,NA,352000,F,SSB,NA,NA,NA,2018,NA,NA,NA,150000,NA,NA
+1946,cod.27.1-2,demersal,Advice,0.213,990849,F,SSB,706000,706000,NA,2019,0.74,0.4,460000,220000,0.4,460000
+1947,cod.27.1-2,demersal,Advice,0.315,1021359,F,SSB,882017,882017,NA,2019,0.74,0.4,460000,220000,0.4,460000
+1948,cod.27.1-2,demersal,Advice,0.314,837151,F,SSB,774295,774295,NA,2019,0.74,0.4,460000,220000,0.4,460000
+1949,cod.27.1-2,demersal,Advice,0.364,624676,F,SSB,800122,800122,NA,2019,0.74,0.4,460000,220000,0.4,460000
+1950,cod.27.1-2,demersal,Advice,0.375,561970,F,SSB,731982,731982,NA,2019,0.74,0.4,460000,220000,0.4,460000
+1951,cod.27.1-2,demersal,Advice,0.426,511078,F,SSB,827180,827180,NA,2019,0.74,0.4,460000,220000,0.4,460000
+1952,cod.27.1-2,demersal,Advice,0.52,499222,F,SSB,876795,876795,NA,2019,0.74,0.4,460000,220000,0.4,460000
+1953,cod.27.1-2,demersal,Advice,0.395,396048,F,SSB,695546,695546,NA,2019,0.74,0.4,460000,220000,0.4,460000
+1954,cod.27.1-2,demersal,Advice,0.416,409556,F,SSB,826021,826021,NA,2019,0.74,0.4,460000,220000,0.4,460000
+1955,cod.27.1-2,demersal,Advice,0.502,331358,F,SSB,1147841,1147841,NA,2019,0.74,0.4,460000,220000,0.4,460000
+1956,cod.27.1-2,demersal,Advice,0.613,284149,F,SSB,1343068,1343068,NA,2019,0.74,0.4,460000,220000,0.4,460000
+1957,cod.27.1-2,demersal,Advice,0.525,206883,F,SSB,792557,792557,NA,2019,0.74,0.4,460000,220000,0.4,460000
+1958,cod.27.1-2,demersal,Advice,0.527,204280,F,SSB,769313,769313,NA,2019,0.74,0.4,460000,220000,0.4,460000
+1959,cod.27.1-2,demersal,Advice,0.532,442991,F,SSB,744607,744607,NA,2019,0.74,0.4,460000,220000,0.4,460000
+1960,cod.27.1-2,demersal,Advice,0.512,402990,F,SSB,622042,622042,NA,2019,0.74,0.4,460000,220000,0.4,460000
+1961,cod.27.1-2,demersal,Advice,0.647,406033,F,SSB,783221,783221,NA,2019,0.74,0.4,460000,220000,0.4,460000
+1962,cod.27.1-2,demersal,Advice,0.758,320206,F,SSB,909266,909266,NA,2019,0.74,0.4,460000,220000,0.4,460000
+1963,cod.27.1-2,demersal,Advice,0.874,214441,F,SSB,776337,776337,NA,2019,0.74,0.4,460000,220000,0.4,460000
+1964,cod.27.1-2,demersal,Advice,0.675,192096,F,SSB,437695,437695,NA,2019,0.74,0.4,460000,220000,0.4,460000
+1965,cod.27.1-2,demersal,Advice,0.555,106528,F,SSB,444930,444930,NA,2019,0.74,0.4,460000,220000,0.4,460000
+1966,cod.27.1-2,demersal,Advice,0.506,121929,F,SSB,483711,483711,NA,2019,0.74,0.4,460000,220000,0.4,460000
+1967,cod.27.1-2,demersal,Advice,0.536,133538,F,SSB,572605,572605,NA,2019,0.74,0.4,460000,220000,0.4,460000
+1968,cod.27.1-2,demersal,Advice,0.579,228937,F,SSB,1074084,1074084,NA,2019,0.74,0.4,460000,220000,0.4,460000
+1969,cod.27.1-2,demersal,Advice,0.759,151312,F,SSB,1197226,1197226,NA,2019,0.74,0.4,460000,220000,0.4,460000
+1970,cod.27.1-2,demersal,Advice,0.697,230628,F,SSB,933246,933246,NA,2019,0.74,0.4,460000,220000,0.4,460000
+1971,cod.27.1-2,demersal,Advice,0.585,319334,F,SSB,689048,689048,NA,2019,0.74,0.4,460000,220000,0.4,460000
+1972,cod.27.1-2,demersal,Advice,0.691,365182,F,SSB,565254,565254,NA,2019,0.74,0.4,460000,220000,0.4,460000
+1973,cod.27.1-2,demersal,Advice,0.607,324238,F,SSB,792685,792685,NA,2019,0.74,0.4,460000,220000,0.4,460000
+1974,cod.27.1-2,demersal,Advice,0.635,159552,F,SSB,1102433,1102433,NA,2019,0.74,0.4,460000,220000,0.4,460000
+1975,cod.27.1-2,demersal,Advice,0.635,130574,F,SSB,829377,829377,NA,2019,0.74,0.4,460000,220000,0.4,460000
+1976,cod.27.1-2,demersal,Advice,0.659,167876,F,SSB,867463,867463,NA,2019,0.74,0.4,460000,220000,0.4,460000
+1977,cod.27.1-2,demersal,Advice,0.806,352518,F,SSB,905301,905301,NA,2019,0.74,0.4,460000,220000,0.4,460000
+1978,cod.27.1-2,demersal,Advice,0.971,234824,F,SSB,698715,698715,NA,2019,0.74,0.4,460000,220000,0.4,460000
+1979,cod.27.1-2,demersal,Advice,0.782,165128,F,SSB,440538,440538,NA,2019,0.74,0.4,460000,220000,0.4,460000
+1980,cod.27.1-2,demersal,Advice,0.776,102622,F,SSB,380434,380434,NA,2019,0.74,0.4,460000,220000,0.4,460000
+1981,cod.27.1-2,demersal,Advice,0.765,151677,F,SSB,399038,399038,NA,2019,0.74,0.4,460000,220000,0.4,460000
+1982,cod.27.1-2,demersal,Advice,0.814,310238,F,SSB,363730,363730,NA,2019,0.74,0.4,460000,220000,0.4,460000
+1983,cod.27.1-2,demersal,Advice,0.776,281458,F,SSB,289992,289992,NA,2019,0.74,0.4,460000,220000,0.4,460000
+1984,cod.27.1-2,demersal,Advice,0.887,227619,F,SSB,277651,277651,NA,2019,0.74,0.4,460000,220000,0.4,460000
+1985,cod.27.1-2,demersal,Advice,0.789,187504,F,SSB,307920,307920,NA,2019,0.74,0.4,460000,220000,0.4,460000
+1986,cod.27.1-2,demersal,Advice,0.904,162209,F,SSB,430113,430113,NA,2019,0.74,0.4,460000,220000,0.4,460000
+1987,cod.27.1-2,demersal,Advice,1.02,110255,F,SSB,523071,523071,NA,2019,0.74,0.4,460000,220000,0.4,460000
+1988,cod.27.1-2,demersal,Advice,0.954,179367,F,SSB,434939,434939,NA,2019,0.74,0.4,460000,220000,0.4,460000
+1989,cod.27.1-2,demersal,Advice,0.649,234248,F,SSB,332481,332481,NA,2019,0.74,0.4,460000,220000,0.4,460000
+1990,cod.27.1-2,demersal,Advice,0.368,331888,F,SSB,212000,212000,NA,2019,0.74,0.4,460000,220000,0.4,460000
+1991,cod.27.1-2,demersal,Advice,0.317,706539,F,SSB,319158,319158,NA,2019,0.74,0.4,460000,220000,0.4,460000
+1992,cod.27.1-2,demersal,Advice,0.448,908683,F,SSB,513234,513234,NA,2019,0.74,0.4,460000,220000,0.4,460000
+1993,cod.27.1-2,demersal,Advice,0.577,775845,F,SSB,581611,581611,NA,2019,0.74,0.4,460000,220000,0.4,460000
+1994,cod.27.1-2,demersal,Advice,0.797,591364,F,SSB,771086,771086,NA,2019,0.74,0.4,460000,220000,0.4,460000
+1995,cod.27.1-2,demersal,Advice,0.782,523318,F,SSB,739999,739999,NA,2019,0.74,0.4,460000,220000,0.4,460000
+1996,cod.27.1-2,demersal,Advice,0.766,546404,F,SSB,732228,732228,NA,2019,0.74,0.4,460000,220000,0.4,460000
+1997,cod.27.1-2,demersal,Advice,0.947,544203,F,SSB,762403,762403,NA,2019,0.74,0.4,460000,220000,0.4,460000
+1998,cod.27.1-2,demersal,Advice,0.96,377854,F,SSB,592624,592624,NA,2019,0.74,0.4,460000,220000,0.4,460000
+1999,cod.27.1-2,demersal,Advice,0.96,283058,F,SSB,484910,484910,NA,2019,0.74,0.4,460000,220000,0.4,460000
+2000,cod.27.1-2,demersal,Advice,0.823,239037,F,SSB,414868,414868,NA,2019,0.74,0.4,460000,220000,0.4,460000
+2001,cod.27.1-2,demersal,Advice,0.707,363501,F,SSB,426471,426471,NA,2019,0.74,0.4,460000,220000,0.4,460000
+2002,cod.27.1-2,demersal,Advice,0.655,505998,F,SSB,535045,535045,NA,2019,0.74,0.4,460000,220000,0.4,460000
+2003,cod.27.1-2,demersal,Advice,0.576,595218,F,SSB,551990,551990,NA,2019,0.74,0.4,460000,220000,0.4,460000
+2004,cod.27.1-2,demersal,Advice,0.72,709114,F,SSB,606445,606445,NA,2019,0.74,0.4,460000,220000,0.4,460000
+2005,cod.27.1-2,demersal,Advice,0.72,615647,F,SSB,641276,641276,NA,2019,0.74,0.4,460000,220000,0.4,460000
+2006,cod.27.1-2,demersal,Advice,0.659,602187,F,SSB,537642,537642,NA,2019,0.74,0.4,460000,220000,0.4,460000
+2007,cod.27.1-2,demersal,Advice,0.453,653169,F,SSB,486883,486883,NA,2019,0.74,0.4,460000,220000,0.4,460000
+2008,cod.27.1-2,demersal,Advice,0.319,688680,F,SSB,464171,464171,NA,2019,0.74,0.4,460000,220000,0.4,460000
+2009,cod.27.1-2,demersal,Advice,0.272,1099774,F,SSB,523430,523430,NA,2019,0.74,0.4,460000,220000,0.4,460000
+2010,cod.27.1-2,demersal,Advice,0.277,1398250,F,SSB,609983,609983,NA,2019,0.74,0.4,460000,220000,0.4,460000
+2011,cod.27.1-2,demersal,Advice,0.268,2012786,F,SSB,719830,719830,NA,2019,0.74,0.4,460000,220000,0.4,460000
+2012,cod.27.1-2,demersal,Advice,0.243,2334475,F,SSB,727663,727663,NA,2019,0.74,0.4,460000,220000,0.4,460000
+2013,cod.27.1-2,demersal,Advice,0.271,2645872,F,SSB,966209,966209,NA,2019,0.74,0.4,460000,220000,0.4,460000
+2014,cod.27.1-2,demersal,Advice,0.299,2507946,F,SSB,986449,986449,NA,2019,0.74,0.4,460000,220000,0.4,460000
+2015,cod.27.1-2,demersal,Advice,0.318,2071319,F,SSB,864384,864384,NA,2019,0.74,0.4,460000,220000,0.4,460000
+2016,cod.27.1-2,demersal,Advice,0.33,1700333,F,SSB,849422,849422,NA,2019,0.74,0.4,460000,220000,0.4,460000
+2017,cod.27.1-2,demersal,Advice,0.387,1821497,F,SSB,868276,868276,NA,2019,0.74,0.4,460000,220000,0.4,460000
+2018,cod.27.1-2,demersal,Advice,0.422,1525907,F,SSB,778627,778627,NA,2019,0.74,0.4,460000,220000,0.4,460000
+2019,cod.27.1-2,demersal,Advice,NA,1495633,F,SSB,NA,NA,NA,2019,0.74,0.4,460000,220000,0.4,460000
+1984,cod.27.1-2coast,demersal,Advice,0.618,NA,F,B_index,63818,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1985,cod.27.1-2coast,demersal,Advice,0.523,NA,F,B_index,62954,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1986,cod.27.1-2coast,demersal,Advice,0.589,NA,F,B_index,56107,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1987,cod.27.1-2coast,demersal,Advice,0.506,NA,F,B_index,48274,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1988,cod.27.1-2coast,demersal,Advice,0.633,NA,F,B_index,55065,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1989,cod.27.1-2coast,demersal,Advice,0.382,NA,F,B_index,41242,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1990,cod.27.1-2coast,demersal,Advice,0.235,NA,F,B_index,20920,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1991,cod.27.1-2coast,demersal,Advice,0.192,NA,F,B_index,24837,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1992,cod.27.1-2coast,demersal,Advice,0.246,NA,F,B_index,38195,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1993,cod.27.1-2coast,demersal,Advice,0.232,NA,F,B_index,50420,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1994,cod.27.1-2coast,demersal,Advice,0.235,NA,F,B_index,51664,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1995,cod.27.1-2coast,demersal,Advice,0.292,74992,F,B_index,64964,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1996,cod.27.1-2coast,demersal,Advice,0.357,56237,F,B_index,41672,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1997,cod.27.1-2coast,demersal,Advice,0.384,73660,F,B_index,51123,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1998,cod.27.1-2coast,demersal,Advice,0.418,32691,F,B_index,30472,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1999,cod.27.1-2coast,demersal,Advice,0.412,23771,F,B_index,35805,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2000,cod.27.1-2coast,demersal,Advice,0.331,28579,F,B_index,34815,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2001,cod.27.1-2coast,demersal,Advice,0.291,23230,F,B_index,27253,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2002,cod.27.1-2coast,demersal,Advice,0.331,26885,F,B_index,36405,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2003,cod.27.1-2coast,demersal,Advice,0.287,15521,F,B_index,35381,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2004,cod.27.1-2coast,demersal,Advice,0.275,13959,F,B_index,33650,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2005,cod.27.1-2coast,demersal,Advice,0.248,12709,F,B_index,29255,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2006,cod.27.1-2coast,demersal,Advice,0.264,21546,F,B_index,39343,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2007,cod.27.1-2coast,demersal,Advice,0.232,24689,F,B_index,29227,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2008,cod.27.1-2coast,demersal,Advice,0.224,15493,F,B_index,35552,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2009,cod.27.1-2coast,demersal,Advice,0.261,13508,F,B_index,29987,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2010,cod.27.1-2coast,demersal,Advice,0.222,12901,F,B_index,40397,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2011,cod.27.1-2coast,demersal,Advice,0.262,16725,F,B_index,36714,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2012,cod.27.1-2coast,demersal,Advice,0.207,14143,F,B_index,35540,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2013,cod.27.1-2coast,demersal,Advice,0.167,22856,F,B_index,30144,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2014,cod.27.1-2coast,demersal,Advice,0.158,37659,F,B_index,33660,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2015,cod.27.1-2coast,demersal,Advice,0.235,16763,F,B_index,35843,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2016,cod.27.1-2coast,demersal,Advice,0.272,20597,F,B_index,54767,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2017,cod.27.1-2coast,demersal,Advice,0.347,14078,F,B_index,51053,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2018,cod.27.1-2coast,demersal,Advice,0.268,18423,F,B_index,36375,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1905,dgs.27.nea,elasmobranch,Advice,0.006,1623340,Harvest rate,Other Stock Size,7248,7248,NA,2018,NA,NA,NA,NA,NA,683340
+1906,dgs.27.nea,elasmobranch,Advice,0.002,1616270,Harvest rate,Other Stock Size,2200,2200,NA,2018,NA,NA,NA,NA,NA,683340
+1907,dgs.27.nea,elasmobranch,Advice,0.001,1614470,Harvest rate,Other Stock Size,1428,1428,NA,2018,NA,NA,NA,NA,NA,683340
+1908,dgs.27.nea,elasmobranch,Advice,0.001,1613540,Harvest rate,Other Stock Size,1409,1409,NA,2018,NA,NA,NA,NA,NA,683340
+1909,dgs.27.nea,elasmobranch,Advice,0.002,1612720,Harvest rate,Other Stock Size,2022,2022,NA,2018,NA,NA,NA,NA,NA,683340
+1910,dgs.27.nea,elasmobranch,Advice,0.001,1611380,Harvest rate,Other Stock Size,1563,1563,NA,2018,NA,NA,NA,NA,NA,683340
+1911,dgs.27.nea,elasmobranch,Advice,0.002,1610600,Harvest rate,Other Stock Size,1957,1957,NA,2018,NA,NA,NA,NA,NA,683340
+1912,dgs.27.nea,elasmobranch,Advice,0.003,1609510,Harvest rate,Other Stock Size,3199,3199,NA,2018,NA,NA,NA,NA,NA,683340
+1913,dgs.27.nea,elasmobranch,Advice,0.003,1607300,Harvest rate,Other Stock Size,4050,4050,NA,2018,NA,NA,NA,NA,NA,683340
+1914,dgs.27.nea,elasmobranch,Advice,0.002,1604400,Harvest rate,Other Stock Size,2641,2641,NA,2018,NA,NA,NA,NA,NA,683340
+1915,dgs.27.nea,elasmobranch,Advice,0.002,1603070,Harvest rate,Other Stock Size,2602,2602,NA,2018,NA,NA,NA,NA,NA,683340
+1916,dgs.27.nea,elasmobranch,Advice,0,1601890,Harvest rate,Other Stock Size,534,534,NA,2018,NA,NA,NA,NA,NA,683340
+1917,dgs.27.nea,elasmobranch,Advice,0,1602840,Harvest rate,Other Stock Size,339,339,NA,2018,NA,NA,NA,NA,NA,683340
+1918,dgs.27.nea,elasmobranch,Advice,0,1603990,Harvest rate,Other Stock Size,451,451,NA,2018,NA,NA,NA,NA,NA,683340
+1919,dgs.27.nea,elasmobranch,Advice,0.002,1605010,Harvest rate,Other Stock Size,2659,2659,NA,2018,NA,NA,NA,NA,NA,683340
+1920,dgs.27.nea,elasmobranch,Advice,0.004,1603850,Harvest rate,Other Stock Size,4396,4396,NA,2018,NA,NA,NA,NA,NA,683340
+1921,dgs.27.nea,elasmobranch,Advice,0.004,1601070,Harvest rate,Other Stock Size,5321,5321,NA,2018,NA,NA,NA,NA,NA,683340
+1922,dgs.27.nea,elasmobranch,Advice,0.004,1597540,Harvest rate,Other Stock Size,5401,5401,NA,2018,NA,NA,NA,NA,NA,683340
+1923,dgs.27.nea,elasmobranch,Advice,0.005,1594130,Harvest rate,Other Stock Size,5655,5655,NA,2018,NA,NA,NA,NA,NA,683340
+1924,dgs.27.nea,elasmobranch,Advice,0.005,1590680,Harvest rate,Other Stock Size,6355,6355,NA,2018,NA,NA,NA,NA,NA,683340
+1925,dgs.27.nea,elasmobranch,Advice,0.006,1586760,Harvest rate,Other Stock Size,6719,6719,NA,2018,NA,NA,NA,NA,NA,683340
+1926,dgs.27.nea,elasmobranch,Advice,0.006,1582730,Harvest rate,Other Stock Size,7277,7277,NA,2018,NA,NA,NA,NA,NA,683340
+1927,dgs.27.nea,elasmobranch,Advice,0.007,1578410,Harvest rate,Other Stock Size,8395,8395,NA,2018,NA,NA,NA,NA,NA,683340
+1928,dgs.27.nea,elasmobranch,Advice,0.008,1573280,Harvest rate,Other Stock Size,9522,9522,NA,2018,NA,NA,NA,NA,NA,683340
+1929,dgs.27.nea,elasmobranch,Advice,0.008,1567380,Harvest rate,Other Stock Size,9320,9320,NA,2018,NA,NA,NA,NA,NA,683340
+1930,dgs.27.nea,elasmobranch,Advice,0.01,1562040,Harvest rate,Other Stock Size,11914,11914,NA,2018,NA,NA,NA,NA,NA,683340
+1931,dgs.27.nea,elasmobranch,Advice,0.01,1554510,Harvest rate,Other Stock Size,11838,11838,NA,2018,NA,NA,NA,NA,NA,683340
+1932,dgs.27.nea,elasmobranch,Advice,0.014,1547500,Harvest rate,Other Stock Size,16726,16726,NA,2018,NA,NA,NA,NA,NA,683340
+1933,dgs.27.nea,elasmobranch,Advice,0.017,1536150,Harvest rate,Other Stock Size,20244,20244,NA,2018,NA,NA,NA,NA,NA,683340
+1934,dgs.27.nea,elasmobranch,Advice,0.018,1521980,Harvest rate,Other Stock Size,20378,20378,NA,2018,NA,NA,NA,NA,NA,683340
+1935,dgs.27.nea,elasmobranch,Advice,0.019,1508450,Harvest rate,Other Stock Size,22266,22266,NA,2018,NA,NA,NA,NA,NA,683340
+1936,dgs.27.nea,elasmobranch,Advice,0.018,1493820,Harvest rate,Other Stock Size,20925,20925,NA,2018,NA,NA,NA,NA,NA,683340
+1937,dgs.27.nea,elasmobranch,Advice,0.021,1481320,Harvest rate,Other Stock Size,23930,23930,NA,2018,NA,NA,NA,NA,NA,683340
+1938,dgs.27.nea,elasmobranch,Advice,0.016,1466580,Harvest rate,Other Stock Size,18196,18196,NA,2018,NA,NA,NA,NA,NA,683340
+1939,dgs.27.nea,elasmobranch,Advice,0.018,1458280,Harvest rate,Other Stock Size,20119,20119,NA,2018,NA,NA,NA,NA,NA,683340
+1940,dgs.27.nea,elasmobranch,Advice,0.009,1448620,Harvest rate,Other Stock Size,9428,9428,NA,2018,NA,NA,NA,NA,NA,683340
+1941,dgs.27.nea,elasmobranch,Advice,0.008,1450050,Harvest rate,Other Stock Size,8740,8740,NA,2018,NA,NA,NA,NA,NA,683340
+1942,dgs.27.nea,elasmobranch,Advice,0.01,1452270,Harvest rate,Other Stock Size,10625,10625,NA,2018,NA,NA,NA,NA,NA,683340
+1943,dgs.27.nea,elasmobranch,Advice,0.007,1452650,Harvest rate,Other Stock Size,8181,8181,NA,2018,NA,NA,NA,NA,NA,683340
+1944,dgs.27.nea,elasmobranch,Advice,0.007,1455490,Harvest rate,Other Stock Size,8151,8151,NA,2018,NA,NA,NA,NA,NA,683340
+1945,dgs.27.nea,elasmobranch,Advice,0.006,1458300,Harvest rate,Other Stock Size,6776,6776,NA,2018,NA,NA,NA,NA,NA,683340
+1946,dgs.27.nea,elasmobranch,Advice,0.01,1462370,Harvest rate,Other Stock Size,10895,10895,NA,2018,NA,NA,NA,NA,NA,683340
+1947,dgs.27.nea,elasmobranch,Advice,0.015,1462250,Harvest rate,Other Stock Size,16893,16893,NA,2018,NA,NA,NA,NA,NA,683340
+1948,dgs.27.nea,elasmobranch,Advice,0.018,1456210,Harvest rate,Other Stock Size,19491,19491,NA,2018,NA,NA,NA,NA,NA,683340
+1949,dgs.27.nea,elasmobranch,Advice,0.021,1447850,Harvest rate,Other Stock Size,23010,23010,NA,2018,NA,NA,NA,NA,NA,683340
+1950,dgs.27.nea,elasmobranch,Advice,0.023,1436370,Harvest rate,Other Stock Size,24750,24750,NA,2018,NA,NA,NA,NA,NA,683340
+1951,dgs.27.nea,elasmobranch,Advice,0.033,1423660,Harvest rate,Other Stock Size,35301,35301,NA,2018,NA,NA,NA,NA,NA,683340
+1952,dgs.27.nea,elasmobranch,Advice,0.038,1401080,Harvest rate,Other Stock Size,40550,40550,NA,2018,NA,NA,NA,NA,NA,683340
+1953,dgs.27.nea,elasmobranch,Advice,0.037,1374230,Harvest rate,Other Stock Size,38206,38206,NA,2018,NA,NA,NA,NA,NA,683340
+1954,dgs.27.nea,elasmobranch,Advice,0.04,1350740,Harvest rate,Other Stock Size,40570,40570,NA,2018,NA,NA,NA,NA,NA,683340
+1955,dgs.27.nea,elasmobranch,Advice,0.043,1325850,Harvest rate,Other Stock Size,43127,43127,NA,2018,NA,NA,NA,NA,NA,683340
+1956,dgs.27.nea,elasmobranch,Advice,0.048,1299360,Harvest rate,Other Stock Size,46951,46951,NA,2018,NA,NA,NA,NA,NA,683340
+1957,dgs.27.nea,elasmobranch,Advice,0.048,1270000,Harvest rate,Other Stock Size,45570,45570,NA,2018,NA,NA,NA,NA,NA,683340
+1958,dgs.27.nea,elasmobranch,Advice,0.055,1242940,Harvest rate,Other Stock Size,50394,50394,NA,2018,NA,NA,NA,NA,NA,683340
+1959,dgs.27.nea,elasmobranch,Advice,0.053,1211870,Harvest rate,Other Stock Size,47394,47394,NA,2018,NA,NA,NA,NA,NA,683340
+1960,dgs.27.nea,elasmobranch,Advice,0.062,1184260,Harvest rate,Other Stock Size,53997,53997,NA,2018,NA,NA,NA,NA,NA,683340
+1961,dgs.27.nea,elasmobranch,Advice,0.068,1150640,Harvest rate,Other Stock Size,57721,57721,NA,2018,NA,NA,NA,NA,NA,683340
+1962,dgs.27.nea,elasmobranch,Advice,0.07,1113810,Harvest rate,Other Stock Size,57256,57256,NA,2018,NA,NA,NA,NA,NA,683340
+1963,dgs.27.nea,elasmobranch,Advice,0.079,1077860,Harvest rate,Other Stock Size,62288,62288,NA,2018,NA,NA,NA,NA,NA,683340
+1964,dgs.27.nea,elasmobranch,Advice,0.08,1037100,Harvest rate,Other Stock Size,60146,60146,NA,2018,NA,NA,NA,NA,NA,683340
+1965,dgs.27.nea,elasmobranch,Advice,0.068,998587,Harvest rate,Other Stock Size,49336,49336,NA,2018,NA,NA,NA,NA,NA,683340
+1966,dgs.27.nea,elasmobranch,Advice,0.06,970845,Harvest rate,Other Stock Size,42713,42713,NA,2018,NA,NA,NA,NA,NA,683340
+1967,dgs.27.nea,elasmobranch,Advice,0.064,949393,Harvest rate,Other Stock Size,44116,44116,NA,2018,NA,NA,NA,NA,NA,683340
+1968,dgs.27.nea,elasmobranch,Advice,0.083,925997,Harvest rate,Other Stock Size,56043,56043,NA,2018,NA,NA,NA,NA,NA,683340
+1969,dgs.27.nea,elasmobranch,Advice,0.08,890074,Harvest rate,Other Stock Size,52074,52074,NA,2018,NA,NA,NA,NA,NA,683340
+1970,dgs.27.nea,elasmobranch,Advice,0.076,858171,Harvest rate,Other Stock Size,47557,47557,NA,2018,NA,NA,NA,NA,NA,683340
+1971,dgs.27.nea,elasmobranch,Advice,0.075,830615,Harvest rate,Other Stock Size,45653,45653,NA,2018,NA,NA,NA,NA,NA,683340
+1972,dgs.27.nea,elasmobranch,Advice,0.086,804978,Harvest rate,Other Stock Size,50416,50416,NA,2018,NA,NA,NA,NA,NA,683340
+1973,dgs.27.nea,elasmobranch,Advice,0.088,774573,Harvest rate,Other Stock Size,49412,49412,NA,2018,NA,NA,NA,NA,NA,683340
+1974,dgs.27.nea,elasmobranch,Advice,0.085,745381,Harvest rate,Other Stock Size,45684,45684,NA,2018,NA,NA,NA,NA,NA,683340
+1975,dgs.27.nea,elasmobranch,Advice,0.085,720314,Harvest rate,Other Stock Size,44119,44119,NA,2018,NA,NA,NA,NA,NA,683340
+1976,dgs.27.nea,elasmobranch,Advice,0.089,697426,Harvest rate,Other Stock Size,44064,44064,NA,2018,NA,NA,NA,NA,NA,683340
+1977,dgs.27.nea,elasmobranch,Advice,0.088,674978,Harvest rate,Other Stock Size,42252,42252,NA,2018,NA,NA,NA,NA,NA,683340
+1978,dgs.27.nea,elasmobranch,Advice,0.102,654074,Harvest rate,Other Stock Size,47235,47235,NA,2018,NA,NA,NA,NA,NA,683340
+1979,dgs.27.nea,elasmobranch,Advice,0.087,627509,Harvest rate,Other Stock Size,38201,38201,NA,2018,NA,NA,NA,NA,NA,683340
+1980,dgs.27.nea,elasmobranch,Advice,0.096,609481,Harvest rate,Other Stock Size,40968,40968,NA,2018,NA,NA,NA,NA,NA,683340
+1981,dgs.27.nea,elasmobranch,Advice,0.097,587959,Harvest rate,Other Stock Size,39962,39962,NA,2018,NA,NA,NA,NA,NA,683340
+1982,dgs.27.nea,elasmobranch,Advice,0.081,566822,Harvest rate,Other Stock Size,32402,32402,NA,2018,NA,NA,NA,NA,NA,683340
+1983,dgs.27.nea,elasmobranch,Advice,0.095,552782,Harvest rate,Other Stock Size,37046,37046,NA,2018,NA,NA,NA,NA,NA,683340
+1984,dgs.27.nea,elasmobranch,Advice,0.094,532885,Harvest rate,Other Stock Size,35194,35194,NA,2018,NA,NA,NA,NA,NA,683340
+1985,dgs.27.nea,elasmobranch,Advice,0.106,513628,Harvest rate,Other Stock Size,38674,38674,NA,2018,NA,NA,NA,NA,NA,683340
+1986,dgs.27.nea,elasmobranch,Advice,0.088,490234,Harvest rate,Other Stock Size,30910,30910,NA,2018,NA,NA,NA,NA,NA,683340
+1987,dgs.27.nea,elasmobranch,Advice,0.125,473895,Harvest rate,Other Stock Size,42356,42356,NA,2018,NA,NA,NA,NA,NA,683340
+1988,dgs.27.nea,elasmobranch,Advice,0.111,445362,Harvest rate,Other Stock Size,35569,35569,NA,2018,NA,NA,NA,NA,NA,683340
+1989,dgs.27.nea,elasmobranch,Advice,0.1,423601,Harvest rate,Other Stock Size,30279,30279,NA,2018,NA,NA,NA,NA,NA,683340
+1990,dgs.27.nea,elasmobranch,Advice,0.103,406453,Harvest rate,Other Stock Size,29906,29906,NA,2018,NA,NA,NA,NA,NA,683340
+1991,dgs.27.nea,elasmobranch,Advice,0.107,390089,Harvest rate,Other Stock Size,29563,29563,NA,2018,NA,NA,NA,NA,NA,683340
+1992,dgs.27.nea,elasmobranch,Advice,0.11,373544,Harvest rate,Other Stock Size,29046,29046,NA,2018,NA,NA,NA,NA,NA,683340
+1993,dgs.27.nea,elasmobranch,Advice,0.102,356717,Harvest rate,Other Stock Size,25637,25637,NA,2018,NA,NA,NA,NA,NA,683340
+1994,dgs.27.nea,elasmobranch,Advice,0.087,343187,Harvest rate,Other Stock Size,20851,20851,NA,2018,NA,NA,NA,NA,NA,683340
+1995,dgs.27.nea,elasmobranch,Advice,0.09,333689,Harvest rate,Other Stock Size,21318,21318,NA,2018,NA,NA,NA,NA,NA,683340
+1996,dgs.27.nea,elasmobranch,Advice,0.075,323652,Harvest rate,Other Stock Size,17295,17295,NA,2018,NA,NA,NA,NA,NA,683340
+1997,dgs.27.nea,elasmobranch,Advice,0.068,317346,Harvest rate,Other Stock Size,15348,15348,NA,2018,NA,NA,NA,NA,NA,683340
+1998,dgs.27.nea,elasmobranch,Advice,0.062,312486,Harvest rate,Other Stock Size,13919,13919,NA,2018,NA,NA,NA,NA,NA,683340
+1999,dgs.27.nea,elasmobranch,Advice,0.056,308481,Harvest rate,Other Stock Size,12385,12385,NA,2018,NA,NA,NA,NA,NA,683340
+2000,dgs.27.nea,elasmobranch,Advice,0.072,305589,Harvest rate,Other Stock Size,15891,15891,NA,2018,NA,NA,NA,NA,NA,683340
+2001,dgs.27.nea,elasmobranch,Advice,0.077,298820,Harvest rate,Other Stock Size,16693,16693,NA,2018,NA,NA,NA,NA,NA,683340
+2002,dgs.27.nea,elasmobranch,Advice,0.053,291183,Harvest rate,Other Stock Size,11170,11170,NA,2018,NA,NA,NA,NA,NA,683340
+2003,dgs.27.nea,elasmobranch,Advice,0.059,289246,Harvest rate,Other Stock Size,12247,12247,NA,2018,NA,NA,NA,NA,NA,683340
+2004,dgs.27.nea,elasmobranch,Advice,0.045,286266,Harvest rate,Other Stock Size,9366,9366,NA,2018,NA,NA,NA,NA,NA,683340
+2005,dgs.27.nea,elasmobranch,Advice,0.041,286268,Harvest rate,Other Stock Size,8426,8426,NA,2018,NA,NA,NA,NA,NA,683340
+2006,dgs.27.nea,elasmobranch,Advice,0.02,287127,Harvest rate,Other Stock Size,4109,4109,NA,2018,NA,NA,NA,NA,NA,683340
+2007,dgs.27.nea,elasmobranch,Advice,0.014,292562,Harvest rate,Other Stock Size,2929,2929,NA,2018,NA,NA,NA,NA,NA,683340
+2008,dgs.27.nea,elasmobranch,Advice,0.009,299457,Harvest rate,Other Stock Size,1836,1836,NA,2018,NA,NA,NA,NA,NA,683340
+2009,dgs.27.nea,elasmobranch,Advice,0.012,307801,Harvest rate,Other Stock Size,2640,2640,NA,2018,NA,NA,NA,NA,NA,683340
+2010,dgs.27.nea,elasmobranch,Advice,0.011,316111,Harvest rate,Other Stock Size,1249,2468,1219,2018,NA,NA,NA,NA,NA,683340
+2011,dgs.27.nea,elasmobranch,Advice,0.011,323654,Harvest rate,Other Stock Size,580,2468,1888,2018,NA,NA,NA,NA,NA,683340
+2012,dgs.27.nea,elasmobranch,Advice,0.01,331270,Harvest rate,Other Stock Size,261,2468,2207,2018,NA,NA,NA,NA,NA,683340
+2013,dgs.27.nea,elasmobranch,Advice,0.01,339268,Harvest rate,Other Stock Size,333,2468,2135,2018,NA,NA,NA,NA,NA,683340
+2014,dgs.27.nea,elasmobranch,Advice,0.01,347248,Harvest rate,Other Stock Size,383,2468,2085,2018,NA,NA,NA,NA,NA,683340
+2015,dgs.27.nea,elasmobranch,Advice,0.01,355467,Harvest rate,Other Stock Size,237,2468,2231,2018,NA,NA,NA,NA,NA,683340
+2016,dgs.27.nea,elasmobranch,Advice,0.009,364039,Harvest rate,Other Stock Size,349,2468,2119,2018,NA,NA,NA,NA,NA,683340
+2017,dgs.27.nea,elasmobranch,Advice,0.009,372728,Harvest rate,Other Stock Size,273,2468,2195,2018,NA,NA,NA,NA,NA,683340
+2018,dgs.27.nea,elasmobranch,Advice,NA,381466,Harvest rate,Other Stock Size,NA,NA,NA,2018,NA,NA,NA,NA,NA,683340
+2005,gfb.27.nea,demersal,Advice,NA,1,NA,Biomass Index,2960,2960,NA,2018,NA,NA,NA,NA,NA,NA
+2006,gfb.27.nea,demersal,Advice,NA,1,NA,Biomass Index,2686,2686,NA,2018,NA,NA,NA,NA,NA,NA
+2007,gfb.27.nea,demersal,Advice,NA,1,NA,Biomass Index,2949,2949,NA,2018,NA,NA,NA,NA,NA,NA
+2008,gfb.27.nea,demersal,Advice,NA,1,NA,Biomass Index,2038,2038,NA,2018,NA,NA,NA,NA,NA,NA
+2009,gfb.27.nea,demersal,Advice,NA,1,NA,Biomass Index,1311,1311,NA,2018,NA,NA,NA,NA,NA,NA
+2010,gfb.27.nea,demersal,Advice,NA,1,NA,Biomass Index,1288,1288,NA,2018,NA,NA,NA,NA,NA,NA
+2011,gfb.27.nea,demersal,Advice,NA,1,NA,Biomass Index,2201,2201,NA,2018,NA,NA,NA,NA,NA,NA
+2012,gfb.27.nea,demersal,Advice,NA,1,NA,Biomass Index,2641,2641,NA,2018,NA,NA,NA,NA,NA,NA
+2013,gfb.27.nea,demersal,Advice,NA,2,NA,Biomass Index,2143,3328,1185,2018,NA,NA,NA,NA,NA,NA
+2014,gfb.27.nea,demersal,Advice,NA,1,NA,Biomass Index,2269,3435,1166,2018,NA,NA,NA,NA,NA,NA
+2015,gfb.27.nea,demersal,Advice,NA,1,NA,Biomass Index,2174,4242,2068,2018,NA,NA,NA,NA,NA,NA
+2016,gfb.27.nea,demersal,Advice,NA,1,NA,Biomass Index,2012,2689,677,2018,NA,NA,NA,NA,NA,NA
+2017,gfb.27.nea,demersal,Advice,NA,1,NA,Biomass Index,1503,2016,513,2018,NA,NA,NA,NA,NA,NA
+1935,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,1534,1534,NA,2019,NA,NA,5e+05,NA,NA,NA
+1936,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,830,830,NA,2019,NA,NA,5e+05,NA,NA,NA
+1937,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,616,616,NA,2019,NA,NA,5e+05,NA,NA,NA
+1938,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,329,329,NA,2019,NA,NA,5e+05,NA,NA,NA
+1939,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,459,459,NA,2019,NA,NA,5e+05,NA,NA,NA
+1940,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,846,846,NA,2019,NA,NA,5e+05,NA,NA,NA
+1941,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,1663,1663,NA,2019,NA,NA,5e+05,NA,NA,NA
+1942,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,955,955,NA,2019,NA,NA,5e+05,NA,NA,NA
+1943,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,824,824,NA,2019,NA,NA,5e+05,NA,NA,NA
+1944,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,678,678,NA,2019,NA,NA,5e+05,NA,NA,NA
+1945,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,1148,1148,NA,2019,NA,NA,5e+05,NA,NA,NA
+1946,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,1362,1362,NA,2019,NA,NA,5e+05,NA,NA,NA
+1947,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,1437,1437,NA,2019,NA,NA,5e+05,NA,NA,NA
+1948,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,1987,1987,NA,2019,NA,NA,5e+05,NA,NA,NA
+1949,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,375,375,NA,2019,NA,NA,5e+05,NA,NA,NA
+1950,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,2074,2074,NA,2019,NA,NA,5e+05,NA,NA,NA
+1951,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,2861,2861,NA,2019,NA,NA,5e+05,NA,NA,NA
+1952,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,2953,2953,NA,2019,NA,NA,5e+05,NA,NA,NA
+1953,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,2601,2601,NA,2019,NA,NA,5e+05,NA,NA,NA
+1954,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,4090,4090,NA,2019,NA,NA,5e+05,NA,NA,NA
+1955,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,3300,3300,NA,2019,NA,NA,5e+05,NA,NA,NA
+1956,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,3939,3939,NA,2019,NA,NA,5e+05,NA,NA,NA
+1957,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,4635,4635,NA,2019,NA,NA,5e+05,NA,NA,NA
+1958,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,4192,4192,NA,2019,NA,NA,5e+05,NA,NA,NA
+1959,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,7939,7939,NA,2019,NA,NA,5e+05,NA,NA,NA
+1960,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,10961,10961,NA,2019,NA,NA,5e+05,NA,NA,NA
+1961,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,11813,11813,NA,2019,NA,NA,5e+05,NA,NA,NA
+1962,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,13360,13360,NA,2019,NA,NA,5e+05,NA,NA,NA
+1963,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,14540,14540,NA,2019,NA,NA,5e+05,NA,NA,NA
+1964,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,40391,40391,NA,2019,NA,NA,5e+05,NA,NA,NA
+1965,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,34751,34751,NA,2019,NA,NA,5e+05,NA,NA,NA
+1966,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,26321,26321,NA,2019,NA,NA,5e+05,NA,NA,NA
+1967,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,24267,24267,NA,2019,NA,NA,5e+05,NA,NA,NA
+1968,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,26168,26168,NA,2019,NA,NA,5e+05,NA,NA,NA
+1969,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,43789,43789,NA,2019,NA,NA,5e+05,NA,NA,NA
+1970,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,89484,89484,NA,2019,NA,NA,5e+05,NA,NA,NA
+1971,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,79034,79034,NA,2019,NA,NA,5e+05,NA,NA,NA
+1972,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,43055,43055,NA,2019,NA,NA,5e+05,NA,NA,NA
+1973,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,29938,29938,NA,2019,NA,NA,5e+05,NA,NA,NA
+1974,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,37763,37763,NA,2019,NA,NA,5e+05,NA,NA,NA
+1975,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,38172,38172,NA,2019,NA,NA,5e+05,NA,NA,NA
+1976,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,36074,36074,NA,2019,NA,NA,5e+05,NA,NA,NA
+1977,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,28827,28827,NA,2019,NA,NA,5e+05,NA,NA,NA
+1978,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,24617,24617,NA,2019,NA,NA,5e+05,NA,NA,NA
+1979,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,17312,17312,NA,2019,NA,NA,5e+05,NA,NA,NA
+1980,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,13284,13284,NA,2019,NA,NA,5e+05,NA,NA,NA
+1981,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,15018,15018,NA,2019,NA,NA,5e+05,NA,NA,NA
+1982,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,16789,16789,NA,2019,NA,NA,5e+05,NA,NA,NA
+1983,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,22147,22147,NA,2019,NA,NA,5e+05,NA,NA,NA
+1984,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,21883,21883,NA,2019,NA,NA,5e+05,NA,NA,NA
+1985,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,19945,19945,NA,2019,NA,NA,5e+05,NA,NA,NA
+1986,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,22875,22875,NA,2019,NA,NA,5e+05,NA,NA,NA
+1987,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,19112,19112,NA,2019,NA,NA,5e+05,NA,NA,NA
+1988,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,19587,19587,NA,2019,NA,NA,5e+05,NA,NA,NA
+1989,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,20138,20138,NA,2019,NA,NA,5e+05,NA,NA,NA
+1990,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,23183,23183,NA,2019,NA,NA,5e+05,NA,NA,NA
+1991,ghl.27.1-2,demersal,Advice,NA,NA,Frel,Other,33320,33320,NA,2019,NA,NA,5e+05,NA,NA,NA
+1992,ghl.27.1-2,demersal,Advice,0.023,367295,Frel,Other,8602,8602,NA,2019,NA,NA,5e+05,NA,NA,NA
+1993,ghl.27.1-2,demersal,Advice,0.027,447306,Frel,Other,11933,11933,NA,2019,NA,NA,5e+05,NA,NA,NA
+1994,ghl.27.1-2,demersal,Advice,0.018,503851,Frel,Other,9226,9226,NA,2019,NA,NA,5e+05,NA,NA,NA
+1995,ghl.27.1-2,demersal,Advice,0.022,543258,Frel,Other,11734,11734,NA,2019,NA,NA,5e+05,NA,NA,NA
+1996,ghl.27.1-2,demersal,Advice,0.026,561725,Frel,Other,14347,14347,NA,2019,NA,NA,5e+05,NA,NA,NA
+1997,ghl.27.1-2,demersal,Advice,0.017,566085,Frel,Other,9410,9410,NA,2019,NA,NA,5e+05,NA,NA,NA
+1998,ghl.27.1-2,demersal,Advice,0.021,568614,Frel,Other,11893,11893,NA,2019,NA,NA,5e+05,NA,NA,NA
+1999,ghl.27.1-2,demersal,Advice,0.035,565486,Frel,Other,19517,19517,NA,2019,NA,NA,5e+05,NA,NA,NA
+2000,ghl.27.1-2,demersal,Advice,0.026,560294,Frel,Other,14297,14297,NA,2019,NA,NA,5e+05,NA,NA,NA
+2001,ghl.27.1-2,demersal,Advice,0.029,558722,Frel,Other,16365,16365,NA,2019,NA,NA,5e+05,NA,NA,NA
+2002,ghl.27.1-2,demersal,Advice,0.024,557754,Frel,Other,13293,13293,NA,2019,NA,NA,5e+05,NA,NA,NA
+2003,ghl.27.1-2,demersal,Advice,0.024,559312,Frel,Other,13447,13447,NA,2019,NA,NA,5e+05,NA,NA,NA
+2004,ghl.27.1-2,demersal,Advice,0.034,559751,Frel,Other,18899,18899,NA,2019,NA,NA,5e+05,NA,NA,NA
+2005,ghl.27.1-2,demersal,Advice,0.034,558818,Frel,Other,18834,18834,NA,2019,NA,NA,5e+05,NA,NA,NA
+2006,ghl.27.1-2,demersal,Advice,0.031,568786,Frel,Other,17904,17904,NA,2019,NA,NA,5e+05,NA,NA,NA
+2007,ghl.27.1-2,demersal,Advice,0.026,591555,Frel,Other,15453,15453,NA,2019,NA,NA,5e+05,NA,NA,NA
+2008,ghl.27.1-2,demersal,Advice,0.022,626103,Frel,Other,13792,13792,NA,2019,NA,NA,5e+05,NA,NA,NA
+2009,ghl.27.1-2,demersal,Advice,0.019,667548,Frel,Other,12990,12990,NA,2019,NA,NA,5e+05,NA,NA,NA
+2010,ghl.27.1-2,demersal,Advice,0.021,709186,Frel,Other,15229,15229,NA,2019,NA,NA,5e+05,NA,NA,NA
+2011,ghl.27.1-2,demersal,Advice,0.022,742303,Frel,Other,16606,16606,NA,2019,NA,NA,5e+05,NA,NA,NA
+2012,ghl.27.1-2,demersal,Advice,0.026,766191,Frel,Other,20288,20288,NA,2019,NA,NA,5e+05,NA,NA,NA
+2013,ghl.27.1-2,demersal,Advice,0.028,778597,Frel,Other,22167,22167,NA,2019,NA,NA,5e+05,NA,NA,NA
+2014,ghl.27.1-2,demersal,Advice,0.029,783560,Frel,Other,23025,23025,NA,2019,NA,NA,5e+05,NA,NA,NA
+2015,ghl.27.1-2,demersal,Advice,0.032,780918,Frel,Other,24748,24748,NA,2019,NA,NA,5e+05,NA,NA,NA
+2016,ghl.27.1-2,demersal,Advice,0.032,771502,Frel,Other,24950,24950,NA,2019,NA,NA,5e+05,NA,NA,NA
+2017,ghl.27.1-2,demersal,Advice,0.035,757426,Frel,Other,26380,26380,NA,2019,NA,NA,5e+05,NA,NA,NA
+2018,ghl.27.1-2,demersal,Advice,0.039,738643,Frel,Other,28544,28544,NA,2019,NA,NA,5e+05,NA,NA,NA
+2019,ghl.27.1-2,demersal,Advice,NA,715671,Frel,Other,NA,NA,NA,2019,NA,NA,5e+05,NA,NA,NA
+1950,had.27.1-2,demersal,Advice,0.732,210469,F,SSB,132125,132125,NA,2019,0.77,0.47,80000,50000,0.35,80000
+1951,had.27.1-2,demersal,Advice,0.686,126945,F,SSB,120077,120077,NA,2019,0.77,0.47,80000,50000,0.35,80000
+1952,had.27.1-2,demersal,Advice,0.705,102125,F,SSB,127660,127660,NA,2019,0.77,0.47,80000,50000,0.35,80000
+1953,had.27.1-2,demersal,Advice,0.544,119871,F,SSB,123920,123920,NA,2019,0.77,0.47,80000,50000,0.35,80000
+1954,had.27.1-2,demersal,Advice,0.485,169170,F,SSB,156788,156788,NA,2019,0.77,0.47,80000,50000,0.35,80000
+1955,had.27.1-2,demersal,Advice,0.408,272359,F,SSB,202286,202286,NA,2019,0.77,0.47,80000,50000,0.35,80000
+1956,had.27.1-2,demersal,Advice,0.436,332172,F,SSB,213924,213924,NA,2019,0.77,0.47,80000,50000,0.35,80000
+1957,had.27.1-2,demersal,Advice,0.408,257612,F,SSB,123583,123583,NA,2019,0.77,0.47,80000,50000,0.35,80000
+1958,had.27.1-2,demersal,Advice,0.493,186839,F,SSB,112672,112672,NA,2019,0.77,0.47,80000,50000,0.35,80000
+1959,had.27.1-2,demersal,Advice,0.45,129867,F,SSB,88211,88211,NA,2019,0.77,0.47,80000,50000,0.35,80000
+1960,had.27.1-2,demersal,Advice,0.56,116575,F,SSB,154651,154651,NA,2019,0.77,0.47,80000,50000,0.35,80000
+1961,had.27.1-2,demersal,Advice,0.661,125149,F,SSB,193224,193224,NA,2019,0.77,0.47,80000,50000,0.35,80000
+1962,had.27.1-2,demersal,Advice,0.739,123602,F,SSB,187408,187408,NA,2019,0.77,0.47,80000,50000,0.35,80000
+1963,had.27.1-2,demersal,Advice,0.722,97043,F,SSB,146224,146224,NA,2019,0.77,0.47,80000,50000,0.35,80000
+1964,had.27.1-2,demersal,Advice,0.656,86600,F,SSB,99158,99158,NA,2019,0.77,0.47,80000,50000,0.35,80000
+1965,had.27.1-2,demersal,Advice,0.564,100233,F,SSB,118578,118578,NA,2019,0.77,0.47,80000,50000,0.35,80000
+1966,had.27.1-2,demersal,Advice,0.541,134158,F,SSB,161778,161778,NA,2019,0.77,0.47,80000,50000,0.35,80000
+1967,had.27.1-2,demersal,Advice,0.457,145559,F,SSB,136397,136397,NA,2019,0.77,0.47,80000,50000,0.35,80000
+1968,had.27.1-2,demersal,Advice,0.482,160493,F,SSB,181726,181726,NA,2019,0.77,0.47,80000,50000,0.35,80000
+1969,had.27.1-2,demersal,Advice,0.409,161338,F,SSB,130820,130820,NA,2019,0.77,0.47,80000,50000,0.35,80000
+1970,had.27.1-2,demersal,Advice,0.394,150069,F,SSB,88257,88257,NA,2019,0.77,0.47,80000,50000,0.35,80000
+1971,had.27.1-2,demersal,Advice,0.338,122811,F,SSB,78905,78905,NA,2019,0.77,0.47,80000,50000,0.35,80000
+1972,had.27.1-2,demersal,Advice,0.62,122580,F,SSB,266153,266153,NA,2019,0.77,0.47,80000,50000,0.35,80000
+1973,had.27.1-2,demersal,Advice,0.511,125530,F,SSB,322226,322226,NA,2019,0.77,0.47,80000,50000,0.35,80000
+1974,had.27.1-2,demersal,Advice,0.561,165607,F,SSB,221157,221157,NA,2019,0.77,0.47,80000,50000,0.35,80000
+1975,had.27.1-2,demersal,Advice,0.512,189702,F,SSB,175758,175758,NA,2019,0.77,0.47,80000,50000,0.35,80000
+1976,had.27.1-2,demersal,Advice,0.727,183385,F,SSB,137264,137264,NA,2019,0.77,0.47,80000,50000,0.35,80000
+1977,had.27.1-2,demersal,Advice,0.745,116319,F,SSB,110158,110158,NA,2019,0.77,0.47,80000,50000,0.35,80000
+1978,had.27.1-2,demersal,Advice,0.616,78699,F,SSB,95422,95422,NA,2019,0.77,0.47,80000,50000,0.35,80000
+1979,had.27.1-2,demersal,Advice,0.571,62078,F,SSB,103623,103623,NA,2019,0.77,0.47,80000,50000,0.35,80000
+1980,had.27.1-2,demersal,Advice,0.454,62398,F,SSB,87889,87889,NA,2019,0.77,0.47,80000,50000,0.35,80000
+1981,had.27.1-2,demersal,Advice,0.406,71542,F,SSB,77153,77153,NA,2019,0.77,0.47,80000,50000,0.35,80000
+1982,had.27.1-2,demersal,Advice,0.361,68072,F,SSB,46955,46955,NA,2019,0.77,0.47,80000,50000,0.35,80000
+1983,had.27.1-2,demersal,Advice,0.366,58935,F,SSB,24600,24600,NA,2019,0.77,0.47,80000,50000,0.35,80000
+1984,had.27.1-2,demersal,Advice,0.301,53015,F,SSB,20945,20945,NA,2019,0.77,0.47,80000,50000,0.35,80000
+1985,had.27.1-2,demersal,Advice,0.402,49865,F,SSB,45052,45052,NA,2019,0.77,0.47,80000,50000,0.35,80000
+1986,had.27.1-2,demersal,Advice,0.556,54254,F,SSB,100563,100563,NA,2019,0.77,0.47,80000,50000,0.35,80000
+1987,had.27.1-2,demersal,Advice,0.66,72012,F,SSB,154916,154916,NA,2019,0.77,0.47,80000,50000,0.35,80000
+1988,had.27.1-2,demersal,Advice,0.534,77166,F,SSB,95255,95255,NA,2019,0.77,0.47,80000,50000,0.35,80000
+1989,had.27.1-2,demersal,Advice,0.301,83359,F,SSB,58518,58518,NA,2019,0.77,0.47,80000,50000,0.35,80000
+1990,had.27.1-2,demersal,Advice,0.228,87990,F,SSB,27182,27182,NA,2019,0.77,0.47,80000,50000,0.35,80000
+1991,had.27.1-2,demersal,Advice,0.243,100726,F,SSB,36216,36216,NA,2019,0.77,0.47,80000,50000,0.35,80000
+1992,had.27.1-2,demersal,Advice,0.281,116241,F,SSB,59922,59922,NA,2019,0.77,0.47,80000,50000,0.35,80000
+1993,had.27.1-2,demersal,Advice,0.292,136413,F,SSB,82379,82379,NA,2019,0.77,0.47,80000,50000,0.35,80000
+1994,had.27.1-2,demersal,Advice,0.348,165211,F,SSB,135186,135186,NA,2019,0.77,0.47,80000,50000,0.35,80000
+1995,had.27.1-2,demersal,Advice,0.328,208941,F,SSB,142448,142448,NA,2019,0.77,0.47,80000,50000,0.35,80000
+1996,had.27.1-2,demersal,Advice,0.391,250661,F,SSB,178128,178128,NA,2019,0.77,0.47,80000,50000,0.35,80000
+1997,had.27.1-2,demersal,Advice,0.465,220527,F,SSB,154359,154359,NA,2019,0.77,0.47,80000,50000,0.35,80000
+1998,had.27.1-2,demersal,Advice,0.46,160426,F,SSB,100630,100630,NA,2019,0.77,0.47,80000,50000,0.35,80000
+1999,had.27.1-2,demersal,Advice,0.466,115023,F,SSB,83195,83195,NA,2019,0.77,0.47,80000,50000,0.35,80000
+2000,had.27.1-2,demersal,Advice,0.368,93447,F,SSB,68944,68944,NA,2019,0.77,0.47,80000,50000,0.35,80000
+2001,had.27.1-2,demersal,Advice,0.365,93381,F,SSB,89640,89640,NA,2019,0.77,0.47,80000,50000,0.35,80000
+2002,had.27.1-2,demersal,Advice,0.341,107449,F,SSB,114798,114798,NA,2019,0.77,0.47,80000,50000,0.35,80000
+2003,had.27.1-2,demersal,Advice,0.407,139684,F,SSB,138926,138926,NA,2019,0.77,0.47,80000,50000,0.35,80000
+2004,had.27.1-2,demersal,Advice,0.417,159778,F,SSB,158279,158279,NA,2019,0.77,0.47,80000,50000,0.35,80000
+2005,had.27.1-2,demersal,Advice,0.436,174816,F,SSB,158298,158298,NA,2019,0.77,0.47,80000,50000,0.35,80000
+2006,had.27.1-2,demersal,Advice,0.389,172205,F,SSB,153157,153157,NA,2019,0.77,0.47,80000,50000,0.35,80000
+2007,had.27.1-2,demersal,Advice,0.355,179156,F,SSB,161525,161525,NA,2019,0.77,0.47,80000,50000,0.35,80000
+2008,had.27.1-2,demersal,Advice,0.291,198050,F,SSB,155604,155604,NA,2019,0.77,0.47,80000,50000,0.35,80000
+2009,had.27.1-2,demersal,Advice,0.259,211140,F,SSB,200061,200061,NA,2019,0.77,0.47,80000,50000,0.35,80000
+2010,had.27.1-2,demersal,Advice,0.241,311541,F,SSB,249200,249200,NA,2019,0.77,0.47,80000,50000,0.35,80000
+2011,had.27.1-2,demersal,Advice,0.232,432296,F,SSB,309785,309785,NA,2019,0.77,0.47,80000,50000,0.35,80000
+2012,had.27.1-2,demersal,Advice,0.206,565427,F,SSB,315627,315627,NA,2019,0.77,0.47,80000,50000,0.35,80000
+2013,had.27.1-2,demersal,Advice,0.164,604134,F,SSB,193744,193744,NA,2019,0.77,0.47,80000,50000,0.35,80000
+2014,had.27.1-2,demersal,Advice,0.168,596585,F,SSB,177522,177522,NA,2019,0.77,0.47,80000,50000,0.35,80000
+2015,had.27.1-2,demersal,Advice,0.201,555089,F,SSB,194756,194756,NA,2019,0.77,0.47,80000,50000,0.35,80000
+2016,had.27.1-2,demersal,Advice,0.255,526338,F,SSB,233183,233183,NA,2019,0.77,0.47,80000,50000,0.35,80000
+2017,had.27.1-2,demersal,Advice,0.383,388448,F,SSB,227588,227588,NA,2019,0.77,0.47,80000,50000,0.35,80000
+2018,had.27.1-2,demersal,Advice,0.378,279971,F,SSB,191276,191276,NA,2019,0.77,0.47,80000,50000,0.35,80000
+2019,had.27.1-2,demersal,Advice,NA,220245,F,SSB,NA,NA,NA,2019,0.77,0.47,80000,50000,0.35,80000
+1988,her.27.1-24a514a,pelagic,Advice,0.042,2122000,F,SSB,135301,135301,NA,2019,0.291,0.227,3184000,2500000,0.157,3184000
+1989,her.27.1-24a514a,pelagic,Advice,0.033,3281000,F,SSB,103830,103830,NA,2019,0.291,0.227,3184000,2500000,0.157,3184000
+1990,her.27.1-24a514a,pelagic,Advice,0.031,3550000,F,SSB,86411,86411,NA,2019,0.291,0.227,3184000,2500000,0.157,3184000
+1991,her.27.1-24a514a,pelagic,Advice,0.031,3324000,F,SSB,84683,84683,NA,2019,0.291,0.227,3184000,2500000,0.157,3184000
+1992,her.27.1-24a514a,pelagic,Advice,0.038,3352000,F,SSB,104448,104448,NA,2019,0.291,0.227,3184000,2500000,0.157,3184000
+1993,her.27.1-24a514a,pelagic,Advice,0.076,3323000,F,SSB,232457,232457,NA,2019,0.291,0.227,3184000,2500000,0.157,3184000
+1994,her.27.1-24a514a,pelagic,Advice,0.126,3452000,F,SSB,479228,479228,NA,2019,0.291,0.227,3184000,2500000,0.157,3184000
+1995,her.27.1-24a514a,pelagic,Advice,0.216,3524000,F,SSB,905501,905501,NA,2019,0.291,0.227,3184000,2500000,0.157,3184000
+1996,her.27.1-24a514a,pelagic,Advice,0.189,4109000,F,SSB,1220283,1220283,NA,2019,0.291,0.227,3184000,2500000,0.157,3184000
+1997,her.27.1-24a514a,pelagic,Advice,0.194,5373000,F,SSB,1426507,1426507,NA,2019,0.291,0.227,3184000,2500000,0.157,3184000
+1998,her.27.1-24a514a,pelagic,Advice,0.19,5941000,F,SSB,1223131,1223131,NA,2019,0.291,0.227,3184000,2500000,0.157,3184000
+1999,her.27.1-24a514a,pelagic,Advice,0.214,5816000,F,SSB,1235433,1235433,NA,2019,0.291,0.227,3184000,2500000,0.157,3184000
+2000,her.27.1-24a514a,pelagic,Advice,0.257,4842000,F,SSB,1207201,1207201,NA,2019,0.291,0.227,3184000,2500000,0.157,3184000
+2001,her.27.1-24a514a,pelagic,Advice,0.203,4018000,F,SSB,766136,766136,NA,2019,0.291,0.227,3184000,2500000,0.157,3184000
+2002,her.27.1-24a514a,pelagic,Advice,0.225,3552000,F,SSB,807795,807795,NA,2019,0.291,0.227,3184000,2500000,0.157,3184000
+2003,her.27.1-24a514a,pelagic,Advice,0.151,4192000,F,SSB,789510,789510,NA,2019,0.291,0.227,3184000,2500000,0.157,3184000
+2004,her.27.1-24a514a,pelagic,Advice,0.127,5292000,F,SSB,794066,794066,NA,2019,0.291,0.227,3184000,2500000,0.157,3184000
+2005,her.27.1-24a514a,pelagic,Advice,0.171,5425000,F,SSB,1003243,1003243,NA,2019,0.291,0.227,3184000,2500000,0.157,3184000
+2006,her.27.1-24a514a,pelagic,Advice,0.175,5396000,F,SSB,968958,968958,NA,2019,0.291,0.227,3184000,2500000,0.157,3184000
+2007,her.27.1-24a514a,pelagic,Advice,0.153,6952000,F,SSB,1266993,1266993,NA,2019,0.291,0.227,3184000,2500000,0.157,3184000
+2008,her.27.1-24a514a,pelagic,Advice,0.198,7050000,F,SSB,1545656,1545656,NA,2019,0.291,0.227,3184000,2500000,0.157,3184000
+2009,her.27.1-24a514a,pelagic,Advice,0.205,7030000,F,SSB,1687373,1687373,NA,2019,0.291,0.227,3184000,2500000,0.157,3184000
+2010,her.27.1-24a514a,pelagic,Advice,0.213,6231000,F,SSB,1457014,1457014,NA,2019,0.291,0.227,3184000,2500000,0.157,3184000
+2011,her.27.1-24a514a,pelagic,Advice,0.159,5878000,F,SSB,992998,992998,NA,2019,0.291,0.227,3184000,2500000,0.157,3184000
+2012,her.27.1-24a514a,pelagic,Advice,0.141,5692000,F,SSB,825999,825999,NA,2019,0.291,0.227,3184000,2500000,0.157,3184000
+2013,her.27.1-24a514a,pelagic,Advice,0.121,5322000,F,SSB,684743,684743,NA,2019,0.291,0.227,3184000,2500000,0.157,3184000
+2014,her.27.1-24a514a,pelagic,Advice,0.084,5154000,F,SSB,461306,461306,NA,2019,0.291,0.227,3184000,2500000,0.157,3184000
+2015,her.27.1-24a514a,pelagic,Advice,0.067,4798000,F,SSB,328740,328740,NA,2019,0.291,0.227,3184000,2500000,0.157,3184000
+2016,her.27.1-24a514a,pelagic,Advice,0.087,4535000,F,SSB,383174,383174,NA,2019,0.291,0.227,3184000,2500000,0.157,3184000
+2017,her.27.1-24a514a,pelagic,Advice,0.162,4490000,F,SSB,721566,721566,NA,2019,0.291,0.227,3184000,2500000,0.157,3184000
+2018,her.27.1-24a514a,pelagic,Advice,0.128,4103000,F,SSB,592899,592899,NA,2019,0.291,0.227,3184000,2500000,0.157,3184000
+2019,her.27.1-24a514a,pelagic,Advice,NA,3965000,F,SSB,NA,NA,NA,2019,0.291,0.227,3184000,2500000,0.157,3184000
+1982,hom.27.2a4a5b6a7a-ce-k8,pelagic,Advice,0.019,2328100,F,SSB,61197,61197,0,2019,0.103,0.074,1168272,834480,0.074,1168272
+1983,hom.27.2a4a5b6a7a-ce-k8,pelagic,Advice,0.025,2480650,F,SSB,90442,90442,0,2019,0.103,0.074,1168272,834480,0.074,1168272
+1984,hom.27.2a4a5b6a7a-ce-k8,pelagic,Advice,0.022,2629270,F,SSB,96244,96244,0,2019,0.103,0.074,1168272,834480,0.074,1168272
+1985,hom.27.2a4a5b6a7a-ce-k8,pelagic,Advice,0.018,3097870,F,SSB,96343,96343,0,2019,0.103,0.074,1168272,834480,0.074,1168272
+1986,hom.27.2a4a5b6a7a-ce-k8,pelagic,Advice,0.022,4443340,F,SSB,137499,137499,0,2019,0.103,0.074,1168272,834480,0.074,1168272
+1987,hom.27.2a4a5b6a7a-ce-k8,pelagic,Advice,0.028,5253010,F,SSB,187338,187338,0,2019,0.103,0.074,1168272,834480,0.074,1168272
+1988,hom.27.2a4a5b6a7a-ce-k8,pelagic,Advice,0.031,5325910,F,SSB,210989,210989,0,2019,0.103,0.074,1168272,834480,0.074,1168272
+1989,hom.27.2a4a5b6a7a-ce-k8,pelagic,Advice,0.032,5131330,F,SSB,209583,209583,0,2019,0.103,0.074,1168272,834480,0.074,1168272
+1990,hom.27.2a4a5b6a7a-ce-k8,pelagic,Advice,0.045,4871080,F,SSB,275968,275968,0,2019,0.103,0.074,1168272,834480,0.074,1168272
+1991,hom.27.2a4a5b6a7a-ce-k8,pelagic,Advice,0.051,4553440,F,SSB,287438,287438,0,2019,0.103,0.074,1168272,834480,0.074,1168272
+1992,hom.27.2a4a5b6a7a-ce-k8,pelagic,Advice,0.077,4170400,F,SSB,393631,393631,0,2019,0.103,0.074,1168272,834480,0.074,1168272
+1993,hom.27.2a4a5b6a7a-ce-k8,pelagic,Advice,0.103,3644200,F,SSB,453246,453246,0,2019,0.103,0.074,1168272,834480,0.074,1168272
+1994,hom.27.2a4a5b6a7a-ce-k8,pelagic,Advice,0.108,3078290,F,SSB,412291,412291,0,2019,0.103,0.074,1168272,834480,0.074,1168272
+1995,hom.27.2a4a5b6a7a-ce-k8,pelagic,Advice,0.16,2663000,F,SSB,538950,538950,0,2019,0.103,0.074,1168272,834480,0.074,1168272
+1996,hom.27.2a4a5b6a7a-ce-k8,pelagic,Advice,0.14,2302530,F,SSB,422396,422396,0,2019,0.103,0.074,1168272,834480,0.074,1168272
+1997,hom.27.2a4a5b6a7a-ce-k8,pelagic,Advice,0.196,2147540,F,SSB,534673,534673,0,2019,0.103,0.074,1168272,834480,0.074,1168272
+1998,hom.27.2a4a5b6a7a-ce-k8,pelagic,Advice,0.133,1911070,F,SSB,325340,325340,0,2019,0.103,0.074,1168272,834480,0.074,1168272
+1999,hom.27.2a4a5b6a7a-ce-k8,pelagic,Advice,0.134,1799520,F,SSB,298992,298992,0,2019,0.103,0.074,1168272,834480,0.074,1168272
+2000,hom.27.2a4a5b6a7a-ce-k8,pelagic,Advice,0.099,1621070,F,SSB,202350,202732,382,2019,0.103,0.074,1168272,834480,0.074,1168272
+2001,hom.27.2a4a5b6a7a-ce-k8,pelagic,Advice,0.122,1482230,F,SSB,228827,229081,254,2019,0.103,0.074,1168272,834480,0.074,1168272
+2002,hom.27.2a4a5b6a7a-ce-k8,pelagic,Advice,0.111,1328200,F,SSB,195813,196120,307,2019,0.103,0.074,1168272,834480,0.074,1168272
+2003,hom.27.2a4a5b6a7a-ce-k8,pelagic,Advice,0.106,1239480,F,SSB,191014,191856,842,2019,0.103,0.074,1168272,834480,0.074,1168272
+2004,hom.27.2a4a5b6a7a-ce-k8,pelagic,Advice,0.081,1271170,F,SSB,157386,159742,2356,2019,0.103,0.074,1168272,834480,0.074,1168272
+2005,hom.27.2a4a5b6a7a-ce-k8,pelagic,Advice,0.086,1536410,F,SSB,180199,182001,1802,2019,0.103,0.074,1168272,834480,0.074,1168272
+2006,hom.27.2a4a5b6a7a-ce-k8,pelagic,Advice,0.073,1651270,F,SSB,154474,155827,1353,2019,0.103,0.074,1168272,834480,0.074,1168272
+2007,hom.27.2a4a5b6a7a-ce-k8,pelagic,Advice,0.059,1629560,F,SSB,122985,123356,370,2019,0.103,0.074,1168272,834480,0.074,1168272
+2008,hom.27.2a4a5b6a7a-ce-k8,pelagic,Advice,0.071,1585800,F,SSB,142875,143349,474,2019,0.103,0.074,1168272,834480,0.074,1168272
+2009,hom.27.2a4a5b6a7a-ce-k8,pelagic,Advice,0.098,1484240,F,SSB,183335,183782,447,2019,0.103,0.074,1168272,834480,0.074,1168272
+2010,hom.27.2a4a5b6a7a-ce-k8,pelagic,Advice,0.118,1331920,F,SSB,202680,203112,432,2019,0.103,0.074,1168272,834480,0.074,1168272
+2011,hom.27.2a4a5b6a7a-ce-k8,pelagic,Advice,0.121,1211620,F,SSB,193268,193698,430,2019,0.103,0.074,1168272,834480,0.074,1168272
+2012,hom.27.2a4a5b6a7a-ce-k8,pelagic,Advice,0.115,1164950,F,SSB,166579,169859,3279,2019,0.103,0.074,1168272,834480,0.074,1168272
+2013,hom.27.2a4a5b6a7a-ce-k8,pelagic,Advice,0.124,1087630,F,SSB,160676,165258,4582,2019,0.103,0.074,1168272,834480,0.074,1168272
+2014,hom.27.2a4a5b6a7a-ce-k8,pelagic,Advice,0.115,955525,F,SSB,134463,136360,1896,2019,0.103,0.074,1168272,834480,0.074,1168272
+2015,hom.27.2a4a5b6a7a-ce-k8,pelagic,Advice,0.09,838866,F,SSB,94192,98419,4228,2019,0.103,0.074,1168272,834480,0.074,1168272
+2016,hom.27.2a4a5b6a7a-ce-k8,pelagic,Advice,0.093,786772,F,SSB,94393,98810,4417,2019,0.103,0.074,1168272,834480,0.074,1168272
+2017,hom.27.2a4a5b6a7a-ce-k8,pelagic,Advice,0.076,761613,F,SSB,79033,82961,3928,2019,0.103,0.074,1168272,834480,0.074,1168272
+2018,hom.27.2a4a5b6a7a-ce-k8,pelagic,Advice,0.087,811685,F,SSB,99072,101682,2609,2019,0.103,0.074,1168272,834480,0.074,1168272
+2019,hom.27.2a4a5b6a7a-ce-k8,pelagic,Advice,NA,872831,F,SSB,NA,NA,NA,2019,0.103,0.074,1168272,834480,0.074,1168272
+1988,lin.27.1-2,demersal,Advice,NA,NA,F,B_index,6126,6126,NA,2019,NA,NA,NA,NA,NA,NA
+1989,lin.27.1-2,demersal,Advice,NA,NA,F,B_index,7368,7368,NA,2019,NA,NA,NA,NA,NA,NA
+1990,lin.27.1-2,demersal,Advice,NA,NA,F,B_index,7628,7628,NA,2019,NA,NA,NA,NA,NA,NA
+1991,lin.27.1-2,demersal,Advice,NA,NA,F,B_index,7793,7793,NA,2019,NA,NA,NA,NA,NA,NA
+1992,lin.27.1-2,demersal,Advice,NA,NA,F,B_index,6521,6521,NA,2019,NA,NA,NA,NA,NA,NA
+1993,lin.27.1-2,demersal,Advice,NA,NA,F,B_index,7093,7093,NA,2019,NA,NA,NA,NA,NA,NA
+1994,lin.27.1-2,demersal,Advice,NA,NA,F,B_index,6322,6322,NA,2019,NA,NA,NA,NA,NA,NA
+1995,lin.27.1-2,demersal,Advice,NA,NA,F,B_index,5954,5954,NA,2019,NA,NA,NA,NA,NA,NA
+1996,lin.27.1-2,demersal,Advice,NA,NA,F,B_index,6346,6346,NA,2019,NA,NA,NA,NA,NA,NA
+1997,lin.27.1-2,demersal,Advice,NA,NA,F,B_index,5409,5409,NA,2019,NA,NA,NA,NA,NA,NA
+1998,lin.27.1-2,demersal,Advice,NA,NA,F,B_index,9200,9200,NA,2019,NA,NA,NA,NA,NA,NA
+1999,lin.27.1-2,demersal,Advice,NA,NA,F,B_index,7651,7651,NA,2019,NA,NA,NA,NA,NA,NA
+2000,lin.27.1-2,demersal,Advice,NA,48.87,F,B_index,5964,5964,NA,2019,NA,NA,NA,NA,NA,NA
+2001,lin.27.1-2,demersal,Advice,NA,41.21,F,B_index,4957,4957,NA,2019,NA,NA,NA,NA,NA,NA
+2002,lin.27.1-2,demersal,Advice,NA,40.77,F,B_index,7132,7132,NA,2019,NA,NA,NA,NA,NA,NA
+2003,lin.27.1-2,demersal,Advice,NA,41.65,F,B_index,6157,6157,NA,2019,NA,NA,NA,NA,NA,NA
+2004,lin.27.1-2,demersal,Advice,NA,49.79,F,B_index,6560,6560,NA,2019,NA,NA,NA,NA,NA,NA
+2005,lin.27.1-2,demersal,Advice,NA,64.71,F,B_index,6306,6306,NA,2019,NA,NA,NA,NA,NA,NA
+2006,lin.27.1-2,demersal,Advice,NA,57.79,F,B_index,8848,8848,NA,2019,NA,NA,NA,NA,NA,NA
+2007,lin.27.1-2,demersal,Advice,NA,61.42,F,B_index,10334,10334,NA,2019,NA,NA,NA,NA,NA,NA
+2008,lin.27.1-2,demersal,Advice,NA,68.29,F,B_index,11346,11346,NA,2019,NA,NA,NA,NA,NA,NA
+2009,lin.27.1-2,demersal,Advice,NA,71.27,F,B_index,8564,8564,NA,2019,NA,NA,NA,NA,NA,NA
+2010,lin.27.1-2,demersal,Advice,NA,81.22,F,B_index,10580,10580,NA,2019,NA,NA,NA,NA,NA,NA
+2011,lin.27.1-2,demersal,Advice,NA,76.58,F,B_index,10098,10098,NA,2019,NA,NA,NA,NA,NA,NA
+2012,lin.27.1-2,demersal,Advice,NA,74.55,F,B_index,8849,8849,NA,2019,NA,NA,NA,NA,NA,NA
+2013,lin.27.1-2,demersal,Advice,NA,79.97,F,B_index,9027,9027,NA,2019,NA,NA,NA,NA,NA,NA
+2014,lin.27.1-2,demersal,Advice,NA,98.63,F,B_index,9597,9597,NA,2019,NA,NA,NA,NA,NA,NA
+2015,lin.27.1-2,demersal,Advice,NA,98.05,F,B_index,8550,8550,NA,2019,NA,NA,NA,NA,NA,NA
+2016,lin.27.1-2,demersal,Advice,NA,96.88,F,B_index,8822,8822,NA,2019,NA,NA,NA,NA,NA,NA
+2017,lin.27.1-2,demersal,Advice,NA,121.14,F,B_index,7971,7971,NA,2019,NA,NA,NA,NA,NA,NA
+2018,lin.27.1-2,demersal,Advice,NA,112.23,F,B_index,11613,11613,NA,2019,NA,NA,NA,NA,NA,NA
+1980,mac.27.nea,pelagic,Advice,0.225,4133735,F,SSB,NA,734950,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+1980,mac.27.nea,pelagic,Advice,0.225,4133735,F,SSB,NA,734950,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+1981,mac.27.nea,pelagic,Advice,0.225,3619938,F,SSB,NA,754045,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+1981,mac.27.nea,pelagic,Advice,0.225,3619938,F,SSB,NA,754045,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+1982,mac.27.nea,pelagic,Advice,0.226,3493680,F,SSB,NA,716987,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+1982,mac.27.nea,pelagic,Advice,0.226,3493680,F,SSB,NA,716987,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+1983,mac.27.nea,pelagic,Advice,0.227,3731743,F,SSB,NA,672283,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+1983,mac.27.nea,pelagic,Advice,0.227,3731743,F,SSB,NA,672283,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+1984,mac.27.nea,pelagic,Advice,0.228,4010169,F,SSB,NA,641928,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+1984,mac.27.nea,pelagic,Advice,0.228,4010169,F,SSB,NA,641928,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+1985,mac.27.nea,pelagic,Advice,0.231,3978339,F,SSB,NA,614371,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+1985,mac.27.nea,pelagic,Advice,0.231,3978339,F,SSB,NA,614371,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+1986,mac.27.nea,pelagic,Advice,0.235,3562706,F,SSB,NA,602201,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+1986,mac.27.nea,pelagic,Advice,0.235,3562706,F,SSB,NA,602201,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+1987,mac.27.nea,pelagic,Advice,0.24,3528345,F,SSB,NA,654992,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+1987,mac.27.nea,pelagic,Advice,0.24,3528345,F,SSB,NA,654992,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+1988,mac.27.nea,pelagic,Advice,0.246,3473395,F,SSB,NA,680491,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+1988,mac.27.nea,pelagic,Advice,0.246,3473395,F,SSB,NA,680491,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+1989,mac.27.nea,pelagic,Advice,0.254,3257928,F,SSB,NA,585920,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+1989,mac.27.nea,pelagic,Advice,0.254,3257928,F,SSB,NA,585920,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+1990,mac.27.nea,pelagic,Advice,0.265,3327951,F,SSB,NA,626107,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+1990,mac.27.nea,pelagic,Advice,0.265,3327951,F,SSB,NA,626107,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+1991,mac.27.nea,pelagic,Advice,0.277,3226517,F,SSB,NA,675665,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+1991,mac.27.nea,pelagic,Advice,0.277,3226517,F,SSB,NA,675665,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+1992,mac.27.nea,pelagic,Advice,0.29,2968248,F,SSB,NA,760690,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+1992,mac.27.nea,pelagic,Advice,0.29,2968248,F,SSB,NA,760690,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+1993,mac.27.nea,pelagic,Advice,0.302,2648332,F,SSB,NA,824568,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+1993,mac.27.nea,pelagic,Advice,0.302,2648332,F,SSB,NA,824568,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+1994,mac.27.nea,pelagic,Advice,0.31,2329018,F,SSB,NA,819087,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+1994,mac.27.nea,pelagic,Advice,0.31,2329018,F,SSB,NA,819087,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+1995,mac.27.nea,pelagic,Advice,0.31,2303399,F,SSB,NA,756277,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+1995,mac.27.nea,pelagic,Advice,0.31,2303399,F,SSB,NA,756277,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+1996,mac.27.nea,pelagic,Advice,0.306,2185774,F,SSB,NA,563472,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+1996,mac.27.nea,pelagic,Advice,0.306,2185774,F,SSB,NA,563472,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+1997,mac.27.nea,pelagic,Advice,0.304,2148580,F,SSB,NA,573029,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+1997,mac.27.nea,pelagic,Advice,0.304,2148580,F,SSB,NA,573029,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+1998,mac.27.nea,pelagic,Advice,0.31,2118079,F,SSB,NA,666316,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+1998,mac.27.nea,pelagic,Advice,0.31,2118079,F,SSB,NA,666316,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+1999,mac.27.nea,pelagic,Advice,0.322,2302099,F,SSB,NA,640309,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+1999,mac.27.nea,pelagic,Advice,0.322,2302099,F,SSB,NA,640309,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+2000,mac.27.nea,pelagic,Advice,0.336,2283798,F,SSB,NA,738606,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+2000,mac.27.nea,pelagic,Advice,0.336,2283798,F,SSB,NA,738606,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+2001,mac.27.nea,pelagic,Advice,0.363,2172227,F,SSB,NA,737463,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+2001,mac.27.nea,pelagic,Advice,0.363,2172227,F,SSB,NA,737463,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+2002,mac.27.nea,pelagic,Advice,0.386,2066525,F,SSB,NA,771422,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+2002,mac.27.nea,pelagic,Advice,0.386,2066525,F,SSB,NA,771422,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+2003,mac.27.nea,pelagic,Advice,0.4,2001924,F,SSB,NA,679287,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+2003,mac.27.nea,pelagic,Advice,0.4,2001924,F,SSB,NA,679287,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+2004,mac.27.nea,pelagic,Advice,0.375,2623839,F,SSB,NA,660491,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+2004,mac.27.nea,pelagic,Advice,0.375,2623839,F,SSB,NA,660491,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+2005,mac.27.nea,pelagic,Advice,0.315,2356722,F,SSB,NA,549514,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+2005,mac.27.nea,pelagic,Advice,0.315,2356722,F,SSB,NA,549514,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+2006,mac.27.nea,pelagic,Advice,0.296,2154446,F,SSB,NA,481181,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+2006,mac.27.nea,pelagic,Advice,0.296,2154446,F,SSB,NA,481181,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+2007,mac.27.nea,pelagic,Advice,0.324,2282022,F,SSB,NA,586206,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+2007,mac.27.nea,pelagic,Advice,0.324,2282022,F,SSB,NA,586206,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+2008,mac.27.nea,pelagic,Advice,0.317,2651098,F,SSB,NA,623165,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+2008,mac.27.nea,pelagic,Advice,0.317,2651098,F,SSB,NA,623165,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+2009,mac.27.nea,pelagic,Advice,0.294,3272629,F,SSB,NA,737969,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+2009,mac.27.nea,pelagic,Advice,0.294,3272629,F,SSB,NA,737969,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+2010,mac.27.nea,pelagic,Advice,0.288,3650817,F,SSB,NA,875515,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+2010,mac.27.nea,pelagic,Advice,0.288,3650817,F,SSB,NA,875515,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+2011,mac.27.nea,pelagic,Advice,0.286,4115518,F,SSB,NA,946661,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+2011,mac.27.nea,pelagic,Advice,0.286,4115518,F,SSB,NA,946661,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+2012,mac.27.nea,pelagic,Advice,0.27,3780926,F,SSB,NA,892353,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+2012,mac.27.nea,pelagic,Advice,0.27,3780926,F,SSB,NA,892353,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+2013,mac.27.nea,pelagic,Advice,0.273,4185895,F,SSB,NA,931732,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+2013,mac.27.nea,pelagic,Advice,0.273,4185895,F,SSB,NA,931732,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+2014,mac.27.nea,pelagic,Advice,0.278,5229726,F,SSB,NA,1393000,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+2014,mac.27.nea,pelagic,Advice,0.278,5229726,F,SSB,NA,1393000,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+2015,mac.27.nea,pelagic,Advice,0.265,5195560,F,SSB,NA,1208990,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+2015,mac.27.nea,pelagic,Advice,0.265,5195560,F,SSB,NA,1208990,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+2016,mac.27.nea,pelagic,Advice,0.241,4896846,F,SSB,NA,1094066,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+2016,mac.27.nea,pelagic,Advice,0.241,4896846,F,SSB,NA,1094066,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+2017,mac.27.nea,pelagic,Advice,0.241,4692164,F,SSB,NA,1155944,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+2017,mac.27.nea,pelagic,Advice,0.241,4692164,F,SSB,NA,1155944,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+2018,mac.27.nea,pelagic,Advice,0.238,4279185,F,SSB,NA,1026437,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+2018,mac.27.nea,pelagic,Advice,0.238,4279185,F,SSB,NA,1026437,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+2019,mac.27.nea,pelagic,Advice,NA,4312156,F,SSB,NA,NA,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+2019,mac.27.nea,pelagic,Advice,NA,4312156,F,SSB,NA,NA,NA,2019,0.46,0.37,2500000,1990000,0.23,2500000
+1960,pok.27.1-2,demersal,Advice,0.276,461689,F,SSB,133515,133515,NA,2019,0.58,0.35,220000,136000,NA,NA
+1961,pok.27.1-2,demersal,Advice,0.233,455025,F,SSB,105951,105951,NA,2019,0.58,0.35,220000,136000,NA,NA
+1962,pok.27.1-2,demersal,Advice,0.233,459946,F,SSB,120707,120707,NA,2019,0.58,0.35,220000,136000,NA,NA
+1963,pok.27.1-2,demersal,Advice,0.247,456518,F,SSB,148627,148627,NA,2019,0.58,0.35,220000,136000,NA,NA
+1964,pok.27.1-2,demersal,Advice,0.284,479946,F,SSB,197426,197426,NA,2019,0.58,0.35,220000,136000,NA,NA
+1965,pok.27.1-2,demersal,Advice,0.29,518913,F,SSB,185600,185600,NA,2019,0.58,0.35,220000,136000,NA,NA
+1966,pok.27.1-2,demersal,Advice,0.299,479829,F,SSB,203788,203788,NA,2019,0.58,0.35,220000,136000,NA,NA
+1967,pok.27.1-2,demersal,Advice,0.279,492147,F,SSB,181326,181326,NA,2019,0.58,0.35,220000,136000,NA,NA
+1968,pok.27.1-2,demersal,Advice,0.202,470746,F,SSB,110247,110247,NA,2019,0.58,0.35,220000,136000,NA,NA
+1969,pok.27.1-2,demersal,Advice,0.195,510616,F,SSB,140060,140060,NA,2019,0.58,0.35,220000,136000,NA,NA
+1970,pok.27.1-2,demersal,Advice,0.309,565689,F,SSB,264924,264924,NA,2019,0.58,0.35,220000,136000,NA,NA
+1971,pok.27.1-2,demersal,Advice,0.326,554013,F,SSB,241272,241272,NA,2019,0.58,0.35,220000,136000,NA,NA
+1972,pok.27.1-2,demersal,Advice,0.321,537029,F,SSB,214334,214334,NA,2019,0.58,0.35,220000,136000,NA,NA
+1973,pok.27.1-2,demersal,Advice,0.358,536980,F,SSB,213859,213859,NA,2019,0.58,0.35,220000,136000,NA,NA
+1974,pok.27.1-2,demersal,Advice,0.48,491972,F,SSB,264121,264121,NA,2019,0.58,0.35,220000,136000,NA,NA
+1975,pok.27.1-2,demersal,Advice,0.539,398071,F,SSB,233453,233453,NA,2019,0.58,0.35,220000,136000,NA,NA
+1976,pok.27.1-2,demersal,Advice,0.572,281688,F,SSB,242486,242486,NA,2019,0.58,0.35,220000,136000,NA,NA
+1977,pok.27.1-2,demersal,Advice,0.501,209744,F,SSB,182817,182817,NA,2019,0.58,0.35,220000,136000,NA,NA
+1978,pok.27.1-2,demersal,Advice,0.553,189232,F,SSB,155464,155464,NA,2019,0.58,0.35,220000,136000,NA,NA
+1979,pok.27.1-2,demersal,Advice,0.588,170643,F,SSB,164680,164680,NA,2019,0.58,0.35,220000,136000,NA,NA
+1980,pok.27.1-2,demersal,Advice,0.564,150451,F,SSB,144554,144554,NA,2019,0.58,0.35,220000,136000,NA,NA
+1981,pok.27.1-2,demersal,Advice,0.558,154708,F,SSB,175540,175540,NA,2019,0.58,0.35,220000,136000,NA,NA
+1982,pok.27.1-2,demersal,Advice,0.555,135940,F,SSB,168034,168034,NA,2019,0.58,0.35,220000,136000,NA,NA
+1983,pok.27.1-2,demersal,Advice,0.604,162762,F,SSB,156936,156936,NA,2019,0.58,0.35,220000,136000,NA,NA
+1984,pok.27.1-2,demersal,Advice,0.715,146367,F,SSB,158786,158786,NA,2019,0.58,0.35,220000,136000,NA,NA
+1985,pok.27.1-2,demersal,Advice,0.635,110846,F,SSB,107183,107183,NA,2019,0.58,0.35,220000,136000,NA,NA
+1986,pok.27.1-2,demersal,Advice,0.544,83484,F,SSB,67396,67396,NA,2019,0.58,0.35,220000,136000,NA,NA
+1987,pok.27.1-2,demersal,Advice,0.615,72113,F,SSB,92391,92391,NA,2019,0.58,0.35,220000,136000,NA,NA
+1988,pok.27.1-2,demersal,Advice,0.605,88171,F,SSB,114242,114242,NA,2019,0.58,0.35,220000,136000,NA,NA
+1989,pok.27.1-2,demersal,Advice,0.487,103206,F,SSB,122817,122817,NA,2019,0.58,0.35,220000,136000,NA,NA
+1990,pok.27.1-2,demersal,Advice,0.55,119544,F,SSB,95848,95848,NA,2019,0.58,0.35,220000,136000,NA,NA
+1991,pok.27.1-2,demersal,Advice,0.509,114596,F,SSB,107327,107327,NA,2019,0.58,0.35,220000,136000,NA,NA
+1992,pok.27.1-2,demersal,Advice,0.605,94977,F,SSB,127604,127604,NA,2019,0.58,0.35,220000,136000,NA,NA
+1993,pok.27.1-2,demersal,Advice,0.533,97175,F,SSB,154903,154903,NA,2019,0.58,0.35,220000,136000,NA,NA
+1994,pok.27.1-2,demersal,Advice,0.477,147869,F,SSB,146950,146950,NA,2019,0.58,0.35,220000,136000,NA,NA
+1995,pok.27.1-2,demersal,Advice,0.372,196889,F,SSB,168378,168378,NA,2019,0.58,0.35,220000,136000,NA,NA
+1996,pok.27.1-2,demersal,Advice,0.36,246126,F,SSB,171348,171348,NA,2019,0.58,0.35,220000,136000,NA,NA
+1997,pok.27.1-2,demersal,Advice,0.255,245371,F,SSB,143629,143629,NA,2019,0.58,0.35,220000,136000,NA,NA
+1998,pok.27.1-2,demersal,Advice,0.254,294112,F,SSB,153327,153327,NA,2019,0.58,0.35,220000,136000,NA,NA
+1999,pok.27.1-2,demersal,Advice,0.254,310104,F,SSB,150375,150375,NA,2019,0.58,0.35,220000,136000,NA,NA
+2000,pok.27.1-2,demersal,Advice,0.225,370374,F,SSB,135928,135928,NA,2019,0.58,0.35,220000,136000,NA,NA
+2001,pok.27.1-2,demersal,Advice,0.196,376555,F,SSB,135853,135853,NA,2019,0.58,0.35,220000,136000,NA,NA
+2002,pok.27.1-2,demersal,Advice,0.188,452970,F,SSB,154870,154870,NA,2019,0.58,0.35,220000,136000,NA,NA
+2003,pok.27.1-2,demersal,Advice,0.182,442949,F,SSB,161592,161592,NA,2019,0.58,0.35,220000,136000,NA,NA
+2004,pok.27.1-2,demersal,Advice,0.176,525691,F,SSB,164636,164636,NA,2019,0.58,0.35,220000,136000,NA,NA
+2005,pok.27.1-2,demersal,Advice,0.207,611511,F,SSB,178568,178568,NA,2019,0.58,0.35,220000,136000,NA,NA
+2006,pok.27.1-2,demersal,Advice,0.247,543695,F,SSB,212822,212822,NA,2019,0.58,0.35,220000,136000,NA,NA
+2007,pok.27.1-2,demersal,Advice,0.261,552527,F,SSB,199008,199008,NA,2019,0.58,0.35,220000,136000,NA,NA
+2008,pok.27.1-2,demersal,Advice,0.329,477066,F,SSB,184740,184740,NA,2019,0.58,0.35,220000,136000,NA,NA
+2009,pok.27.1-2,demersal,Advice,0.342,368792,F,SSB,161853,161853,NA,2019,0.58,0.35,220000,136000,NA,NA
+2010,pok.27.1-2,demersal,Advice,0.377,333601,F,SSB,194837,194837,NA,2019,0.58,0.35,220000,136000,NA,NA
+2011,pok.27.1-2,demersal,Advice,0.373,298212,F,SSB,156716,156716,NA,2019,0.58,0.35,220000,136000,NA,NA
+2012,pok.27.1-2,demersal,Advice,0.351,307997,F,SSB,160865,160865,NA,2019,0.58,0.35,220000,136000,NA,NA
+2013,pok.27.1-2,demersal,Advice,0.289,331872,F,SSB,131806,131806,NA,2019,0.58,0.35,220000,136000,NA,NA
+2014,pok.27.1-2,demersal,Advice,0.261,360463,F,SSB,132005,132005,NA,2019,0.58,0.35,220000,136000,NA,NA
+2015,pok.27.1-2,demersal,Advice,0.247,372942,F,SSB,131845,131845,NA,2019,0.58,0.35,220000,136000,NA,NA
+2016,pok.27.1-2,demersal,Advice,0.241,413202,F,SSB,140392,140392,NA,2019,0.58,0.35,220000,136000,NA,NA
+2017,pok.27.1-2,demersal,Advice,0.22,431671,F,SSB,146221,146221,NA,2019,0.58,0.35,220000,136000,NA,NA
+2018,pok.27.1-2,demersal,Advice,0.231,494841,F,SSB,181283,181283,NA,2019,0.58,0.35,220000,136000,NA,NA
+2019,pok.27.1-2,demersal,Advice,NA,555377,F,SSB,NA,NA,NA,2019,0.58,0.35,220000,136000,NA,NA
+1926,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,279,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1927,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,457,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1928,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,611,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1929,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,832,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1930,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,1505,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1931,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,1106,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1932,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,1603,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1933,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,3884,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1934,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,3626,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1935,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,1993,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1936,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,2459,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1937,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,2805,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1938,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,2733,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1939,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,2213,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1940,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,104,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1941,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,283,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1942,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,288,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1943,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,351,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1944,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,321,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1945,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,927,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1946,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,2488,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1947,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,6124,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1948,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,4014,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1949,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,2951,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1950,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,3262,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1951,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,2381,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1952,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,2209,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1953,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,1816,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1954,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,1246,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1955,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,1477,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1956,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,1318,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1957,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,1661,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1958,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,1743,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1959,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,1757,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1960,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,2303,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1961,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,1492,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1962,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,775,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1963,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,314,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1964,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,316,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1965,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,381,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1966,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,364,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1967,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,464,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1968,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,806,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1969,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,1023,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1970,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,408,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1971,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,991,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1972,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,1755,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1973,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,985,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1974,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,744,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1975,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,1063,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1976,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,1185,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1977,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,834,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1978,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,763,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1979,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,864,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1980,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,932,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1981,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,777,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1982,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,636,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1983,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,616,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1984,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,484,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1985,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,406,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1986,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,399,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1987,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,389,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1988,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,471,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1989,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,462,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1990,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,690,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1991,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,482,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1992,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,629,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1993,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,862,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1994,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,1047,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1995,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,827,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1996,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,628,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1997,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,633,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1998,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,612,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1999,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,498,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2000,por.27.nea,elasmobranch,Advice,NA,2,F,A_index,563,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2001,por.27.nea,elasmobranch,Advice,NA,1,F,A_index,525,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2002,por.27.nea,elasmobranch,Advice,NA,4,F,A_index,599,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2003,por.27.nea,elasmobranch,Advice,NA,1,F,A_index,519,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2004,por.27.nea,elasmobranch,Advice,NA,3,F,A_index,554,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2005,por.27.nea,elasmobranch,Advice,NA,1,F,A_index,379,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2006,por.27.nea,elasmobranch,Advice,NA,4,F,A_index,381,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2007,por.27.nea,elasmobranch,Advice,NA,6,F,A_index,484,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2008,por.27.nea,elasmobranch,Advice,NA,6,F,A_index,648,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2009,por.27.nea,elasmobranch,Advice,NA,2,F,A_index,529,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2010,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,37,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2011,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,34,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2012,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,74,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2013,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,40,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2014,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,22,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2015,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,19,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2016,por.27.nea,elasmobranch,Advice,NA,NA,F,A_index,14,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2017,por.27.nea,elasmobranch,Advice,NA,5,F,A_index,10,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2018,por.27.nea,elasmobranch,Advice,NA,4,F,A_index,7,NA,89,2019,NA,NA,NA,NA,NA,NA
+1952,reb.27.1-2,pelagic,Advice,NA,NA,F,SSB,5000,5000,NA,2018,NA,NA,315000,227000,NA,315000
+1953,reb.27.1-2,pelagic,Advice,NA,NA,F,SSB,7100,7100,NA,2018,NA,NA,315000,227000,NA,315000
+1954,reb.27.1-2,pelagic,Advice,NA,NA,F,SSB,19600,19600,NA,2018,NA,NA,315000,227000,NA,315000
+1955,reb.27.1-2,pelagic,Advice,NA,NA,F,SSB,22800,22800,NA,2018,NA,NA,315000,227000,NA,315000
+1956,reb.27.1-2,pelagic,Advice,NA,NA,F,SSB,22900,22900,NA,2018,NA,NA,315000,227000,NA,315000
+1957,reb.27.1-2,pelagic,Advice,NA,NA,F,SSB,45700,45700,NA,2018,NA,NA,315000,227000,NA,315000
+1958,reb.27.1-2,pelagic,Advice,NA,NA,F,SSB,34100,34100,NA,2018,NA,NA,315000,227000,NA,315000
+1959,reb.27.1-2,pelagic,Advice,NA,NA,F,SSB,65300,65300,NA,2018,NA,NA,315000,227000,NA,315000
+1960,reb.27.1-2,pelagic,Advice,NA,NA,F,SSB,46600,46600,NA,2018,NA,NA,315000,227000,NA,315000
+1961,reb.27.1-2,pelagic,Advice,NA,NA,F,SSB,32300,32300,NA,2018,NA,NA,315000,227000,NA,315000
+1962,reb.27.1-2,pelagic,Advice,NA,NA,F,SSB,12500,12500,NA,2018,NA,NA,315000,227000,NA,315000
+1963,reb.27.1-2,pelagic,Advice,NA,NA,F,SSB,10900,10900,NA,2018,NA,NA,315000,227000,NA,315000
+1964,reb.27.1-2,pelagic,Advice,NA,NA,F,SSB,37300,37300,NA,2018,NA,NA,315000,227000,NA,315000
+1965,reb.27.1-2,pelagic,Advice,NA,NA,F,SSB,15600,15600,NA,2018,NA,NA,315000,227000,NA,315000
+1966,reb.27.1-2,pelagic,Advice,NA,NA,F,SSB,10100,10100,NA,2018,NA,NA,315000,227000,NA,315000
+1967,reb.27.1-2,pelagic,Advice,NA,NA,F,SSB,6200,6200,NA,2018,NA,NA,315000,227000,NA,315000
+1968,reb.27.1-2,pelagic,Advice,NA,NA,F,SSB,5400,5400,NA,2018,NA,NA,315000,227000,NA,315000
+1969,reb.27.1-2,pelagic,Advice,NA,NA,F,SSB,17593,17593,NA,2018,NA,NA,315000,227000,NA,315000
+1970,reb.27.1-2,pelagic,Advice,NA,NA,F,SSB,22992,22992,NA,2018,NA,NA,315000,227000,NA,315000
+1971,reb.27.1-2,pelagic,Advice,NA,NA,F,SSB,33990,33990,NA,2018,NA,NA,315000,227000,NA,315000
+1972,reb.27.1-2,pelagic,Advice,NA,NA,F,SSB,22203,22203,NA,2018,NA,NA,315000,227000,NA,315000
+1973,reb.27.1-2,pelagic,Advice,NA,NA,F,SSB,46188,46188,NA,2018,NA,NA,315000,227000,NA,315000
+1974,reb.27.1-2,pelagic,Advice,NA,NA,F,SSB,81154,81154,NA,2018,NA,NA,315000,227000,NA,315000
+1975,reb.27.1-2,pelagic,Advice,NA,NA,F,SSB,264160,264160,NA,2018,NA,NA,315000,227000,NA,315000
+1976,reb.27.1-2,pelagic,Advice,NA,NA,F,SSB,293109,293109,NA,2018,NA,NA,315000,227000,NA,315000
+1977,reb.27.1-2,pelagic,Advice,NA,NA,F,SSB,161661,161661,NA,2018,NA,NA,315000,227000,NA,315000
+1978,reb.27.1-2,pelagic,Advice,NA,NA,F,SSB,96149,96149,NA,2018,NA,NA,315000,227000,NA,315000
+1979,reb.27.1-2,pelagic,Advice,NA,NA,F,SSB,85769,85769,NA,2018,NA,NA,315000,227000,NA,315000
+1980,reb.27.1-2,pelagic,Advice,NA,NA,F,SSB,79694,79694,NA,2018,NA,NA,315000,227000,NA,315000
+1981,reb.27.1-2,pelagic,Advice,NA,NA,F,SSB,83821,83821,NA,2018,NA,NA,315000,227000,NA,315000
+1982,reb.27.1-2,pelagic,Advice,NA,NA,F,SSB,114253,114253,NA,2018,NA,NA,315000,227000,NA,315000
+1983,reb.27.1-2,pelagic,Advice,NA,NA,F,SSB,104936,104936,NA,2018,NA,NA,315000,227000,NA,315000
+1984,reb.27.1-2,pelagic,Advice,NA,NA,F,SSB,70805,70805,NA,2018,NA,NA,315000,227000,NA,315000
+1985,reb.27.1-2,pelagic,Advice,NA,NA,F,SSB,60604,60604,NA,2018,NA,NA,315000,227000,NA,315000
+1986,reb.27.1-2,pelagic,Advice,NA,NA,F,SSB,21698,21698,NA,2018,NA,NA,315000,227000,NA,315000
+1987,reb.27.1-2,pelagic,Advice,NA,NA,F,SSB,10518,10518,NA,2018,NA,NA,315000,227000,NA,315000
+1988,reb.27.1-2,pelagic,Advice,NA,NA,F,SSB,15586,15586,NA,2018,NA,NA,315000,227000,NA,315000
+1989,reb.27.1-2,pelagic,Advice,NA,NA,F,SSB,23512,23512,NA,2018,NA,NA,315000,227000,NA,315000
+1990,reb.27.1-2,pelagic,Advice,NA,NA,F,SSB,35070,35070,NA,2018,NA,NA,315000,227000,NA,315000
+1991,reb.27.1-2,pelagic,Advice,NA,NA,F,SSB,48727,48727,NA,2018,NA,NA,315000,227000,NA,315000
+1992,reb.27.1-2,pelagic,Advice,0.048,227298,F,SSB,15590,15590,NA,2018,NA,NA,315000,227000,NA,315000
+1993,reb.27.1-2,pelagic,Advice,0.034,285774,F,SSB,12814,12814,NA,2018,NA,NA,315000,227000,NA,315000
+1994,reb.27.1-2,pelagic,Advice,0.03,362252,F,SSB,12721,12721,NA,2018,NA,NA,315000,227000,NA,315000
+1995,reb.27.1-2,pelagic,Advice,0.022,418442,F,SSB,10284,10284,NA,2018,NA,NA,315000,227000,NA,315000
+1996,reb.27.1-2,pelagic,Advice,0.016,345655,F,SSB,8075,8075,NA,2018,NA,NA,315000,227000,NA,315000
+1997,reb.27.1-2,pelagic,Advice,0.015,426388,F,SSB,8598,8598,NA,2018,NA,NA,315000,227000,NA,315000
+1998,reb.27.1-2,pelagic,Advice,0.021,484077,F,SSB,14045,14045,NA,2018,NA,NA,315000,227000,NA,315000
+1999,reb.27.1-2,pelagic,Advice,0.016,546747,F,SSB,11209,11209,NA,2018,NA,NA,315000,227000,NA,315000
+2000,reb.27.1-2,pelagic,Advice,0.013,637308,F,SSB,10075,10075,NA,2018,NA,NA,315000,227000,NA,315000
+2001,reb.27.1-2,pelagic,Advice,0.022,602536,F,SSB,18418,18418,NA,2018,NA,NA,315000,227000,NA,315000
+2002,reb.27.1-2,pelagic,Advice,0.008,674327,F,SSB,6993,6993,NA,2018,NA,NA,315000,227000,NA,315000
+2003,reb.27.1-2,pelagic,Advice,0.003,745502,F,SSB,2520,2520,NA,2018,NA,NA,315000,227000,NA,315000
+2004,reb.27.1-2,pelagic,Advice,0.006,752675,F,SSB,5493,5493,NA,2018,NA,NA,315000,227000,NA,315000
+2005,reb.27.1-2,pelagic,Advice,0.009,807097,F,SSB,8465,8465,NA,2018,NA,NA,315000,227000,NA,315000
+2006,reb.27.1-2,pelagic,Advice,0.04,796042,F,SSB,33261,33261,NA,2018,NA,NA,315000,227000,NA,315000
+2007,reb.27.1-2,pelagic,Advice,0.024,933116,F,SSB,20219,20219,NA,2018,NA,NA,315000,227000,NA,315000
+2008,reb.27.1-2,pelagic,Advice,0.015,892111,F,SSB,13095,13095,NA,2018,NA,NA,315000,227000,NA,315000
+2009,reb.27.1-2,pelagic,Advice,0.012,914548,F,SSB,10246,10246,NA,2018,NA,NA,315000,227000,NA,315000
+2010,reb.27.1-2,pelagic,Advice,0.014,868970,F,SSB,11924,11924,NA,2018,NA,NA,315000,227000,NA,315000
+2011,reb.27.1-2,pelagic,Advice,0.015,855846,F,SSB,12962,12962,NA,2018,NA,NA,315000,227000,NA,315000
+2012,reb.27.1-2,pelagic,Advice,0.014,853940,F,SSB,11056,11056,NA,2018,NA,NA,315000,227000,NA,315000
+2013,reb.27.1-2,pelagic,Advice,0.012,811463,F,SSB,9474,9474,NA,2018,NA,NA,315000,227000,NA,315000
+2014,reb.27.1-2,pelagic,Advice,0.024,810552,F,SSB,18780,18780,NA,2018,NA,NA,315000,227000,NA,315000
+2015,reb.27.1-2,pelagic,Advice,0.034,799400,F,SSB,25836,25836,NA,2018,NA,NA,315000,227000,NA,315000
+2016,reb.27.1-2,pelagic,Advice,0.046,795771,F,SSB,35429,35429,NA,2018,NA,NA,315000,227000,NA,315000
+2017,reb.27.1-2,pelagic,Advice,0.039,797447,F,SSB,31201,31201,NA,2018,NA,NA,315000,227000,NA,315000
+2018,reb.27.1-2,pelagic,Advice,NA,814285,F,SSB,NA,NA,NA,2018,NA,NA,315000,227000,NA,315000
+1986,reg.27.1-2,demersal,Advice,NA,NA,F,SSB,30203,30203,NA,2018,NA,NA,61600,44000,0.0525,NA
+1987,reg.27.1-2,demersal,Advice,NA,NA,F,SSB,24077,24077,NA,2018,NA,NA,61600,44000,0.0525,NA
+1988,reg.27.1-2,demersal,Advice,NA,NA,F,SSB,25908,25908,NA,2018,NA,NA,61600,44000,0.0525,NA
+1989,reg.27.1-2,demersal,Advice,NA,NA,F,SSB,23234,23234,NA,2018,NA,NA,61600,44000,0.0525,NA
+1990,reg.27.1-2,demersal,Advice,0.526,55650,F,SSB,28072,28072,NA,2018,NA,NA,61600,44000,0.0525,NA
+1991,reg.27.1-2,demersal,Advice,0.373,55807,F,SSB,19041,19041,NA,2018,NA,NA,61600,44000,0.0525,NA
+1992,reg.27.1-2,demersal,Advice,0.304,58595,F,SSB,16185,16185,NA,2018,NA,NA,61600,44000,0.0525,NA
+1993,reg.27.1-2,demersal,Advice,0.296,61412,F,SSB,16651,16651,NA,2018,NA,NA,61600,44000,0.0525,NA
+1994,reg.27.1-2,demersal,Advice,0.309,63017,F,SSB,18120,18120,NA,2018,NA,NA,61600,44000,0.0525,NA
+1995,reg.27.1-2,demersal,Advice,0.251,65844,F,SSB,15616,15616,NA,2018,NA,NA,61600,44000,0.0525,NA
+1996,reg.27.1-2,demersal,Advice,0.282,65895,F,SSB,18043,18043,NA,2018,NA,NA,61600,44000,0.0525,NA
+1997,reg.27.1-2,demersal,Advice,0.273,64909,F,SSB,17511,17511,NA,2018,NA,NA,61600,44000,0.0525,NA
+1998,reg.27.1-2,demersal,Advice,0.306,60906,F,SSB,19155,19155,NA,2018,NA,NA,61600,44000,0.0525,NA
+1999,reg.27.1-2,demersal,Advice,0.325,55172,F,SSB,18986,18986,NA,2018,NA,NA,61600,44000,0.0525,NA
+2000,reg.27.1-2,demersal,Advice,0.26,51710,F,SSB,14461,14461,NA,2018,NA,NA,61600,44000,0.0525,NA
+2001,reg.27.1-2,demersal,Advice,0.196,50596,F,SSB,10547,10547,NA,2018,NA,NA,61600,44000,0.0525,NA
+2002,reg.27.1-2,demersal,Advice,0.179,49668,F,SSB,9643,9643,NA,2018,NA,NA,61600,44000,0.0525,NA
+2003,reg.27.1-2,demersal,Advice,0.144,49595,F,SSB,7841,7841,NA,2018,NA,NA,61600,44000,0.0525,NA
+2004,reg.27.1-2,demersal,Advice,0.136,49439,F,SSB,7206,7206,NA,2018,NA,NA,61600,44000,0.0525,NA
+2005,reg.27.1-2,demersal,Advice,0.132,48954,F,SSB,7037,7037,NA,2018,NA,NA,61600,44000,0.0525,NA
+2006,reg.27.1-2,demersal,Advice,0.142,47563,F,SSB,7388,7388,NA,2018,NA,NA,61600,44000,0.0525,NA
+2007,reg.27.1-2,demersal,Advice,0.146,45565,F,SSB,7372,7372,NA,2018,NA,NA,61600,44000,0.0525,NA
+2008,reg.27.1-2,demersal,Advice,0.136,43638,F,SSB,6599,6599,NA,2018,NA,NA,61600,44000,0.0525,NA
+2009,reg.27.1-2,demersal,Advice,0.138,41406,F,SSB,6487,6487,NA,2018,NA,NA,61600,44000,0.0525,NA
+2010,reg.27.1-2,demersal,Advice,0.184,37472,F,SSB,6981,6981,NA,2018,NA,NA,61600,44000,0.0525,NA
+2011,reg.27.1-2,demersal,Advice,0.162,34677,F,SSB,5852,5852,NA,2018,NA,NA,61600,44000,0.0525,NA
+2012,reg.27.1-2,demersal,Advice,0.176,31881,F,SSB,5517,5517,NA,2018,NA,NA,61600,44000,0.0525,NA
+2013,reg.27.1-2,demersal,Advice,0.207,28902,F,SSB,5609,5609,NA,2018,NA,NA,61600,44000,0.0525,NA
+2014,reg.27.1-2,demersal,Advice,0.189,27042,F,SSB,4436,4436,NA,2018,NA,NA,61600,44000,0.0525,NA
+2015,reg.27.1-2,demersal,Advice,0.166,26031,F,SSB,3629,3629,NA,2018,NA,NA,61600,44000,0.0525,NA
+2016,reg.27.1-2,demersal,Advice,0.232,24244,F,SSB,4675,4675,NA,2018,NA,NA,61600,44000,0.0525,NA
+2017,reg.27.1-2,demersal,Advice,0.305,22039,F,SSB,5340,5340,NA,2018,NA,NA,61600,44000,0.0525,NA
+1991,rjr.27.23a4,elasmobranch,Advice,NA,2.074,F,B_index,NA,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1992,rjr.27.23a4,elasmobranch,Advice,NA,1.409,F,B_index,NA,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1993,rjr.27.23a4,elasmobranch,Advice,NA,1.812,F,B_index,NA,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1994,rjr.27.23a4,elasmobranch,Advice,NA,0.893,F,B_index,NA,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1995,rjr.27.23a4,elasmobranch,Advice,NA,1.423,F,B_index,NA,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1996,rjr.27.23a4,elasmobranch,Advice,NA,1.211,F,B_index,NA,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1997,rjr.27.23a4,elasmobranch,Advice,NA,1.064,F,B_index,NA,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1998,rjr.27.23a4,elasmobranch,Advice,NA,1.103,F,B_index,NA,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1999,rjr.27.23a4,elasmobranch,Advice,NA,1.429,F,B_index,NA,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2000,rjr.27.23a4,elasmobranch,Advice,NA,1.632,F,B_index,NA,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2001,rjr.27.23a4,elasmobranch,Advice,NA,1.368,F,B_index,NA,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2002,rjr.27.23a4,elasmobranch,Advice,NA,1.126,F,B_index,NA,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2003,rjr.27.23a4,elasmobranch,Advice,NA,1.278,F,B_index,NA,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2004,rjr.27.23a4,elasmobranch,Advice,NA,0.936,F,B_index,NA,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2005,rjr.27.23a4,elasmobranch,Advice,NA,0.9,F,B_index,NA,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2006,rjr.27.23a4,elasmobranch,Advice,NA,0.763,F,B_index,NA,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2007,rjr.27.23a4,elasmobranch,Advice,NA,1.315,F,B_index,NA,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2008,rjr.27.23a4,elasmobranch,Advice,NA,0.907,F,B_index,NA,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2009,rjr.27.23a4,elasmobranch,Advice,NA,0.762,F,B_index,NA,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2010,rjr.27.23a4,elasmobranch,Advice,NA,0.618,F,B_index,NA,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2011,rjr.27.23a4,elasmobranch,Advice,NA,0.644,F,B_index,NA,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2012,rjr.27.23a4,elasmobranch,Advice,NA,0.602,F,B_index,0,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2013,rjr.27.23a4,elasmobranch,Advice,NA,0.435,F,B_index,0,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2014,rjr.27.23a4,elasmobranch,Advice,NA,0.446,F,B_index,0,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2015,rjr.27.23a4,elasmobranch,Advice,NA,0.681,F,B_index,0,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2016,rjr.27.23a4,elasmobranch,Advice,NA,0.523,F,B_index,0,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2017,rjr.27.23a4,elasmobranch,Advice,NA,0.365,F,B_index,0,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2018,rjr.27.23a4,elasmobranch,Advice,NA,0.28,F,B_index,1,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1990,rng.27.1245a8914ab,demersal,Advice,NA,NA,F,SSB,78,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1991,rng.27.1245a8914ab,demersal,Advice,NA,NA,F,SSB,113,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1992,rng.27.1245a8914ab,demersal,Advice,NA,NA,F,SSB,288,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1993,rng.27.1245a8914ab,demersal,Advice,NA,NA,F,SSB,326,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1994,rng.27.1245a8914ab,demersal,Advice,NA,NA,F,SSB,269,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1995,rng.27.1245a8914ab,demersal,Advice,NA,NA,F,SSB,441,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1996,rng.27.1245a8914ab,demersal,Advice,NA,NA,F,SSB,178,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1997,rng.27.1245a8914ab,demersal,Advice,NA,NA,F,SSB,366,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1998,rng.27.1245a8914ab,demersal,Advice,NA,NA,F,SSB,366,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1999,rng.27.1245a8914ab,demersal,Advice,NA,NA,F,SSB,458,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2000,rng.27.1245a8914ab,demersal,Advice,NA,NA,F,SSB,211,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2001,rng.27.1245a8914ab,demersal,Advice,NA,NA,F,SSB,238,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2002,rng.27.1245a8914ab,demersal,Advice,NA,NA,F,SSB,205,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2003,rng.27.1245a8914ab,demersal,Advice,NA,NA,F,SSB,151,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2004,rng.27.1245a8914ab,demersal,Advice,NA,NA,F,SSB,719,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2005,rng.27.1245a8914ab,demersal,Advice,NA,NA,F,SSB,173,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2006,rng.27.1245a8914ab,demersal,Advice,NA,NA,F,SSB,233,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2007,rng.27.1245a8914ab,demersal,Advice,NA,NA,F,SSB,84,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2008,rng.27.1245a8914ab,demersal,Advice,NA,NA,F,SSB,90,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2009,rng.27.1245a8914ab,demersal,Advice,NA,NA,F,SSB,102,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2010,rng.27.1245a8914ab,demersal,Advice,NA,NA,F,SSB,186,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2011,rng.27.1245a8914ab,demersal,Advice,NA,NA,F,SSB,253,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2012,rng.27.1245a8914ab,demersal,Advice,NA,NA,F,SSB,213,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2013,rng.27.1245a8914ab,demersal,Advice,NA,NA,F,SSB,232,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2014,rng.27.1245a8914ab,demersal,Advice,NA,NA,F,SSB,154,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2015,rng.27.1245a8914ab,demersal,Advice,NA,NA,F,SSB,216,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2016,rng.27.1245a8914ab,demersal,Advice,NA,NA,F,SSB,84,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2017,rng.27.1245a8914ab,demersal,Advice,NA,NA,F,SSB,125,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2018,rng.27.1245a8914ab,demersal,Advice,NA,NA,F,SSB,240,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1988,usk.27.1-2,demersal,Advice,NA,NA,F,B_index,14403,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1989,usk.27.1-2,demersal,Advice,NA,NA,F,B_index,19350,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1990,usk.27.1-2,demersal,Advice,NA,NA,F,B_index,18628,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1991,usk.27.1-2,demersal,Advice,NA,NA,F,B_index,18306,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1992,usk.27.1-2,demersal,Advice,NA,NA,F,B_index,15974,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1993,usk.27.1-2,demersal,Advice,NA,NA,F,B_index,17585,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1994,usk.27.1-2,demersal,Advice,NA,NA,F,B_index,12566,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1995,usk.27.1-2,demersal,Advice,NA,NA,F,B_index,11617,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1996,usk.27.1-2,demersal,Advice,NA,NA,F,B_index,12795,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1997,usk.27.1-2,demersal,Advice,NA,NA,F,B_index,9426,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1998,usk.27.1-2,demersal,Advice,NA,NA,F,B_index,15353,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1999,usk.27.1-2,demersal,Advice,NA,NA,F,B_index,17183,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2000,usk.27.1-2,demersal,Advice,NA,77.55,F,B_index,14008,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2001,usk.27.1-2,demersal,Advice,NA,64.27,F,B_index,12061,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2002,usk.27.1-2,demersal,Advice,NA,56.73,F,B_index,12191,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2003,usk.27.1-2,demersal,Advice,NA,53.01,F,B_index,7940,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2004,usk.27.1-2,demersal,Advice,NA,62.87,F,B_index,7426,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2005,usk.27.1-2,demersal,Advice,NA,81.5,F,B_index,7050,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2006,usk.27.1-2,demersal,Advice,NA,89.44,F,B_index,9988,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2007,usk.27.1-2,demersal,Advice,NA,83.72,F,B_index,10744,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2008,usk.27.1-2,demersal,Advice,NA,86.74,F,B_index,11882,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2009,usk.27.1-2,demersal,Advice,NA,93.49,F,B_index,9657,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2010,usk.27.1-2,demersal,Advice,NA,108.18,F,B_index,12658,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2011,usk.27.1-2,demersal,Advice,NA,95.97,F,B_index,11646,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2012,usk.27.1-2,demersal,Advice,NA,93.88,F,B_index,10394,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2013,usk.27.1-2,demersal,Advice,NA,102.38,F,B_index,8662,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2014,usk.27.1-2,demersal,Advice,NA,106.43,F,B_index,8744,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2015,usk.27.1-2,demersal,Advice,NA,111.32,F,B_index,10091,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2016,usk.27.1-2,demersal,Advice,NA,112.18,F,B_index,11660,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2017,usk.27.1-2,demersal,Advice,NA,120.71,F,B_index,7926,NA,NA,2019,NA,NA,NA,NA,NA,NA
+2018,usk.27.1-2,demersal,Advice,NA,111.66,F,B_index,10487,NA,NA,2019,NA,NA,NA,NA,NA,NA
+1981,whb.27.1-91214,pelagic,Advice,0.257,2846619,F,SSB,922980,922980,NA,2019,0.88,0.53,2250000,1500000,0.32,2250000
+1982,whb.27.1-91214,pelagic,Advice,0.219,2304898,F,SSB,550643,550643,NA,2019,0.88,0.53,2250000,1500000,0.32,2250000
+1983,whb.27.1-91214,pelagic,Advice,0.251,1858580,F,SSB,553344,553344,NA,2019,0.88,0.53,2250000,1500000,0.32,2250000
+1984,whb.27.1-91214,pelagic,Advice,0.317,1744170,F,SSB,615569,615569,NA,2019,0.88,0.53,2250000,1500000,0.32,2250000
+1985,whb.27.1-91214,pelagic,Advice,0.356,2078674,F,SSB,678214,678214,NA,2019,0.88,0.53,2250000,1500000,0.32,2250000
+1986,whb.27.1-91214,pelagic,Advice,0.438,2263816,F,SSB,847145,847145,NA,2019,0.88,0.53,2250000,1500000,0.32,2250000
+1987,whb.27.1-91214,pelagic,Advice,0.421,1926457,F,SSB,654718,654718,NA,2019,0.88,0.53,2250000,1500000,0.32,2250000
+1988,whb.27.1-91214,pelagic,Advice,0.443,1635851,F,SSB,552264,552264,NA,2019,0.88,0.53,2250000,1500000,0.32,2250000
+1989,whb.27.1-91214,pelagic,Advice,0.531,1546980,F,SSB,630316,630316,NA,2019,0.88,0.53,2250000,1500000,0.32,2250000
+1990,whb.27.1-91214,pelagic,Advice,0.519,1360972,F,SSB,558128,558128,NA,2019,0.88,0.53,2250000,1500000,0.32,2250000
+1991,whb.27.1-91214,pelagic,Advice,0.29,1779798,F,SSB,364008,364008,NA,2019,0.88,0.53,2250000,1500000,0.32,2250000
+1992,whb.27.1-91214,pelagic,Advice,0.232,2458820,F,SSB,474592,474592,NA,2019,0.88,0.53,2250000,1500000,0.32,2250000
+1993,whb.27.1-91214,pelagic,Advice,0.205,2536460,F,SSB,475198,475198,NA,2019,0.88,0.53,2250000,1500000,0.32,2250000
+1994,whb.27.1-91214,pelagic,Advice,0.186,2529314,F,SSB,457696,457696,NA,2019,0.88,0.53,2250000,1500000,0.32,2250000
+1995,whb.27.1-91214,pelagic,Advice,0.24,2309839,F,SSB,505176,505176,NA,2019,0.88,0.53,2250000,1500000,0.32,2250000
+1996,whb.27.1-91214,pelagic,Advice,0.296,2208021,F,SSB,621104,621104,NA,2019,0.88,0.53,2250000,1500000,0.32,2250000
+1997,whb.27.1-91214,pelagic,Advice,0.3,2457528,F,SSB,639681,639681,NA,2019,0.88,0.53,2250000,1500000,0.32,2250000
+1998,whb.27.1-91214,pelagic,Advice,0.403,3643947,F,SSB,1131955,1131955,NA,2019,0.88,0.53,2250000,1500000,0.32,2250000
+1999,whb.27.1-91214,pelagic,Advice,0.39,4406105,F,SSB,1261033,1261033,NA,2019,0.88,0.53,2250000,1500000,0.32,2250000
+2000,whb.27.1-91214,pelagic,Advice,0.479,4222027,F,SSB,1412449,1412449,NA,2019,0.88,0.53,2250000,1500000,0.32,2250000
+2001,whb.27.1-91214,pelagic,Advice,0.463,4552790,F,SSB,1771805,1771805,NA,2019,0.88,0.53,2250000,1500000,0.32,2250000
+2002,whb.27.1-91214,pelagic,Advice,0.472,5408962,F,SSB,1556955,1556955,NA,2019,0.88,0.53,2250000,1500000,0.32,2250000
+2003,whb.27.1-91214,pelagic,Advice,0.5,6867451,F,SSB,2365319,2365319,NA,2019,0.88,0.53,2250000,1500000,0.32,2250000
+2004,whb.27.1-91214,pelagic,Advice,0.537,6783789,F,SSB,2400795,2400795,NA,2019,0.88,0.53,2250000,1500000,0.32,2250000
+2005,whb.27.1-91214,pelagic,Advice,0.504,6084043,F,SSB,2018344,2018344,NA,2019,0.88,0.53,2250000,1500000,0.32,2250000
+2006,whb.27.1-91214,pelagic,Advice,0.459,5934656,F,SSB,1956239,1956239,NA,2019,0.88,0.53,2250000,1500000,0.32,2250000
+2007,whb.27.1-91214,pelagic,Advice,0.458,4706700,F,SSB,1612269,1612269,NA,2019,0.88,0.53,2250000,1500000,0.32,2250000
+2008,whb.27.1-91214,pelagic,Advice,0.403,3619929,F,SSB,1251851,1251851,NA,2019,0.88,0.53,2250000,1500000,0.32,2250000
+2009,whb.27.1-91214,pelagic,Advice,0.258,2779726,F,SSB,634978,634978,NA,2019,0.88,0.53,2250000,1500000,0.32,2250000
+2010,whb.27.1-91214,pelagic,Advice,0.178,2713336,F,SSB,539539,539539,NA,2019,0.88,0.53,2250000,1500000,0.32,2250000
+2011,whb.27.1-91214,pelagic,Advice,0.052,2747257,F,SSB,103771,103771,NA,2019,0.88,0.53,2250000,1500000,0.32,2250000
+2012,whb.27.1-91214,pelagic,Advice,0.11,3477167,F,SSB,375692,375692,NA,2019,0.88,0.53,2250000,1500000,0.32,2250000
+2013,whb.27.1-91214,pelagic,Advice,0.193,3812909,F,SSB,613863,613863,NA,2019,0.88,0.53,2250000,1500000,0.32,2250000
+2014,whb.27.1-91214,pelagic,Advice,0.376,4050639,F,SSB,1147650,1147650,NA,2019,0.88,0.53,2250000,1500000,0.32,2250000
+2015,whb.27.1-91214,pelagic,Advice,0.488,4229586,F,SSB,1390656,1390656,NA,2019,0.88,0.53,2250000,1500000,0.32,2250000
+2016,whb.27.1-91214,pelagic,Advice,0.426,5017692,F,SSB,1180786,1180786,NA,2019,0.88,0.53,2250000,1500000,0.32,2250000
+2017,whb.27.1-91214,pelagic,Advice,0.397,6295525,F,SSB,1555069,1555069,NA,2019,0.88,0.53,2250000,1500000,0.32,2250000
+2018,whb.27.1-91214,pelagic,Advice,0.394,6315041,F,SSB,1709856,1709856,NA,2019,0.88,0.53,2250000,1500000,0.32,2250000
+2019,whb.27.1-91214,pelagic,Advice,0.335,5576649,F,SSB,1444301,1444301,NA,2019,0.88,0.53,2250000,1500000,0.32,2250000
+2020,whb.27.1-91214,pelagic,Advice,NA,4325386,F,SSB,NA,NA,NA,2019,0.88,0.53,2250000,1500000,0.32,2250000
