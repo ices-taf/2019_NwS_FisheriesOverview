@@ -1,0 +1,17 @@
+---
+title: 2019 Norwegian Sea Fisheries Overview
+output: github_document
+---
+
+```{r getPlots, results = "asis"}
+plots <- dir(path = "report", pattern = "*.png")
+
+string <- "![report/%s](report/%s)"
+
+
+cat(sprintf(string, plots[1], plots[1]))
+```
+
+
+
+
