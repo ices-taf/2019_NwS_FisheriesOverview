@@ -17,6 +17,9 @@ trends <- read.taf("model/trends.csv")
 catch_current <- read.taf("model/catch_current.csv")
 catch_trends <- read.taf("model/catch_trends.csv")
 
+# read stock information
+sid <- read.taf("bootstrap/data/ICES_StockInformation/sid.csv")
+
 #error with number of columns, to check
 clean_status <- read.taf("data/clean_status.csv")
 
@@ -160,15 +163,13 @@ ggplot2::ggsave("2019_NwS_EO_GuildTrends_short_noMEAN.png", path = "report/", wi
 dat <- plot_guild_trends(guild, cap_year = 2019, cap_month = "October",return_data = TRUE)
 write.taf(dat, file ="2019_NwS_EO_GuildTrends.csv", dir = "report" )
 
-warning("no varialble called sid")
-if (FALSE) {
-  dat <- trends[,1:2]
-  dat <- unique(dat)
-  dat <- dat %>% dplyr::filter(StockKeyLabel != "MEAN")
-  dat2 <- sid %>% select(c(StockKeyLabel, StockKeyDescription))
-  dat <- left_join(dat,dat2)
-  write.taf(dat, file ="2019_NwS_EO_SpeciesGuild_list.csv", dir = "report" )
-}
+
+dat <- trends[,1:2]
+dat <- unique(dat)
+dat <- dat %>% dplyr::filter(StockKeyLabel != "MEAN")
+dat2 <- sid %>% select(c(StockKeyLabel, StockKeyDescription))
+dat <- left_join(dat,dat2)
+write.taf(dat, file ="2019_NwS_EO_SpeciesGuild_list.csv", dir = "report", quote = TRUE)
 
 #~~~~~~~~~~~~~~~#
 # B.Current catches
@@ -362,7 +363,8 @@ effort_dat <-
                        LTU = "Lithuania",
                        NLD = "Netherlands",
                        DNK = "Denmark")
-    )
+    ) %>%
+  filter(above_15m)
 
 plot_vms(effort_dat, metric = "country", type = "effort", cap_year= 2019, cap_month= "October", line_count= 6)
 ggplot2::ggsave("2019_NwS_FO_Figure3.png", path = "report/", width = 178, height = 130, units = "mm", dpi = 300)
@@ -386,7 +388,7 @@ landings_dat <-
                                    'NA' = "Undefined"))
 
 plot_vms(landings_dat, metric = "gear_category", type = "landings", cap_year= 2019, cap_month= "October", line_count= 4)
-landings_dat2 <- landings_dat %>% filter(year < 2018)
+landings_dat2 <- landings_dat %>% filter(year < 2018 & above_15m)
 plot_vms(landings_dat2, metric = "gear_category", type = "landings", cap_year= 2019, cap_month= "October", line_count= 4)
 ggplot2::ggsave("2019_NwS_FO_Figure6.png", path = "report/", width = 178, height = 130, units = "mm", dpi = 300)
 
