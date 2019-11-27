@@ -354,7 +354,7 @@ ggplot2::ggsave("2019_NwS_FO_Figure17b.png", path = "report", width = 170, heigh
 
 ## Effort by country
 plot_vms(effort_dat, metric = "country", type = "effort", cap_year= 2019, cap_month= "October", line_count= 6)
-effort_dat$kw_fishing_hours <- effort_dat$kw_fishing_hours/1000
+# effort_dat$kw_fishing_hours <- effort_dat$kw_fishing_hours/1000
 effort_dat <- effort_dat %>% dplyr::mutate(country = dplyr::recode(country,
                                                                    NO = "Norway",
                                                                    ESP = "Spain",
@@ -364,15 +364,22 @@ effort_dat <- effort_dat %>% dplyr::mutate(country = dplyr::recode(country,
                                                                    LTU = "Lithuania",
                                                                    NLD= "Netherlands",
                                                                    DNK = "Denmark"))
-plot_vms(effort_dat, metric = "country", type = "effort", cap_year= 2019, cap_month= "October", line_count= 6)
+effort_dat2 <- effort_dat %>% filter (year > 2013)
+plot_vms(effort_dat2, metric = "country", type = "effort", cap_year= 2019, cap_month= "October", line_count= 5)
 ggplot2::ggsave("2019_NwS_FO_Figure3.png", path = "report/", width = 178, height = 130, units = "mm", dpi = 300)
+
+# effort_dat2 <- effort_dat %>% filter(year < 2018,year > 2013)
+# plot_vms(effort_dat2, metric = "country", type = "effort", cap_year= 2019, cap_month= "October", line_count= 6)
+# ggplot2::ggsave("2019_NwS_FO_Figure3_from2014.png", path = "report/", width = 178, height = 130, units = "mm", dpi = 300)
+
+# ggplot2::ggsave("2019_NwS_FO_Figure3.png", path = "report/", width = 178, height = 130, units = "mm", dpi = 300)
 
 dat <- plot_vms(effort_dat, metric = "country", type = "effort", cap_year= 2019, cap_month= "October", line_count= 6, return_data = TRUE)
 write.taf(dat, file= "2019_NwS_FO_Figure3.csv", dir = "report")
 
 ## Landings by gear
 plot_vms(landings_dat, metric = "gear_category", type = "landings", cap_year= 2019, cap_month= "October", line_count= 4)
-landings_dat$totweight <- landings_dat$totweight/1000000
+landings_dat$totweight <- landings_dat$totweight/1000
 landings_dat <- landings_dat %>% dplyr::mutate(gear_category = 
                                                        dplyr::recode(gear_category,
                                                                      Static = "Static gears",
@@ -383,17 +390,17 @@ landings_dat <- landings_dat %>% dplyr::mutate(gear_category =
                                                                      Beam = "Beam trawls",
                                                                      'NA' = "Undefined"))
 
-plot_vms(landings_dat, metric = "gear_category", type = "landings", cap_year= 2019, cap_month= "October", line_count= 4)
-landings_dat2 <- landings_dat %>% filter(year < 2018)
+landings_dat2 <- landings_dat %>% filter(year < 2018, year > 2013)
 plot_vms(landings_dat2, metric = "gear_category", type = "landings", cap_year= 2019, cap_month= "October", line_count= 4)
 ggplot2::ggsave("2019_NwS_FO_Figure6.png", path = "report/", width = 178, height = 130, units = "mm", dpi = 300)
+
 
 dat <- plot_vms(landings_dat, metric = "gear_category", type = "landings", cap_year= 2019, cap_month= "October", line_count= 4, return_data = TRUE)
 write.taf(dat, file= "2019_NwS_FO_Figure6.csv", dir = "report")
 
 ## Effort by gear
-plot_vms(effort_dat, metric = "gear_category", type = "effort", cap_year= 2019, cap_month= "October", line_count= 6)
-effort_dat <- effort_dat %>% dplyr::mutate(gear_category = 
+plot_vms(effort_dat2, metric = "gear_category", type = "effort", cap_year= 2019, cap_month= "October", line_count= 6)
+effort_dat2 <- effort_dat2 %>% dplyr::mutate(gear_category = 
                                                    dplyr::recode(gear_category,
                                                                  Static = "Static gears",
                                                                  Midwater = "Pelagic trawls and seines",
@@ -403,10 +410,11 @@ effort_dat <- effort_dat %>% dplyr::mutate(gear_category =
                                                                  Beam = "Beam trawls",
                                                                  'NA' = "Undefined"))
 
-effort_dat2 <- effort_dat %>% filter(year < 2018)
-plot_vms(effort_dat2, metric = "gear_category", type = "effort", cap_year= 2019, cap_month= "October", line_count= 6)
-
+plot_vms(effort_dat2, metric = "gear_category", type = "effort", cap_year= 2019, cap_month= "October", line_count= 4)
+effort_dat2 <- effort_dat2 %>% filter(gear_category != "Undefined")
+plot_vms(effort_dat2, metric = "gear_category", type = "effort", cap_year= 2019, cap_month= "October", line_count= 4)
 ggplot2::ggsave("2019_NwS_FO_Figure8.png", path = "report/", width = 178, height = 130, units = "mm", dpi = 300)
+
 
 dat <-plot_vms(effort_dat, metric = "gear_category", type = "effort", cap_year= 2019, cap_month= "October", line_count= 6, return_data = TRUE)
 write.taf(dat, file= "2019_NwS_FO_Figure8.csv", dir = "report")
