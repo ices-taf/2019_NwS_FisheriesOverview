@@ -332,7 +332,19 @@ effort <-
             Midwater = "Pelagic trawls and seines",
             Otter = "Bottom otter trawls",
             `Demersal seine` = "Bottom seines")
-        )
+        ) %>%
+      dplyr::filter(!is.na(mw_fishinghours))
+
+# write layer
+write_layer <- function(dat, fname) {
+  sf::write_sf(dat, paste0("report/", fname, ".shp"))
+  files <- dir("report", pattern = fname, full = TRUE)
+  files <- files[tools::file_ext(files) != "png"]
+  zip(paste0("report/", fname, ".zip"), files, extras = "-j")
+  file.remove(files)
+}
+write_layer(effort, "2019_NwS_FO_Figure9")
+
 
 plot_effort_map(effort, ecoregion) +
   ggplot2::ggtitle("Average MW Fishing hours 2014-2017")
@@ -342,6 +354,9 @@ ggplot2::ggsave("2019_NwS_FO_Figure9.png", path = "report", width = 170, height 
 #~~~~~~~~~~~~~~~#
 # B. Swept area map
 #~~~~~~~~~~~~~~~#
+
+# write layer
+write_layer(sar, "2019_NwS_FO_Figure17")
 
 plot_sar_map(sar, ecoregion, what = "surface") +
   ggtitle("Average surface swept area ratio 2014-2017")
